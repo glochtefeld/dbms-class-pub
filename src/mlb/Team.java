@@ -118,6 +118,9 @@ public class Team {
     @Override
     public String toString() {
         // TODO: Implement this method
-        throw new UnsupportedOperationException();
+        return this.getName() + "\n" +
+                this.getConference() + " | " + this.getDivision() + "\n" +
+                this.getAddress().toString() + "\n" +
+                "Roster size: " + this.getRoster().size();
     }
 }
