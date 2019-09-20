@@ -3,18 +3,25 @@ package mlb;
  * @author Roman Yasinovskyy
  */
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
+import com.fasterxml.jackson.annotation.JsonProperty;
 import java.util.ArrayList;
 @JsonIgnoreProperties(ignoreUnknown = true)
 
 public class Team {
     // TODO: Use JsonProperty correctly
+    @JsonProperty("team_id")
     private final String id;
+    @JsonProperty("abbreviation")
     private final String abbreviation;
+    @JsonProperty("full_name")
     private final String name;
+    @JsonProperty("conference")
     private final String conference;
+    @JsonProperty("division")
     private final String division;
     private ArrayList<Player> roster;
     private Address address;
+    
     private byte[] logo;
     /**
      * Default class constructor.
@@ -119,7 +126,8 @@ public class Team {
     public String toString() {
         // TODO: Implement this method
         return this.getName() + "\n" +
-                this.getConference() + " | " + this.getDivision() + "\n" +
+                this.getConference() + " | " + 
+                this.getDivision() + "\n" +
                 this.getAddress().toString() + "\n" +
                 "Roster size: " + this.getRoster().size();
     }
