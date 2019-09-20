@@ -22,6 +22,8 @@ import java.util.ArrayList;
 import java.util.Scanner;
 import java.util.logging.Level;
 import java.util.logging.Logger;
+import java.util.regex.Pattern;
+import java.util.List;
 
 public class DatabaseWriter {
     public final String SQLITEDBPATH = "jdbc:sqlite:data/mlb/";
@@ -59,7 +61,19 @@ public class DatabaseWriter {
             Scanner fs = new Scanner(new File(filename));
             while (fs.hasNextLine()) {
                 // TODO: Parse each line into an object of type Address and add it to the ArrayList
-                fs.nextLine();
+                String input = fs.nextLine();
+                String[] splitLine = input.split("\\t");
+                // data is stored: Name Park Address City State Zip Phone Web
+                Address newAddr = new Address(
+                        splitLine[0],
+                        splitLine[1],
+                        splitLine[2],
+                        splitLine[3],
+                        splitLine[4],
+                        splitLine[5],
+                        splitLine[6],
+                        splitLine[7]);
+                addressBook.add(newAddr);
             }
         } catch (IOException ex) {
             Logger.getLogger(DatabaseReader.class.getName()).log(Level.SEVERE, null, ex);
@@ -69,10 +83,29 @@ public class DatabaseWriter {
     }
     public ArrayList<Player> readPlayerFromCsv(String filename) {
         ArrayList<Player> roster = new ArrayList<>();
-        CSVReader reader = null;
-        // TODO: Read the CSV file, create an object of type Player from each line and add it to the ArrayList
         
+        // TODO: Read the CSV file, create an object of type Player from each line and add it to the ArrayList
+        try {
+            CSVReader reader = new CSVReader(new FileReader(filename));
+            List<String[]> allLines = reader.readAll();
+            for (int i =1;i<allLines.size();i++) {
+                String[] data = allLines.get(i);
+                // relevant parts of csv:
+                //   mlb_id, mlb_name, mlb_pos, mlb_team
+                //   in positions 0,1,3,2
+                Player player = new Player(
+                        data[0],
+                        data[1],
+                        data[3],
+                        data[2]);
+                roster.add(player);
+            }
+        }
+        catch (IOException ex) {
+                Logger.getLogger(DatabaseReader.class.getName()).log(Level.SEVERE,null,ex);
+                }
         return roster;
+        
     }
     /**
      * Create tables cities and teams
@@ -148,10 +181,18 @@ public class DatabaseWriter {
     public void writeTeamTable(String db_filename, ArrayList<Team> league) throws SQLException {
         Connection db_connection = DriverManager.getConnection(SQLITEDBPATH + db_filename);
         // TODO: Write an SQL statement to insert a new team into a table
-        String sql = "";
+        String sql = "INSERT INTO team "
+                + "(id, abbr, name, conference, division) "
+                + "VALUES "
+                + "(?,?,?,?,?)";
         for (Team team: league) {
             PreparedStatement statement_prepared = db_connection.prepareStatement(sql);
             // TODO: match parameters of the SQL statement and team id, abbreviation, name, conference, division, and logo
+            statement_prepared.setString(1,team.getId());
+            statement_prepared.setString(2,team.getAbbreviation());
+            statement_prepared.setString(3,team.getName());
+            statement_prepared.setString(4,team.getConference());
+            statement_prepared.setString(5,team.getDivision());
             statement_prepared.executeUpdate();
         }
         
@@ -166,10 +207,21 @@ public class DatabaseWriter {
         Connection db_connection = DriverManager.getConnection(SQLITEDBPATH + db_filename);
         for (Address address: addressBook) {
             // TODO: Write an SQL statement to insert a new address into a table
-            String sql = "";
+            String sql = "INSERT INTO address "
+                    + "(team, site, street, city, state, zip, phone, url) "
+                    + "VALUES "
+                    + "(?, ?, ?, ?, ?, ?, ?, ?);";
             PreparedStatement statement_prepared = db_connection.prepareStatement(sql);
             // TODO: match parameters of the SQL statement and address site, street, city, state, zip, phone, and url
-            statement_prepared.executeUpdate();
+            statement_prepared.setString(1, address.getTeam());
+            statement_prepared.setString(2, address.getSite());
+            statement_prepared.setString(3, address.getStreet());
+            statement_prepared.setString(4, address.getCity());
+            statement_prepared.setString(5, address.getState());
+            statement_prepared.setString(6, address.getZip());
+            statement_prepared.setString(7, address.getPhone());
+            statement_prepared.setString(8, address.getUrl());
+            statement_prepared.executeUpdate();    
         }
         
         db_connection.close();
@@ -183,9 +235,16 @@ public class DatabaseWriter {
         Connection db_connection = DriverManager.getConnection(SQLITEDBPATH + db_filename);
         for (Player player: roster) {
             // TODO: Write an SQL statement to insert a new player into a table
-            String sql = "";
+            String sql = "INSERT INTO player "
+                    + "(id, name, team, position)"
+                    + "VALUES "
+                    + "(?,?,?,?);";
             PreparedStatement statement_prepared = db_connection.prepareStatement(sql);
             // TODO: match parameters of the SQL statement and player id, name, position
+            statement_prepared.setString(1, player.getId());
+            statement_prepared.setString(2, player.getName());
+            statement_prepared.setString(3, player.getTeam());
+            statement_prepared.setString(4, player.getPosition());
             statement_prepared.executeUpdate();
         }
         

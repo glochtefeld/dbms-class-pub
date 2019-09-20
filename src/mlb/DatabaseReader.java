@@ -71,9 +71,12 @@ public class DatabaseReader {
         try {
             stat = this.db_connection.createStatement();
             // TODO: Write an SQL statement to retrieve a teams from a specific division
-            String sql = "";
+            String sql = String.format("SELECT name FROM team WHERE division=%s",division);
             results = stat.executeQuery(sql);
             // TODO: Add all 5 teams to the ArrayList teams
+            while (results.next()) {
+                teams.add(results.getString("name"));
+            }
             results.close();
         } catch (SQLException ex) {
             Logger.getLogger(DatabaseReader.class.getName()).log(Level.SEVERE, null, ex);
@@ -88,6 +91,7 @@ public class DatabaseReader {
     public Team getTeamInfo(String teamName) {
         Team team = null;
         // TODO: Retrieve team info (roster, address, and logo) from the database
+        
         return team;
     }
 }
