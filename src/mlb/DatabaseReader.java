@@ -106,14 +106,14 @@ public class DatabaseReader {
         try {
             statement = this.db_connection.createStatement();
             String sql = String.format("SELECT "
-                    + "team.id AS TeamID, team.*, player.id as PlayerID, player.*, address.* "
+                    + "team.id AS TeamID, team.*, player.id AS PlayerID, player.name AS PlayerName, player.*, address.* "
                     + "FROM team "
                     + "INNER JOIN player ON team.name = player.team "
                     + "INNER JOIN address ON team.name = address.team "
                     + "WHERE team.name = '%s'",teamName);
             results = statement.executeQuery(sql);
             
-            Logger.getLogger(DatabaseReader.class.getName()).log(Level.INFO,"Team exists");
+            //Logger.getLogger(DatabaseReader.class.getName()).log(Level.INFO,"Team exists");
             team = new Team(results.getString("TeamID"),
                 results.getString("abbr"),
                 teamName,
@@ -121,7 +121,7 @@ public class DatabaseReader {
                 results.getString("division"));
 
             team.setLogo(results.getBytes("logo"));
-            Logger.getLogger(DatabaseReader.class.getName()).log(Level.INFO, "Address exists");
+            //Logger.getLogger(DatabaseReader.class.getName()).log(Level.INFO, "Address exists");
             address = new Address(
                     results.getString("team"),
                     results.getString("site"),
@@ -136,7 +136,7 @@ public class DatabaseReader {
                 roster.add(
                         new Player(
                                 results.getString("PlayerID"),
-                                results.getString("name"),
+                                results.getString("PlayerName"),
                                 results.getString("team"),
                                 results.getString("position")
                         )
