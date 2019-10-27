@@ -31,3 +31,4 @@ nbdist/
 
 # VS Code config
 .vscode/
+/project_1/nbproject/private/
