@@ -1,0 +1,1050 @@
+
+		
+<!DOCTYPE html>
+<html  class="no-js" id="luther-edu" lang="en">
+<head>
+<script type="text/javascript" src="/jquery/jquery-1.11.2.min.js"></script>
+<title>Mathematics | 2019-20 Academic Catalog | Luther College</title>
+<link rel="stylesheet" type="text/css" href="/reason/css/twitter/twitter.css" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link rel="shortcut icon" href="/reason/local/favicon.ico" />
+<!--[if lt IE 9]><script type="text/javascript" src="/reason/js/respond/respond.min.js"></script><![endif]-->
+<!--[if lt IE 9]><script type="text/javascript" src="/reason/js/ie8_fix_maxwidth.js"></script><![endif]-->
+<meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0" />
+<script type="text/javascript" src="/reason/js/hoverintent.minified.js"></script>
+<script type="text/javascript" src="/reason_package/FancyBox/source/jquery.fancybox.js"></script>
+<link rel="stylesheet" type="text/css" href="/reason_package/FancyBox/source/jquery.fancybox.css" />
+<script type="text/javascript" src="/reason_package/FancyBox/source/helpers/jquery.fancybox-thumbs.js"></script>
+<link rel="stylesheet" type="text/css" href="/reason_package/FancyBox/source/helpers/jquery.fancybox-thumbs.css" />
+<script type="text/javascript" src="/reason/local/luther_2014/javascripts/luther-image-galleries.js"></script>
+<link rel="stylesheet" type="text/css" href="/jquery/css/smoothness/jquery-ui.min.css" />
+<link rel="stylesheet" type="text/css" href="/reason/modules/courses/subject_page.css" />
+<script type="text/javascript" src="/jquery/jquery-ui-1.11.3.min.js"></script>
+<script type="text/javascript" src="/reason/modules/courses/subject_page.js"></script>
+<script type="text/javascript" src="/reason/js/jquery.reasonAjax.js"></script>
+<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700" />
+<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,300,400,400italic,600,600italic,700,700italic,800,800italic" />
+<link rel="stylesheet" type="text/css" href="/reason/local/luther_2014/stylesheets/base.css" />
+<script type="text/javascript" src="/reason/local/luther_2014/javascripts/vendor/modernizr.js"></script>
+<script type="text/javascript" src="/reason/local/luther_2014/javascripts/luther-gcse.js"></script>
+<meta name="og:title" content="Mathematics" />
+<meta name="og:type" content="university" />
+<meta name="og:url" content="https://www.luther.edu/catalog/curriculum/mathematics/" />
+<meta name="og:site_name" content="Luther College" />
+<meta name="og:image" content="https://www.luther.edu/reason/images/756136.jpg" />
+<meta name="og:image" content="https://www.luther.edu/reason/images/686804.jpg" />
+<meta name="og:street-address" content="700 College Drive" />
+<meta name="og:locality" content="Decorah" />
+<meta name="og:region" content="Iowa" />
+<meta name="og:country" content="USA" />
+<meta name="og:email" content="www@luther.edu" />
+<meta name="og:phone_number" content="563-387-2000" />
+<!--[if lt IE 9]><link rel='stylesheet' type='text/css' href='/reason/local/luther_2014/stylesheets/ie.css' /><![endif]-->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+	ga('create', 'UA-129020-8', 'auto', {'allowLinker': true});
+	ga('require', 'linker');
+	ga('linker:autoLink', ['hiretouch.com', 'lutherbookshop.com'] );
+	ga('send', 'pageview');
+</script>
+<script async="async" src="https://connect.luther.edu/ping">/**/</script>
+<!-- Google Tag Manager -->
+<script>
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-KLWCQL');
+</script>
+<!-- End Google Tag Manager -->
+</head>
+<body class="body course-catalog course_catalog_page">
+<!-- Google Tag Manager (noscript) -->
+<noscript>
+<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KLWCQL" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+<!-- End Google Tag Manager (noscript) -->
+<div class="off-canvas-wrap">
+<div class="inner-wrap"><div id="wrapper">
+<div id="wrapper-col">
+
+
+
+
+			<header id="global-banner" role="banner">
+			
+				<hgroup>
+					<h1><a href="/"><img src="/reason/local/luther_2014/images/logo_2x.png" alt="Luther College"></a></h1>
+<h2 class="tagline">An Iowa College in the Liberal Arts Tradition</h2>
+				</hgroup>
+				
+				<div id="nav-toggles" role="navigation">
+					<ul>
+						<li>
+							<a class="toggle left-off-canvas-toggle" href="#global-nav">
+								<i class="fa fa-bars"></i>
+								<span class="screenreader">Global Navigation</span>
+							</a>
+						</li>
+						<li>
+							<a class="toggle search-toggle" href="#search-nav">
+								<i class="fa fa-search"></i>
+								<i class="fa fa-times"></i>
+								<span class="screenreader">Go to Search</span>
+							</a>
+						</li>
+						<li>
+							<!-- <a class="toggle audience-toggle" href="#audience-nav"> -->
+							<!-- <a href="#audience-nav" data-dropdown="audience-nav" data-options="is_hover:true; hover_timeout:5000"> -->
+							<a href="#" class="toggle audience-toggle" data-dropdown="audience-nav" data-options="is_hover:true; hover_timeout:5000">	
+								<span class="label">Info for</span>
+							</a>
+						</li>
+					</ul>
+				</div>
+			
+				<div id="search-nav" role="navigation">
+					<div class="search-wrap">
+						<gcse:searchbox-only></gcse:searchbox-only>
+					</div>
+					<ul class="search-related-links">
+						<li class="directory"><a href="/directory/">Directory</a></li>
+						<li class="offices"><a href="/contact/administrative">Offices</a></li>
+						<li class="index"><a href="/azindex/">A-Z Index</a></li>
+					</ul>
+				</div>
+			
+			</header>	
+			
+			
+
+<nav id="global-nav" class="left-off-canvas-menu" role="navigation">
+<h1 class="screenreader">Luther College Site Navigation</h1>
+<ul id="audience-nav" class="audiences f-dropdown" data-dropdown-content role="navigation">
+<li><a href="/alumni">Alumni &amp; Friends</a></li>
+<li><a href="/giving">Donors</a></li>
+<li><a href="/faculty-staff">Faculty &amp; Staff</a></li>
+<li><a href="/students">Students</a></li>
+<li><a href="/parents">Parents</a></li>
+</ul>
+<ul class="minisites">
+<li class="minisite admissions hasSidebar">
+
+
+<a href="/admissions/" class="minisite-name">Admission &amp; Aid</a>
+<div class="dropdown-wrap">
+<ul class="dropdown-nav">
+<li>
+<a href="/admissions/discover/" class="child">Discover Luther</a>
+<ul>
+<li><a href="/admissions/discover/value/" class="grandchild">Luther Value</a></li>
+<li><a href="/campus/tour/" class="grandchild">Online Campus Tour</a></li>
+<li><a href="/about/lutheran-college/" class="grandchild">Lutheran College</a></li>
+<li><a href="/admissions/discover/traditions/" class="grandchild">Luther Traditions</a></li>
+<li><a href="/admissions/discover/brochures/" class="grandchild">Brochures</a></li>
+</ul>
+</li>
+<li>
+<a href="/admissions/connect/" class="child">Connect with Us</a>
+<ul>
+<li><a href="https://connect.luther.edu/register/recruit-me" class="grandchild">Recruit Me</a></li>
+<li><a href="/admissions/connect/staff/" class="grandchild">Admissions Staff</a></li>
+<li><a href="/admissions/connect/tagboard/" class="grandchild">#LutherCollege</a></li>
+<li><a href="/admissions/student-blogs/" class="grandchild">Student Blogs</a></li>
+<li><a href="/inside-college-admissions/" class="grandchild">Inside College Admissions</a></li>
+<li><a href="/admissions/connect/high-school-counselors/" class="grandchild">For High School Counselors</a></li>
+<li><a href="/catalyze/" class="grandchild">Catalyze at Luther</a></li>
+</ul>
+</li>
+<li>
+<a href="/admissions/visit/" class="child">Plan a Visit</a>
+</li>
+<li>
+<a href="/admissions/apply/" class="child">Apply to Luther</a>
+<ul>
+<li><a href="/admissions/apply/how/" class="grandchild">How to Apply</a></li>
+<li><a href="/admissions/apply/requirements/" class="grandchild">Admissions Requirements</a></li>
+<li><a href="/admissions/international/" class="grandchild">International Students</a></li>
+<li><a href="/admissions/apply/transfer/" class="grandchild">Transfer Students</a></li>
+<li><a href="/admissions/apply/dates/" class="grandchild">Important Dates</a></li>
+</ul>
+</li>
+<li>
+<a href="/admissions/financial-aid/" class="child">Get Financial Aid</a>
+<ul>
+<li><a href="/admissions/financial-aid/scholarships/" class="grandchild">Scholarships and Awards</a></li>
+<li><a href="/admissions/financial-aid/tuition/" class="grandchild">Tuition and Fees</a></li>
+<li><a href="/admissions/financial-aid/net-price-calculator/" class="grandchild">Net Price Calculator</a></li>
+<li><a href="/admissions/financial-aid/how-to-apply/" class="grandchild">How to Apply for Aid</a></li>
+<li><a href="/admissions/financial-aid/need/" class="grandchild">Determining Financial Need</a></li>
+<li><a href="/admissions/financial-aid/understanding-your-award/" class="grandchild">Understanding Your Award</a></li>
+<li><a href="/admissions/financial-aid/grants/" class="grandchild">Grants</a></li>
+<li><a href="/work-study/" class="grandchild">Work-Study Opportunities</a></li>
+<li><a href="/admissions/financial-aid/loans/" class="grandchild">Loans</a></li>
+<li><a href="/admissions/financial-aid/veterans/" class="grandchild">VA Benefits</a></li>
+</ul>
+</li>
+<li>
+<a href="/admissions/accepted-students/" class="child">Accepted Students</a>
+<ul>
+<li><a href="/admissions/deposit/" class="grandchild">Pay Your Deposit</a></li>
+<li><a href="/registrar/students/transferring-credit/" class="grandchild">Transferring Credit</a></li>
+</ul>
+</li>
+<li>
+<a href="/admissions/diversity-ambassadors/" class="child">Diversity Ambassadors</a>
+</li>
+</ul>
+
+
+<div class="dropdown-content">
+
+
+<div class="callToActionBlurb">
+<div class="blurbs module_identifier-mcla-CallToActionBlurbModule-mloc-global_navigation_dropdown_content_admissions-mpar-3a39fab62b1616917473e004782b9817 module_api-standalone">
+<div class="blurb number1 uname_text_blurb_global_nav_admissions_buttons odd"><div class="blurbInner"><ul>
+<li><a class="cta-deposit gold" href="//www.luther.edu/admissions/deposit/">Pay Your Deposit</a></li>
+<li><a class="cta-apply green" href="https://connect.luther.edu/apply/">Apply Now</a></li>
+<li><a class="cta-visit blue" href="//www.luther.edu/admissions/visit/">Visit Luther</a></li>
+<li><a class="cta-tour red" href="//www.luther.edu/campus/tour/">Virtual Tour</a></li>
+</ul></div>
+</div>
+</div>
+</div>
+
+
+
+
+<div class="socialProfileSimpleLinks"><a href="https://www.facebook.com/luthercollege" target="_blank"><span class="label">Visit on Facebook</span></a> <a href="http://www.twitter.com/LutherAdmission" target="_blank"><span class="label">Visit on Twitter</span></a> <a href="http://www.instagram.com/lutheradmission" target="_blank"><span class="label">Instagram photos and videos</span></a> <a href="http://www.youtube.com/user/LutherCollegeMedia" target="_blank"><span class="label">YouTube videos</span></a></div>
+
+</div>
+</div>
+</li>
+<li class="minisite academics noSidebar">
+
+
+<a href="/academics/" class="minisite-name">Academics</a>
+<div class="dropdown-wrap">
+<ul class="dropdown-nav">
+<li>
+<a href="/academics/#majors" class="child">Majors, Minors, and Programs</a>
+</li>
+<li>
+<a href="/registrar/calendar/" class="child">Academic Calendar</a>
+</li>
+<li>
+<a href="/catalog/" class="child">College Catalog</a>
+</li>
+<li>
+<a href="/academics/programs-centers/" class="child">Distinctive Programs and Centers</a>
+<ul>
+<li><a href="/paideia/" class="grandchild">Paideia</a></li>
+<li><a href="/j-term/" class="grandchild">January Term</a></li>
+<li><a href="/academics/dean/scholars/" class="grandchild">Scholars Program</a></li>
+<li><a href="/global-learning/" class="grandchild">Center for Global Learning</a></li>
+<li><a href="https://www.luther.edu/sustainability/csc/" class="grandchild">Center for Sustainable Communities</a></li>
+<li><a href="https://www.luther.edu/public-life/" class="grandchild">Center for Ethics and Public Engagement</a></li>
+</ul>
+</li>
+<li>
+<a href="/academics/high-impact-learning/" class="child">High-Impact Learning</a>
+<ul>
+<li><a href="/academics/high-impact-learning/first-year/" class="grandchild">First-Year Seminars and Experiences</a></li>
+<li><a href="/academics/high-impact-learning/collaborative/" class="grandchild">Collaborative Assignments and Projects</a></li>
+<li><a href="/academics/high-impact-learning/research/" class="grandchild">Undergraduate Research</a></li>
+<li><a href="/academics/high-impact-learning/study-away/" class="grandchild">Study Away</a></li>
+<li><a href="/academics/high-impact-learning/internships/" class="grandchild">Internships</a></li>
+<li><a href="/academics/high-impact-learning/capstone-projects/" class="grandchild">Capstone Projects</a></li>
+</ul>
+</li>
+<li>
+<a href="/about/liberal-arts-college/" class="child">Liberal Arts Education</a>
+</li>
+<li>
+<a href="/academics/faculty-stories/" class="child">Faculty Stories</a>
+</li>
+<li>
+<a href="/academics/support/" class="child">Academic Support</a>
+</li>
+<li>
+<a href="/library/" class="child">Library</a>
+</li>
+<li>
+<a href="/diversity-at-luther" class="child">Diversity at Luther</a>
+</li>
+<li>
+<a href="/academics/dean/" class="child">Dean's Office</a>
+</li>
+<li>
+<a href="/registrar/" class="child">Registrar's Office</a>
+</li>
+</ul>
+
+
+</div>
+</li>
+<li class="minisite studentLife noSidebar">
+
+
+<a href="/studentlife/" class="minisite-name">Student Life</a>
+<div class="dropdown-wrap">
+<ul class="dropdown-nav">
+<li>
+<a href="/studentlife/resources/" class="child">Student Resources</a>
+<ul>
+<li><a href="/new-students/new-student-orientation/" class="grandchild">New Student Orientation</a></li>
+<li><a href="/studentlife/resources/leadership/" class="grandchild">Leadership Opportunities</a></li>
+<li><a href="/academic-integrity/" class="grandchild">Academic Integrity</a></li>
+<li><a href="/student-senate/" class="grandchild">Student Senate</a></li>
+<li><a href="/studentlife/resources/care-report/" class="grandchild">Care Report</a></li>
+<li><a href="/studentlife/resources/awards/" class="grandchild">Awards</a></li>
+<li><a href="/studentlife/resources/transportation-options/" class="grandchild">Transportation Options</a></li>
+</ul>
+</li>
+<li>
+<a href="/studentlife/residential/" class="child">Residential Campus</a>
+<ul>
+<li><a href="/dining/" class="grandchild">Dining Services</a></li>
+<li><a href="/reslife/" class="grandchild">Residence Life</a></li>
+<li><a href="/studentlife/activities/" class="grandchild">Student Activities Office</a></li>
+</ul>
+</li>
+<li>
+<a href="/studentlife/wellness-recreation/" class="child">Wellness and Recreation</a>
+<ul>
+<li><a href="/campus/tour/natural-areas/" class="grandchild">Natural Areas</a></li>
+<li><a href="/recservices/" class="grandchild">Recreational Services</a></li>
+<li><a href="/studentlife/wellness/" class="grandchild">Wellness Program</a></li>
+</ul>
+</li>
+<li>
+<a href="/studentlife/student-support/" class="child">Student-Centered Support</a>
+<ul>
+<li><a href="/career/" class="grandchild">Career Center</a></li>
+<li><a href="/ministries/" class="grandchild">College Ministries</a></li>
+<li><a href="/counseling/" class="grandchild">Counseling Service</a></li>
+<li><a href="/diversity/" class="grandchild">Center for Intercultural Engagement and Student Success</a></li>
+<li><a href="/healthservice/" class="grandchild">Health Service</a></li>
+<li><a href="/safety/" class="grandchild">Safety and Security</a></li>
+<li><a href="/studentlife/student-support/strengths/" class="grandchild">Strengths Based Leadership Program</a></li>
+</ul>
+</li>
+<li>
+<a href="/studentlife/office/" class="child">Student Life Office</a>
+<ul>
+<li><a href="/studentlife/office/offices/" class="grandchild">Offices</a></li>
+<li><a href="/safety/emergency/" class="grandchild">Emergency Procedures</a></li>
+<li><a href="/studentlife/office/crime/" class="grandchild">Crime Statistics</a></li>
+<li><a href="/studentlife/office/parents/" class="grandchild">Parents</a></li>
+<li><a href="/studentlife/office/staff/" class="grandchild">Staff</a></li>
+</ul>
+</li>
+<li>
+<a href="/studentlife/norse-creed/" class="child">The Norse Creed</a>
+</li>
+<li>
+<a href="/studentlife/student-handbook/" class="child">Student Handbook</a>
+</li>
+</ul>
+
+
+</div>
+</li>
+<li class="minisite athletics noSidebar">
+
+
+<a href="/sports/" class="minisite-name">Athletics</a>
+<div class="dropdown-wrap">
+<ul class="dropdown-nav">
+<li>
+<a href="/sports/men/" class="child">Men's Teams</a>
+<ul>
+<li><a href="/sports/men/baseball/" class="grandchild">Baseball</a></li>
+<li><a href="/sports/men/basketball/" class="grandchild">Basketball</a></li>
+<li><a href="/sports/men/cross-country/" class="grandchild">Cross Country</a></li>
+<li><a href="/sports/men/football/" class="grandchild">Football</a></li>
+<li><a href="/sports/men/golf/" class="grandchild">Golf</a></li>
+<li><a href="/sports/men/soccer/" class="grandchild">Soccer</a></li>
+<li><a href="/sports/men/swimming-diving/" class="grandchild">Swimming and Diving</a></li>
+<li><a href="/sports/men/tennis/" class="grandchild">Tennis</a></li>
+<li><a href="/sports/men/track-field/" class="grandchild">Track and Field</a></li>
+<li><a href="/sports/men/wrestling/" class="grandchild">Wrestling</a></li>
+</ul>
+</li>
+<li>
+<a href="/sports/women/" class="child">Women's Teams</a>
+<ul>
+<li><a href="/sports/women/basketball/" class="grandchild">Basketball</a></li>
+<li><a href="/sports/women/cross-country/" class="grandchild">Cross Country</a></li>
+<li><a href="/sports/women/golf/" class="grandchild">Golf</a></li>
+<li><a href="/sports/women/soccer/" class="grandchild">Soccer</a></li>
+<li><a href="/sports/women/softball/" class="grandchild">Softball</a></li>
+<li><a href="/sports/women/swimming-diving/" class="grandchild">Swimming and Diving</a></li>
+<li><a href="/sports/women/tennis/" class="grandchild">Tennis</a></li>
+<li><a href="/sports/women/track-field/" class="grandchild">Track and Field</a></li>
+<li><a href="/sports/women/volleyball/" class="grandchild">Volleyball</a></li>
+</ul>
+</li>
+<li>
+<a href="/sports/strength-conditioning/" class="child">Athletic Performance</a>
+</li>
+<li>
+<a href="/sports/training/" class="child">Athletic Training</a>
+<ul>
+<li><a href="/sports/training/staff/" class="grandchild">Athletic Training Staff</a></li>
+<li><a href="/sports/training/facilities/" class="grandchild">Athletic Training Facilities</a></li>
+<li><a href="/sports/training/forms/" class="grandchild">Athletic Training Forms</a></li>
+<li><a href="https://www.luther.edu/sports/assets/VisitingTeamLetter.pdf" class="grandchild">Visiting Team Information</a></li>
+</ul>
+</li>
+<li>
+<a href="/sports/media/" class="child">Live Streaming &amp; Media Gallery</a>
+<ul>
+<li><a href="http://portal.stretchinternet.com/luther/" class="grandchild">Streaming Schedule</a></li>
+<li><a href="/sports/media/gallery/" class="grandchild">Photo Gallery</a></li>
+</ul>
+</li>
+<li>
+<a href="/naa/" class="child">Norse Athletic Association</a>
+</li>
+<li>
+<a href="/sports/recruit/" class="child">Recruit Me</a>
+<ul>
+<li><a href="/sports/recruit/recruit/" class="grandchild">Team Recruitment Forms</a></li>
+<li><a href="/sports/recruit/tour/" class="grandchild">Facilities Virtual Tour</a></li>
+</ul>
+</li>
+<li>
+<a href="/sports/forms/" class="child">Student Athlete Forms</a>
+<ul>
+<li><a href="/sports/forms/checklist/" class="grandchild">First Day of Practice Checklist</a></li>
+<li><a href="/sports/forms/policies/" class="grandchild">NCAA Policies</a></li>
+<li><a href="/sports/forms/luther-policies/" class="grandchild">Luther Athletics Policies</a></li>
+<li><a href="/sports/forms/parents/" class="grandchild">Parent Information</a></li>
+<li><a href="/sports/forms/compliance/" class="grandchild">Compliance Forms</a></li>
+</ul>
+</li>
+<li>
+<a href="/sports/athletics/" class="child">Inside Luther Athletics</a>
+<ul>
+<li><a href="/sports/athletics/staff/" class="grandchild">Staff</a></li>
+<li><a href="/sports/athletics/visitors/" class="grandchild">Visitors Guide</a></li>
+<li><a href="/sports/athletics/facilities/" class="grandchild">Facilities</a></li>
+<li><a href="/sports/athletics/mission/" class="grandchild">Mission and Policies</a></li>
+<li><a href="/sports/athletics/history/" class="grandchild">History</a></li>
+<li><a href="/sports/athletics/hall-of-fame/" class="grandchild">Athletic Hall of Fame</a></li>
+<li><a href="/sports/athletics/meritoriusaward/" class="grandchild">Athletics Meritorious Service Award</a></li>
+<li><a href="/sports/athletics/postgrads/" class="grandchild">NCAA Postgraduate Scholars</a></li>
+<li><a href="/sports/athletics/cosidaacademic/" class="grandchild">CoSIDA Academic All-America</a></li>
+<li><a href="/sports/athletics/chi-alpha-sigma/" class="grandchild">Chi Alpha Sigma Honor Society</a></li>
+<li><a href="/sports/athletics/schedule/" class="grandchild">Complete Sports Schedule</a></li>
+<li><a href="/sports-information/" class="grandchild">Sports Information Office</a></li>
+</ul>
+</li>
+<li>
+<a href="/sports/camps/" class="child">Sports Camps</a>
+</li>
+</ul>
+
+
+</div>
+</li>
+<li class="minisite music noSidebar">
+
+
+<a href="/music/" class="minisite-name">Music</a>
+<div class="dropdown-wrap">
+<ul class="dropdown-nav">
+<li>
+<a href="/music/prospective-students/" class="child">Prospective Students</a>
+<ul>
+<li><a href="https://connect.luther.edu/register/music-recruit" class="grandchild">Recruit Me for Music</a></li>
+<li><a href="/music/prospective-students/auditions/" class="grandchild">Scholarship Auditions</a></li>
+<li><a href="/music/prospective-students/audition-dates/" class="grandchild">Scholarship Audition Dates</a></li>
+<li><a href="/music/prospective-students/hear-from-our-faculty/" class="grandchild">Hear from Our Faculty</a></li>
+<li><a href="/music/prospective-students/music-faq/" class="grandchild">Frequently Asked Questions</a></li>
+<li><a href="/music/prospective-students/scholarships/" class="grandchild">Music Scholarships</a></li>
+</ul>
+</li>
+<li>
+<a href="/music/academic-info/" class="child">Academic Information</a>
+<ul>
+<li><a href="/music/academic-info/why-study/" class="grandchild">Why Study Music at Luther?</a></li>
+<li><a href="/catalog/curriculum/music/" class="grandchild">Requirements and Courses</a></li>
+<li><a href="/music/academic-info/study-plans/" class="grandchild">Study Plans</a></li>
+<li><a href="/music/academic-info/music-education/" class="grandchild">Music Education</a></li>
+<li><a href="/music/academic-info/health-safety/" class="grandchild">Health and Safety Guidelines</a></li>
+</ul>
+</li>
+<li>
+<a href="/music/faculty/" class="child">Faculty</a>
+<ul>
+<li><a href="/music/faculty/emeriti/" class="grandchild">Emeriti</a></li>
+<li><a href="/music/faculty/ensembles/" class="grandchild">Faculty Ensembles</a></li>
+</ul>
+</li>
+<li>
+<a href="/music/outcomes/" class="child">Outcomes</a>
+<ul>
+<li><a href="/music/outcomes/careers/" class="grandchild">Careers</a></li>
+<li><a href="/music/outcomes/grad-stats/" class="grandchild">Recent Grad Statistics</a></li>
+<li><a href="/music/outcomes/alumni/" class="grandchild">Alumni Profiles</a></li>
+</ul>
+</li>
+<li>
+<a href="/music/ensembles/" class="child">Ensembles</a>
+</li>
+<li>
+<a href="/music/tours/" class="child">Ensemble Tours</a>
+</li>
+<li>
+<a href="/christmas-at-luther" class="child">Christmas at Luther</a>
+</li>
+<li>
+<a href="/music/dorian" class="child">Dorian Festivals and Summer Camps</a>
+</li>
+<li>
+<a href="/music/department/" class="child">Department Information</a>
+<ul>
+<li><a href="/music/events/" class="grandchild">Calendar</a></li>
+<li><a href="http://www.lutherbookshop.com/shop_main.asp?catalog_group_id=OQ&amp;catalog_group_name=Q0RzICYgRFZEcw" class="grandchild">Recordings</a></li>
+<li><a href="/music/department/facilities/" class="grandchild">Facilities</a></li>
+<li><a href="/music/department/mission-statement/" class="grandchild">Mission Statement</a></li>
+<li><a href="/music/department/staff/" class="grandchild">Staff</a></li>
+<li><a href="/music-marketing/" class="grandchild">Music Marketing Office</a></li>
+</ul>
+</li>
+</ul>
+
+
+</div>
+</li>
+<li class="minisite outcomes hasSidebar">
+
+
+<a href="/inauguration/" class="minisite-name">Inauguration</a>
+<div class="dropdown-wrap">
+<ul class="dropdown-nav">
+<li>
+<a href="/inauguration/schedule/" class="child">Schedule of Events</a>
+<ul>
+<li><a href="/inauguration/schedule/Agora/" class="grandchild">Luther Agora</a></li>
+<li><a href="/inauguration/schedule/Decorah/" class="grandchild">Inaugural Night on the Town</a></li>
+</ul>
+</li>
+<li>
+<a href="/inauguration/rsvp/" class="child">Response Form</a>
+</li>
+<li>
+<a href="/inauguration/well-wishes/" class="child">Send Well Wishes</a>
+</li>
+<li>
+<a href="/decorah/lodging/" class="child">Area Lodging</a>
+</li>
+<li>
+<a href="/president/" class="child">Office of the President</a>
+</li>
+<li>
+<a href="/admissions/visit/directions/" class="child">Directions to Decorah</a>
+</li>
+<li>
+<a href="https://www.luther.edu/campus/map/" class="child">Campus Map</a>
+</li>
+</ul>
+
+
+<div class="dropdown-content">
+</div>
+</div>
+</li>
+</ul>
+</nav>
+<section id="minisite" class="hasContent hasNavigation hasConNav">
+<div class="minisiteWrap"><header id="minisiteBanner"><div id="banner" role="banner" aria-label="site">
+<h1 class="siteTitle"><a href="/catalog/"><span>2019-20 Academic Catalog</span></a></h1>
+</div>
+<div class="breadcrumbs"><a href="/"><span class="screenreader">Home</span><i class="fa fa-home"></i></a> <span>&raquo;</span> <a href="/catalog/" class="locationBarLinks">2019-20 Academic Catalog</a> <span>&raquo;</span> <a href="/catalog/curriculum/" class="locationBarLinks">Curriculum</a> <span>&raquo;</span> Mathematics</div>
+</header><nav id="navWrap" class="hasNav hasSubNav">
+<a class="toggle" href="#minisiteNavigation">
+<h1><span class="screenreader">2019-20 Academic Catalog</span> <span class="helper-text">Menu <i class="fa fa-arrow-right"></i></span></h1>
+<i class="fa fa-bars"></i>
+<i class="fa fa-times"></i>
+</a>
+
+
+<div id="minisiteNavigation" class="module_identifier-mcla-NavigationModule-mloc-navigation-mpar-3b18c0f2cb22d75c095d016ae47598e5 module_api-standalone" role="navigation" aria-label="page"><div class="list"><ul class="navListTop"><li class="navListItem open 2019-20_academic_catalog"><a href="/catalog/" class="home"><span>2019-20 Academic Catalog</span></a><ul class="navList"><li class="navListItem open pseudoCurrent curriculum"><a href="/catalog/curriculum/">Curriculum</a><ul class="navList"><li class="navListItem closed program_learning_goals"><a href="/catalog/curriculum/program-learning-goals/">Program Learning Goals</a></li></ul></li><li class="navListItem accordion closed item1 academic_information"><a href="/catalog/academics/">Academic Information</a><ul class="navList"><li class="navListItem closed item1 goals_for_student_learning"><a href="/catalog/academics/goals/">Goals for Student Learning</a></li><li class="navListItem closed item2 requirements_for_the_degree"><a href="/catalog/academics/requirements/">Requirements for the Degree</a></li><li class="navListItem closed item3 policies_and_procedures"><a href="/catalog/academics/policies/">Policies and Procedures</a></li><li class="navListItem closed item4 jump jump-internal advising"><a href="https://www.luther.edu/registrar/students/degree-progress/advising/">Advising</a></li><li class="navListItem closed item5 jump jump-internal academic_support_programs"><a href="/academics/support/">Academic Support Programs</a></li><li class="navListItem closed item6 jump jump-internal scholars_program"><a href="/academics/dean/scholars/">Scholars Program</a></li><li class="navListItem closed item7 jump jump-internal off-campus_study_programs"><a href="/global-learning/">Off-Campus Study Programs</a></li></ul></li><li class="navListItem closed item2 jump jump-internal costs_and_financial_policies"><a href="/financial-services/students/">Costs and Financial Policies</a></li><li class="navListItem closed item3 jump jump-internal academic_calendar"><a href="/registrar/calendar/">Academic Calendar</a></li><li class="navListItem closed item4 jump jump-internal about_luther"><a href="/about/">About Luther</a></li><li class="navListItem closed item5 catalog_archive"><a href="/catalog/archive/">Catalog Archive</a></li></ul></li></ul>
+</div></div>
+
+<div class="subNavElements">
+
+
+<aside class="contactBlurb">
+<div class="blurbInner">
+<h2>Contact Information</h2>
+<p>Registrar's Office<br />Main Building 123<br />700 College Drive<br />Decorah, Iowa 52101</p><h3>Phone:</h3><p>563-387-1167</p><h3>Email:</h3><p><a href="/cdn-cgi/l/email-protection#196b7c7e706a6d6b786b59756c6d717c6b377c7d6c"><span class="__cf_email__" data-cfemail="eb998e8c82989f998a99ab879e9f838e99c58e8f9e">[email&#160;protected]</span></a></p></div>
+</aside>
+
+
+</div>
+</nav>
+<section id="contentAndRelated"><header class="contentHead">
+<div class="breadcrumbs"><a href="/"><span class="screenreader">Home</span><i class="fa fa-home"></i></a> <span>&raquo;</span> <a href="/catalog/" class="locationBarLinks">2019-20 Academic Catalog</a> <span>&raquo;</span> <a href="/catalog/curriculum/" class="locationBarLinks">Curriculum</a> <span>&raquo;</span> Mathematics</div>
+
+
+<h1 class="pageTitle"><span>Mathematics</span></h1>
+
+</header>
+<div id="contentSections">
+<div class="contentMain">
+
+
+<div id="subjectPageModule" class="module_identifier-mcla-LutherCatalogSubjectPageModule-mloc-main-mpar-dcca48101505dd86b703689a604fe3c4 module_api-standalone" year="2017">
+<a name="block1"></a>
+<div class="catalog_block">
+<p><strong>Dave Mitchell</strong> (department head)</p>
+<p>The department offers two majors: mathematics and mathematics/statistics.</p>
+<p>Mathematics is the study of numbers, measurements, patterns, shapes, equations, relations, functions, change, symmetry, structure, sets and operations; the modeling of physical phenomena to better understand and predict nature; the development of theorems from accepted axioms through logical proof. It is abstract and applied, theoretical and experimental. Mathematics is perhaps the oldest academic discipline, yet mathematics is the primary language and theoretical foundation of modern technology. It is an extremely versatile major. Mathematics majors are encouraged to explore applications of mathematics in other disciplines, and it is a popular second major for students pursuing advanced degrees.</p>
+<p>Statistics is the science of reasoning from uncertain empirical data. Statisticians build mathematical models to solve problems in business, the natural sciences and the social sciences. The intent of the mathematics/statistics major is to provide adequate preparation to attend graduate school in statistics or to pursue a career such as actuarial science.</p>
+</div>
+<a name="block2"></a>
+<div class="catalog_block">
+<p><strong>Requirements for majors:</strong></p>
+<p><strong>Mathematics major.</strong> <span class="coursenumber">MATH 220</span>, <span class="coursenumber">MATH 240</span>, and 253; <span class="coursenumber">CS 150</span> or <span class="coursenumber">CS 160</span>; MATH 215, 322, or 327; with a minimum of eight courses (32 credits) in mathematics numbered 200 or above, including at least three courses (12 credits) in mathematics numbered 300 or above. Writing requirement completed with <span class="coursenumber">MATH 220</span> or <span class="coursenumber">MATH 240</span>. (No more than two of MATH 215, 271, 322, 327, 328 can count toward the mathematics major.)</p>
+<p><strong>Mathematics/Statistics major.</strong> <span class="coursenumber">MATH 220</span>, MATH 240, and 253; <span class="coursenumber">CS 150</span> or <span class="coursenumber">160</span>; MATH 271, 322, 327, and 328; MATH 454 or DS 320. Writing requirement completed with <span class="coursenumber">MATH 220</span> or <span class="coursenumber">240</span>. (A student may not major in both mathematics and mathematics/statistics.)</p>
+<p><strong>Mathematics minor.</strong> <span class="coursenumber">At least five courses (20 credits) in mathematics, including MATH 220</span>, 240 and three additional courses, of which two are numbered 200 or above.</p>
+<p>Suggested electives for majors planning careers in the following areas:</p>
+<ul type="disc">
+<li>Graduate study in mathematics: <span class="coursenumber">MATH 351</span>, <span class="coursenumber">454</span>, <span class="coursenumber">456</span>, <span class="coursenumber">471, 472</span>.</li>
+<li>Graduate study in statistics: A mathematics/statistics major with both MATH 454 and DS 320. Consider additional courses in computer science, data science, or a science discipline.</li>
+<li>Secondary education: MATH 360, 365, 471. See education department for secondary education minor requirements.</li>
+<li>Actuarial science: A mathematics/statistics major, <span class="coursenumber">ECON 247</span>, <span class="coursenumber">ECON 248</span>, <span class="coursenumber">MGT 353</span>, <span class="coursenumber">MGT 365</span>, and more courses in computer science or data science.</li>
+<li>Computer or data science: <span class="coursenumber">MATH 327</span>, <span class="coursenumber">328</span>, <span class="coursenumber">471</span>.</li>
+<li>Management (accounting, economics): <span class="coursenumber">MATH 327</span>, <span class="coursenumber">454</span>.</li>
+<li>Science: <span class="coursenumber">MATH 327</span>, <span class="coursenumber">328</span>, <span class="coursenumber">351</span>, <span class="coursenumber">452</span>, 453, <span class="coursenumber">454</span>, <span class="coursenumber">456</span>.</li>
+<li>Applied statistics:&nbsp; A mathematics/statistics major with DS 320 and other courses in computer science and data science.</li>
+</ul>
+<p>NOTE: Students earning a C or below in MATH 220 or 240 are advised not to take 300+ level courses.</p>
+<p>View <a href="//www.luther.edu/catalog/assets/Program_Learning_Goals__2019_2020_.pdf" title="Program Learning Goals" target="_blank">program learning goals</a> for an explanation of learning outcomes in Mathematics and Mathematics/Statistics.&nbsp;</p>
+<h3>First-Year Placement</h3>
+<p>The mathematics department placement procedure uses high school records, scores on ACT or SAT tests, and a placement test in mathematics as a basis for a recommendation. <span class="coursenumber">MATH 110</span> and <span class="coursenumber">MATH 115</span> are designed for students who will not be taking calculus. <span class="coursenumber">MATH 123</span> is only for students who major in elementary education. Students with good algebra and trigonometry skills should begin with the traditional Calculus I course, <span class="coursenumber">MATH 151</span>. Students who need calculus for their major but also need a review of algebra and trigonometry should take the <span class="coursenumber">MATH 140</span> and <span class="coursenumber">141</span> sequence. Students whose math placement suggests they require more in-depth review of algebra should consider completing <span class="coursenumber">MATH 100</span> before registering for <span class="coursenumber">MATH 140</span>. Students who have completed a year of calculus in high school and perform well on the Advanced Placement A/B Exam or the calculus portion of the mathematics placement test should start in Calculus II, <span class="coursenumber">MATH 152</span>. Students who perform well on the Advanced Placement B/C Exam should start in <span class="coursenumber">MATH 220</span> or <span class="coursenumber">240</span>.</p>
+<h3>Advanced Placement Credit</h3>
+<ul type="disc">
+<li>A student will receive credit for <span class="coursenumber">MATH 151</span> with a score of 4 or 5 on the AP Calculus A/B Exam. A student will receive credit for <span class="coursenumber">MATH 151</span> and <span class="coursenumber">MATH 152</span> with a score of 4 or 5 on the AP Calculus B/C Exam. A student will receive credit for <span class="coursenumber">MATH 151</span> with an IB Mathematics HL score of 4-7.</li>
+<li>A student who places into <span class="coursenumber">MATH 152</span> will receive, upon completion of the course with a grade of C or better, Luther College credit for the preceding calculus course, <span class="coursenumber">MATH 151</span> (if credit has not already been awarded through AP or transfer credit).</li>
+<li>A student who places into <span class="coursenumber">MATH 240</span> may petition the head of the mathematics department, upon completion of the course with a grade of C or better, to receive Luther College credit for the preceding calculus course(s) <span class="coursenumber">MATH 151</span> and/or <span class="coursenumber">MATH 152</span> (if credit has not already been awarded through AP or transfer credit). Approval of the petition will depend upon whether the student has previously covered the content of <span class="coursenumber">MATH 151</span> and/or <span class="coursenumber">MATH 152</span>.</li>
+<li>A student who achieves a score of 4 or 5 on the AP Statistics Exam will receive credit for <span class="coursenumber">MATH 115</span>.</li>
+</ul>
+<p>NOTE: AP credit for <span class="coursenumber">MATH 115</span>, <span class="coursenumber">151</span>, or <span class="coursenumber">152</span> satisfies the all-college requirement for quantitative perspective (QUANT).</p>
+</div>
+<a name="block3"></a>
+<div class="catalog_block">
+<h3>Mathematics Courses</h3>
+<div class="courseContainer">
+<h4><span class="courseNumber" course="course_820681_2017">MATH 100</span> <span class="courseTitle">Algebra for Science and Business</span> </h4>
+<ul class="fa-ul">
+<li><i class="fa-li fa fa-clock-o fa-lg"></i>2 hours</li>
+</ul>
+<p><span class="courseDescription">This course is focused on strengthening algebraic  and quantitative skills required for success in  science, economics, or business majors. By  preparing students for the first semester of Calculus, this  course is appropriate for those desiring an entry  level college mathematics course before  completing Math 140 in the following semester. Topics include  simplifying mathematical expressions, functions  and graphs, solving polynomial/rational equations in one variable, exponents, quantitative reasoning  and mathematical models.</span></p>
+</div>
+<div class="courseContainer">
+<h4><span class="courseNumber" course="course_700034_2017">MATH 110</span> <span class="courseTitle">Mathematics in Our World</span> </h4>
+<ul class="fa-ul">
+<li><i class="fa-li fa fa-clock-o fa-lg"></i>4 hours</li>
+<li><i class="fa-li fa fa-check-square-o fa-lg"></i>Fulfills: <span class="genEd" data-gened="QUANT">Quantitative</span></li>
+</ul>
+<p><span class="courseDescription">Quantitative literacy plays an important role in an increasing number of professional fields, as well as in the daily decision-making of informed citizens in our changing society.  This course is designed to improve students' quantitative reasoning and problem-solving skills by acquainting them with various real-world applications of mathematical reasoning, such as fair division, voting and apportionment, graph theory, probability, statistics, the mathematics of finance, check digits and coding, and geometry. This course is recommended for students who wish to take a non-calculus-based mathematics class as they prepare for their lives as informed members of a larger world. Prerequisite: high school algebra.</span></p>
+</div>
+<div class="courseContainer">
+<h4><span class="courseNumber" course="course_700035_2017">MATH 115</span> <span class="courseTitle">Introduction to Statistics</span> </h4>
+<ul class="fa-ul">
+<li><i class="fa-li fa fa-clock-o fa-lg"></i>4 hours</li>
+<li><i class="fa-li fa fa-check-square-o fa-lg"></i>Fulfills: <span class="genEd" data-gened="QUANT">Quantitative</span></li>
+</ul>
+<p><span class="courseDescription">The course uses data sets from the social and natural sciences to help students understand and interpret statistical information. Computer software is used to study data from graphical and numerical perspectives.  Topics covered include descriptive statistics, correlation, linear regression, contingency tables, probability distributions, sampling methods, confidence intervals, and tests of hypotheses. This class does not count towards the mathematics major or minor or the mathematics/statistics major. Students who earn credit for BIO 256, MGT 150, PSYC 350, or SOC 350 may not earn credit for MATH 115. Prerequisite: high school algebra.</span></p>
+</div>
+<div class="courseContainer">
+<h4><span class="courseNumber" course="course_700038_2017">MATH 123</span> <span class="courseTitle">Mathematics for Elementary School Teachers</span> </h4>
+<ul class="fa-ul">
+<li><i class="fa-li fa fa-clock-o fa-lg"></i>4 hours</li>
+<li><i class="fa-li fa fa-check-square-o fa-lg"></i>Fulfills: <span class="genEd" data-gened="QUANT">Quantitative</span></li>
+</ul>
+<p><span class="courseDescription">This course provides pre-service K-8 teachers a strong foundation in the mathematics content areas as described in NCTM's Principles and Standards for School Mathematics. The content standards include: Number and Operations, Algebra, Geometry, and Measurement. This course will engage students in standards-based mathematics learning to prepare them for the pedagogical practices they will learn in EDUC 325. Prerequisite: one year of high school algebra, one year of high school geometry and admission into the teacher education program. Co-requisite: EDUC 325 and 326.</span></p>
+</div>
+<div class="courseContainer">
+<h4><span class="courseNumber" course="course_700044_2017">MATH 140</span> <span class="courseTitle">Calculus I with Review, Part A</span> </h4>
+<ul class="fa-ul">
+<li><i class="fa-li fa fa-clock-o fa-lg"></i>4 hours</li>
+<li><i class="fa-li fa fa-check-square-o fa-lg"></i>Fulfills: <span class="genEd" data-gened="QUANT">Quantitative</span></li>
+</ul>
+<p><span class="courseDescription">MATH 140 and 141 cover all the material in MATH 151; Calculus I, while concurrently reviewing precalculus material. Algebraic and graphical representations of functions including: polynomial, rational, exponential, and logarithmic; techniques of solving equations and inequalities; modeling with various functions. An introduction to calculus concepts such as instantaneous rates of change, limits, derivatives, continuity, and applications of derivatives. Prerequisite: a suggested placement.</span></p>
+</div>
+<div class="courseContainer">
+<h4><span class="courseNumber" course="course_700045_2017">MATH 141</span> <span class="courseTitle">Calculus I with Review, Part B</span> </h4>
+<ul class="fa-ul">
+<li><i class="fa-li fa fa-clock-o fa-lg"></i>4 hours</li>
+<li><i class="fa-li fa fa-check-square-o fa-lg"></i>Fulfills: <span class="genEd" data-gened="QUANT">Quantitative</span></li>
+<li><i class="fa-li fa fa-book fa-lg"></i>Prerequisites: MATH 140</li>
+</ul>
+<p><span class="courseDescription">Continuation of topics of MATH 140, including trigonometric functions, derivatives, chain rule, the mean value theorem, Riemann sum approximation for integrals, definite integrals, antiderivatives, and applications. (Students who earn credit for MATH 141 may not earn credit for MATH 151.)</span></p>
+</div>
+<div class="courseContainer">
+<h4><span class="courseNumber" course="course_700047_2017">MATH 151</span> <span class="courseTitle">Calculus I</span> </h4>
+<ul class="fa-ul">
+<li><i class="fa-li fa fa-clock-o fa-lg"></i>4 hours</li>
+<li><i class="fa-li fa fa-check-square-o fa-lg"></i>Fulfills: <span class="genEd" data-gened="QUANT">Quantitative</span></li>
+</ul>
+<p><span class="courseDescription">Topics include instantaneous rates of change, functions, limits, continuity, derivatives, mean value theorem and applications; antiderivatives and definite integrals. (Students who earn credit for MATH 151 may not earn credit for MATH 140 or 141). Prerequisite: three years of high school mathematics including algebra, trigonometry, and geometry, and a suggested placement.</span></p>
+</div>
+<div class="courseContainer">
+<h4><span class="courseNumber" course="course_700048_2017">MATH 152</span> <span class="courseTitle">Calculus II</span> </h4>
+<ul class="fa-ul">
+<li><i class="fa-li fa fa-clock-o fa-lg"></i>4 hours</li>
+<li><i class="fa-li fa fa-check-square-o fa-lg"></i>Fulfills: <span class="genEd" data-gened="QUANT">Quantitative</span></li>
+<li><i class="fa-li fa fa-book fa-lg"></i>Prerequisites: MATH 141 or 151 or suggested placement</li>
+</ul>
+<p><span class="courseDescription">Applications of the definite integral, techniques of integration, differential equations, power series, and Taylor series.</span></p>
+</div>
+<div class="courseContainer">
+<h4><span class="courseNumber" course="course_868431_2017">MATH 215</span> <span class="courseTitle">Data Analysis</span> </h4>
+<ul class="fa-ul">
+<li><i class="fa-li fa fa-clock-o fa-lg"></i>4 hours</li>
+<li><i class="fa-li fa fa-check-square-o fa-lg"></i>Fulfills: <span class="genEd" data-gened="QUANT">Quantitative</span></li>
+<li><i class="fa-li fa fa-book fa-lg"></i>Prerequisites: MATH 141 or MATH 151</li>
+</ul>
+<p><span class="courseDescription">An introduction to statistics and data analysis for math and science majors who have already taken calculus.  Topics include numerical and graphical descriptions of data, regression, probability, sampling distributions, confidence intervals, and hypothesis testing.  Students who earn credit for MATH 115, BIO 256, MGT 150, PSYC 350, or SOC 350 may not earn credit for MATH 215.</span></p>
+</div>
+<div class="courseContainer">
+<h4><span class="courseNumber" course="course_700054_2017">MATH 220</span> <span class="courseTitle">Mathematical Reasoning and Writing</span> </h4>
+<ul class="fa-ul">
+<li><i class="fa-li fa fa-clock-o fa-lg"></i>4 hours</li>
+<li><i class="fa-li fa fa-check-square-o fa-lg"></i>Fulfills: <span class="genEd" data-gened="QUANT">Quantitative</span></li>
+<li><i class="fa-li fa fa-book fa-lg"></i>Prerequisites: MATH 152</li>
+</ul>
+<p><span class="courseDescription">This course introduces students to logic, set theory, and methods of proof.  The emphasis will be on learning to write rigorous mathematical proofs.  Topics will include induction, functions, equivalence relations, cardinality, combinatorics, and recurrence relations.</span></p>
+</div>
+<div class="courseContainer">
+<h4><span class="courseNumber" course="course_700059_2017">MATH 240</span> <span class="courseTitle">Linear Algebra</span> </h4>
+<ul class="fa-ul">
+<li><i class="fa-li fa fa-clock-o fa-lg"></i>4 hours</li>
+<li><i class="fa-li fa fa-check-square-o fa-lg"></i>Fulfills: <span class="genEd" data-gened="QUANT">Quantitative</span></li>
+<li><i class="fa-li fa fa-book fa-lg"></i>Prerequisites: MATH 152</li>
+</ul>
+<p><span class="courseDescription">Theory, computation, abstraction, and application are blended in this course, giving students a sense of what being a mathematics major is all about. Assignments will include computations to practice new techniques and proofs to deepen conceptual understanding. This course starts by solving systems of linear equations, views matrices as linear transformations between Euclidean spaces of various dimensions, makes connections between algebra and geometry, and then extends the theory to more general vector spaces. Topics include matrix algebra, vector spaces and subspaces, linear independence, determinants, bases, eigenvalues, eigenvectors, orthogonality, and inner product spaces.</span></p>
+</div>
+<div class="courseContainer">
+<h4><span class="courseNumber" course="course_700060_2017">MATH 253</span> <span class="courseTitle">Vector Calculus</span> </h4>
+<ul class="fa-ul">
+<li><i class="fa-li fa fa-clock-o fa-lg"></i>4 hours</li>
+<li><i class="fa-li fa fa-check-square-o fa-lg"></i>Fulfills: <span class="genEd" data-gened="QUANT">Quantitative</span></li>
+<li><i class="fa-li fa fa-book fa-lg"></i>Prerequisites: MATH 240</li>
+</ul>
+<p><span class="courseDescription">The tools of calculus are developed for real-valued functions of several variables: partial derivatives, tangent planes to surfaces, directional derivatives, gradient, maxima and minima, double and triple integrals, and change of variables. Vector-valued functions are also studied: tangent and normal vectors to curves in space, arc length, vector fields, divergence and curl. The fundamental theorem of calculus is extended to line and surface integrals, resulting in the theorems of Green, Stokes, and Gauss, which have applications to heat conduction, gravity, electricity and magnetism.</span></p>
+</div>
+<div class="courseContainer">
+<h4><span class="courseNumber" course="course_700056_2017">MATH 257</span> <span class="courseTitle">Mathematical Methods in Biology Biology</span> </h4>
+<ul class="fa-ul">
+<li><i class="fa-li fa fa-clock-o fa-lg"></i>4 hours</li>
+<li><i class="fa-li fa fa-check-square-o fa-lg"></i>Fulfills: <span class="genEd" data-gened="QUANT">Quantitative</span></li>
+<li><i class="fa-li fa fa-book fa-lg"></i>Prerequisites: MATH 141 or MATH 151</li>
+</ul>
+<p><span class="courseDescription">This course will examine a variety of ways that mathematical methods can be brought to bear on biological phenomena.  Topics chosen will depend on student interest, and may include food webs, disease etiology, gene regulatory networks, disease transmission dynamics, phylogeny, metabolism, natural selection in haploid and diploid populations, and others.  Mathematical methods used may be drawn from graph theory, linear algebra, differential equations, or others, but no previous familiarity in these areas will be assumed.</span></p>
+</div>
+<div class="courseContainer">
+<h4><span class="courseNumber" course="course_700062_2017">MATH 260</span> <span class="courseTitle">Elementary Number Theory</span> </h4>
+<ul class="fa-ul">
+<li><i class="fa-li fa fa-clock-o fa-lg"></i>4 hours</li>
+<li><i class="fa-li fa fa-check-square-o fa-lg"></i>Fulfills: <span class="genEd" data-gened="QUANT">Quantitative</span></li>
+<li><i class="fa-li fa fa-book fa-lg"></i>Prerequisites: MATH 220 or 240</li>
+</ul>
+<p><span class="courseDescription">Fibonacci numbers, divisibility theory in the integers, prime numbers, Euclidean algorithm, Diophantine equations, congruences, divisibility tests, Euler's theorem, public key cryptography. Usually offered in alternate January terms.</span></p>
+</div>
+<div class="courseContainer">
+<h4><span class="courseNumber" course="course_868432_2017">MATH 271</span> <span class="courseTitle">Probability and Statistics I</span> </h4>
+<ul class="fa-ul">
+<li><i class="fa-li fa fa-clock-o fa-lg"></i>4 hours</li>
+<li><i class="fa-li fa fa-check-square-o fa-lg"></i>Fulfills: <span class="genEd" data-gened="QUANT">Quantitative</span></li>
+<li><i class="fa-li fa fa-book fa-lg"></i>Prerequisites: MATH 152</li>
+</ul>
+<p><span class="courseDescription">Asioms and laws of probability, conditional probability, combinatorics, counting techniques, independence, discrete and continuous random variables, mathematical expectation, discrete probability distributions, continuous probability distributions, functions of random variables, joint probability distributions and random samples, statistics and their distributions, central limit theorem, distribution of a linear combination of random variables.</span></p>
+</div>
+<div class="courseContainer">
+<h4><span class="courseNumber" course="course_700066_2017">MATH 322</span> <span class="courseTitle">Probability and Statistics II</span> </h4>
+<ul class="fa-ul">
+<li><i class="fa-li fa fa-clock-o fa-lg"></i>4 hours</li>
+<li><i class="fa-li fa fa-check-square-o fa-lg"></i>Fulfills: <span class="genEd" data-gened="QUANT">Quantitative</span></li>
+<li><i class="fa-li fa fa-book fa-lg"></i>Prerequisites: MATH 271</li>
+</ul>
+<p><span class="courseDescription">Sampling distribution of mean, standard deviation and proportion, theory of estimation, methods of point estimation, hypothesis testing, large and small sample confidence intervals, inferences for means, proportions and variances and distribution free procedures.</span></p>
+</div>
+<div class="courseContainer">
+<h4><span class="courseNumber" course="course_700067_2017">MATH 327</span> <span class="courseTitle">Applied Statistics I</span> </h4>
+<ul class="fa-ul">
+<li><i class="fa-li fa fa-clock-o fa-lg"></i>4 hours</li>
+<li><i class="fa-li fa fa-check-square-o fa-lg"></i>Fulfills: <span class="genEd" data-gened="QUANT">Quantitative</span></li>
+<li><i class="fa-li fa fa-book fa-lg"></i>Prerequisites: MATH 115, MATH 322, BIO 256, PSYC 350, SOC 350, ECON 242 or MGT 150</li>
+</ul>
+<p><span class="courseDescription">Regression Analysis: Least square estimates, simple linear regression, multiple linear regression, hypothesis testing and confidence intervals for linear regression models, prediction intervals, and ANOVA. Model diagnostics including tests of constant variance assumptions, serial correlation, and multicollinearity. Time series: Linear time series, moving average, autoregressive, and ARIMA models. Estimation and forecasting. Forecast errors and confidence intervals.</span></p>
+</div>
+<div class="courseContainer">
+<h4><span class="courseNumber" course="course_700068_2017">MATH 328</span> <span class="courseTitle">Applied Statistics II</span> </h4>
+<ul class="fa-ul">
+<li><i class="fa-li fa fa-clock-o fa-lg"></i>4 hours</li>
+<li><i class="fa-li fa fa-check-square-o fa-lg"></i>Fulfills: <span class="genEd" data-gened="QUANT">Quantitative</span></li>
+<li><i class="fa-li fa fa-book fa-lg"></i>Prerequisites: MATH 327</li>
+</ul>
+<p><span class="courseDescription">Design and analysis of experiments; analysis of variance techniques; fixed, random, and mixed models; repeated measures.</span></p>
+</div>
+<div class="courseContainer">
+<h4><span class="courseNumber" course="course_700072_2017">MATH 351</span> <span class="courseTitle">Ordinary Differential Equations</span> </h4>
+<ul class="fa-ul">
+<li><i class="fa-li fa fa-clock-o fa-lg"></i>4 hours</li>
+<li><i class="fa-li fa fa-check-square-o fa-lg"></i>Fulfills: <span class="genEd" data-gened="QUANT">Quantitative</span></li>
+<li><i class="fa-li fa fa-book fa-lg"></i>Prerequisites: MATH 240</li>
+</ul>
+<p><span class="courseDescription">Differential equations is an area of theoretical and applied mathematics with a large number of important problems associated with the physical, biological, and social sciences. Analytic (separation, integration factors, and Laplace transforms), qualitative (phase and bifurcation diagrams), and numerical (Runge-Kutta) methods are developed for linear and nonlinear first- and higher-order single equations as well as linear and nonlinear systems of first-order equations. Emphasis is given to applications and extensive use of a computer algebra system.</span></p>
+</div>
+<div class="courseContainer">
+<h4><span class="courseNumber" course="course_868433_2017">MATH 358</span> <span class="courseTitle">Chaotic Dynamical System</span> </h4>
+<ul class="fa-ul">
+<li><i class="fa-li fa fa-clock-o fa-lg"></i>4 hours</li>
+<li><i class="fa-li fa fa-check-square-o fa-lg"></i>Fulfills: <span class="genEd" data-gened="QUANT">Quantitative</span></li>
+<li><i class="fa-li fa fa-book fa-lg"></i>Prerequisites: MATH 240</li>
+</ul>
+<p><span class="courseDescription">Why is it so difficult to make accurate predictions about seemingly chaotic physical systems like weather?  This course explores the behavior of nonlinear dynamical systems described by iterated functions.  A variety of mathematical methods, including computer modeling, is used to show how small changes in initial conditions can drastically change the future behavior of the system.  Topics will include periodic orbits, phase portraits, bifurcations, chaos, symbolic dynamics, fractals, Julia sets, and the Mandelbrot set.  Offered alternate years.</span></p>
+</div>
+<div class="courseContainer">
+<h4><span class="courseNumber" course="course_700070_2017">MATH 360</span> <span class="courseTitle">Combinatorics</span> </h4>
+<ul class="fa-ul">
+<li><i class="fa-li fa fa-clock-o fa-lg"></i>4 hours</li>
+<li><i class="fa-li fa fa-check-square-o fa-lg"></i>Fulfills: <span class="genEd" data-gened="QUANT">Quantitative</span></li>
+<li><i class="fa-li fa fa-book fa-lg"></i>Prerequisites: MATH 220</li>
+</ul>
+<p><span class="courseDescription">In this course we will survey a wide variety of topics in combinatorics, an area of mathematics which focuses on understanding arrangements of objects, including things like permutations and combinations, but also more rigid structures like Sudoku grids. Combinatorialists are interested in questions such as how many arrangements of a particular type exist, what sorts of structure those arrangements have, and sometimes if any such arrangements exist at all. Topics in this course will include: combinations, permutations, the multiplication principle, the Binomial Theorem, the pigeonhole principle, the principle of inclusion and exclusion, derangements, Latin squares, graphs, and design theory.</span></p>
+</div>
+<div class="courseContainer">
+<h4><span class="courseNumber" course="course_700073_2017">MATH 365</span> <span class="courseTitle">Geometry</span> </h4>
+<ul class="fa-ul">
+<li><i class="fa-li fa fa-clock-o fa-lg"></i>4 hours</li>
+<li><i class="fa-li fa fa-check-square-o fa-lg"></i>Fulfills: <span class="genEd" data-gened="QUANT">Quantitative</span></li>
+<li><i class="fa-li fa fa-book fa-lg"></i>Prerequisites: MATH 220 and 240</li>
+</ul>
+<p><span class="courseDescription">This course follows the historical development of geometry, including the important question of which parallel postulate to include. This is a proof-oriented course focusing on theorems in plane Euclidean and hyperbolic geometry, with some mention of elliptic geometry. We examine the development of a lean set of axioms, (incidence, betweenness, congruence, continuity) and investigate which theorems about points and lines can be derived using them.</span></p>
+</div>
+<div class="courseContainer">
+<h4><span class="courseNumber" course="course_700087_2017">MATH 452</span> <span class="courseTitle">Partial Differential Equations</span> </h4>
+<ul class="fa-ul">
+<li><i class="fa-li fa fa-clock-o fa-lg"></i>4 hours</li>
+<li><i class="fa-li fa fa-check-square-o fa-lg"></i>Fulfills: <span class="genEd" data-gened="QUANT">Quantitative</span></li>
+<li><i class="fa-li fa fa-book fa-lg"></i>Prerequisites: MATH 351</li>
+</ul>
+<p><span class="courseDescription">An introduction to initial and boundary value problems associated with certain linear partial differential equations (Laplace, heat and wave equations). Fourier series methods, including the study of best approximation in the mean and convergence, will be a focus. Sturm-Liouville problems and associated eigenfunctions will be included.  Numerical methods, such as finite difference, finite element and finite analytic, may be introduced, including the topics of stability and convergence of numerical algorithms. Extensive use of a computer algebra system.</span></p>
+</div>
+<div class="courseContainer">
+<h4><span class="courseNumber" course="course_700086_2017">MATH 453</span> <span class="courseTitle">Methods of Applied Mathematics</span> </h4>
+<ul class="fa-ul">
+<li><i class="fa-li fa fa-clock-o fa-lg"></i>4 hours</li>
+<li><i class="fa-li fa fa-check-square-o fa-lg"></i>Fulfills: <span class="genEd" data-gened="QUANT">Quantitative</span></li>
+<li><i class="fa-li fa fa-book fa-lg"></i>Prerequisites: MATH 351.</li>
+</ul>
+<p><span class="courseDescription">This course will be devoted to developing mathematical methods useful in the physical sciences. Topics may include dimensional analysis and scaling, perturbation methods, calculus of variations and Hamilton's principle, boundary value problems, Green's functions, and integral equations.</span></p>
+</div>
+<div class="courseContainer">
+<h4><span class="courseNumber" course="course_700088_2017">MATH 454</span> <span class="courseTitle">Principles of Real Analysis</span> </h4>
+<ul class="fa-ul">
+<li><i class="fa-li fa fa-clock-o fa-lg"></i>4 hours</li>
+<li><i class="fa-li fa fa-check-square-o fa-lg"></i>Fulfills: <span class="genEd" data-gened="QUANT">Quantitative</span></li>
+<li><i class="fa-li fa fa-book fa-lg"></i>Prerequisites: MATH 220 and 240</li>
+</ul>
+<p><span class="courseDescription">The course studies functions of a real variable and examines the foundations of calculus, with an emphasis on writing rigorous analytical proofs, and follows the historical development of analysis from Newton to Leibniz through Lagrange, Cauchy, Bolzano, Weierstrass, Cantor, Riemann, and Lebesgue. Topics include the topology of the reals, sequences, series, limits, continuity, pointwise and uniform convergence, differentiation, Taylor series, and integration.</span></p>
+</div>
+<div class="courseContainer">
+<h4><span class="courseNumber" course="course_700089_2017">MATH 456</span> <span class="courseTitle">Functions of a Complex Variable</span> </h4>
+<ul class="fa-ul">
+<li><i class="fa-li fa fa-clock-o fa-lg"></i>4 hours</li>
+<li><i class="fa-li fa fa-check-square-o fa-lg"></i>Fulfills: <span class="genEd" data-gened="QUANT">Quantitative</span></li>
+<li><i class="fa-li fa fa-book fa-lg"></i>Prerequisites: MATH 253</li>
+</ul>
+<p><span class="courseDescription">What happens when calculus is extended to functions of a complex variable? Geometry and analysis combine to produce beautiful theorems and surprising applications. Topics include complex numbers, limits and derivatives of complex functions, Cauchy-Riemann equations, harmonic functions, contour integrals, the Cauchy integral formula, Taylor and Laurent series, residues, and conformal mappings with applications in physical sciences. Offered in alternate years.</span></p>
+</div>
+<div class="courseContainer">
+<h4><span class="courseNumber" course="course_700093_2017">MATH 471</span> <span class="courseTitle">Abstract Algebra I</span> </h4>
+<ul class="fa-ul">
+<li><i class="fa-li fa fa-clock-o fa-lg"></i>4 hours</li>
+<li><i class="fa-li fa fa-check-square-o fa-lg"></i>Fulfills: <span class="genEd" data-gened="QUANT">Quantitative</span></li>
+<li><i class="fa-li fa fa-book fa-lg"></i>Prerequisites: MATH 220 and 240</li>
+</ul>
+<p><span class="courseDescription">Real numbers and integers satisfy many nice properties under addition and multiplication, but other sets behave differently: matrix multiplication and composition of functions are noncommutative operations. Which properties (associativity, commutativity, identity, inverses) are satisfied by operations on sets determine the basic algebraic structure: group, ring, or field. The internal structure (subgroups, cosets, factor groups, ideals), and operation-preserving mappings between sets, (isomorphisms, homomorphisms)are examined. Emphasis is on theory and proof, although important applications in symmetry groups, cryptography, and error-correcting codes may also be covered.</span></p>
+</div>
+<div class="courseContainer">
+<h4><span class="courseNumber" course="course_700094_2017">MATH 472</span> <span class="courseTitle">Abstract Algebra II</span> </h4>
+<ul class="fa-ul">
+<li><i class="fa-li fa fa-clock-o fa-lg"></i>1, 2, or 4 hours</li>
+<li><i class="fa-li fa fa-check-square-o fa-lg"></i>Fulfills: <span class="genEd" data-gened="QUANT">Quantitative</span></li>
+<li><i class="fa-li fa fa-book fa-lg"></i>Prerequisites: MATH 471</li>
+</ul>
+<p><span class="courseDescription">Topics may include simple groups, Sylow theorems, divisibility in integral domains, generators and relations, field extensions, splitting fields, solvability by radicals, Galois theory, symmetry and geometric constructions. Offered on demand.</span></p>
+</div>
+<div class="courseContainer">
+<h4><span class="courseNumber" course="course_700096_2017">MATH 490</span> <span class="courseTitle">Senior Project</span> </h4>
+<ul class="fa-ul">
+<li><i class="fa-li fa fa-clock-o fa-lg"></i>1, 2, or 4 hours</li>
+</ul>
+<p><span class="courseDescription"></span></p>
+</div>
+
+</div>
+</div>
+
+
+</div>
+</div>
+</section><footer id="footer" role="contentInfo">
+
+
+<aside class="contactBlurb">
+<div class="blurbInner">
+<h2>Contact Information</h2>
+<p>Registrar's Office<br />Main Building 123<br />700 College Drive<br />Decorah, Iowa 52101</p><h3>Phone:</h3><p>563-387-1167</p><h3>Email:</h3><p><a href="/cdn-cgi/l/email-protection#abd9ceccc2d8dfd9cad9ebc7dedfc3ced985cecfde"><span class="__cf_email__" data-cfemail="047661636d7770766576446871706c61762a616071">[email&#160;protected]</span></a></p></div>
+</aside>
+
+
+<div id="foot">
+
+
+<div id="maintained">
+<div id="maintainer">2019-20 Academic Catalog maintained by <a href="/cdn-cgi/l/email-protection#91e3e8f0ffffbfe6f8fff8fff6e2d1fde4e5f9f4e3bff4f5e4">RyAnn Winings</a>. <span id="lastUpdated"> Page last updated on 28 June 2019</span>.</div></div>
+
+
+
+
+<div class="loginLinkModule unauthenticated"><p id="footerLoginLink"><a href="https://www.luther.edu/login/" class="login">Login</a></p>
+</div>
+
+
+</div>
+</footer>
+</div></section>
+
+
+			<footer id="global-footer">
+
+				<h2 class="screenreader">Complimentary Navigation</h2>
+
+				<div id="global-footer-nav" class="section" role="navigation">
+					<div class="row">
+						<div class="column">
+							<h3>About</h3>
+							<ul>
+								<li><a href="/about/">About Luther</a></li>
+								<li><a href="/about/lutheran-college/">College of the Church</a></li>
+								<li><a href="/diversity-at-luther/">Diversity at Luther</a></li>
+								<li><a href="/about/liberal-arts-college/">The Liberal Arts</a></li>
+								<li><a href="/sustainability/">Sustainability</a></li>
+							</ul>
+						</div>
+						<div class="column">
+							<h3>Alumni & Friends</h3>
+							<ul>
+								<li><a href="/alumni/directory/">Alumni Directory</a></li>
+								<li><a href="/alumni/">Alumni Home</a></li>
+								<li><a href="/giving/">Giving</a></li>
+								<li><a href="/homecoming/">Homecoming</a></li>
+								<li><a href="/magazine/">Magazine</a></li>
+							</ul>
+						</div>
+						<div class="column">
+							<h3>Campus</h3>
+							<ul>
+								<li><a href="/bookshop/">Book Shop</a></li>
+								<li><a href="/ministries/">College Ministries</a></li>
+								<li><a href="/dining/">Dining Services</a></li>
+								<li><a href="/helpdesk/">Technology Help Desk</a></li>
+								<li><a href="https://tickets.luther.edu/Online/default.asp">Ticket Office</a></li>
+							</ul>
+						</div>
+						<div class="column">
+							<h3>Offices</h3>
+							<ul>
+								<li><a href="/marketing/">Communications</a></li>
+								<li><a href="/financial-services/">Financial Services</a></li>
+								<li><a href="/hr/">Human Resources</a></li>
+								<li><a href="/president/">President</a></li>
+								<li><a href="/registrar/">Registrar’s Office</a></li>
+							</ul>
+						</div>
+						<div class="column">
+							<h3>Quick Links</h3>
+							<ul>
+								<li><a href="/directory/">Directory</a></li>
+								<li><a href="http://mail.luther.edu">Norse Mail</a></li>
+								<li><a href="https://katie.luther.edu/">KATIE</a></li>
+								<li><a href="/library/">Library</a></li>
+								<li><a href="https://my.luther.edu/">my.luther.edu</a></li>
+							</ul>
+						</div>
+						<div class="column">
+							<div class="socialProfileSimpleLinks">
+							<ul>
+								<li><a href="https://www.facebook.com/luthercollege" target="_blank"><span class="label">Facebook</span></a>
+								<a href="https://twitter.com/luthercollege" target="_blank"><span class="label">Twitter</span></a></li>
+								<li><a href="http://instagram.com/luthercollege#" target="_blank"><span class="label">Instagram</span></a>
+								<a href="https://www.youtube.com/user/LutherCollegeMedia" target="_blank"><span class="label">YouTube</span></a></li>
+								<li><a href="https://plus.google.com/106145735238161370551" target="_blank"><span class="label">Google+</span></a>
+								<a href="https://www.linkedin.com/edu/luther-college-20110" target="_blank"><span class="label">LinkedIn</span></a></li>
+							
+							</ul>
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<div id="global-footer-contact" class="row">
+					<div class="column">
+						<p class="contact">
+							<span class="addr">
+								<span class="">Luther College</span> <span class="sep"></span>
+								<span class="street-address">700 College Drive</span> <span class="sep"></span>
+								<span class="locality">Decorah,</span>
+								<span class="region">Iowa</span>
+								<span class="postal-code">52101</span> <span class="sep"></span>
+								<span class="country-name">USA</span>
+							</span>
+							<span class="phone"><a href="tel:563-387-2000">563-387-2000</a> <span class="sep"></span> <a href="tel:800-458-8437">800-4-LUTHER</a> (<span class="tel"><a href="tel:800-458-8437">800-458-8437</a></span>)</span>
+						</p>
+					</div>
+				</div>
+
+				<div id="global-footer-ultilty" class="row">
+					<div class="column">
+						<ul class="utility-nav" role="navigation">
+							<li><a href="http://emergency.luther.edu"><span>Emergency Info</span></a></li>
+							<li><a href="/privacy/"><span>Privacy Statement</span></a></li>
+							<li><a href="/reportproblem/"><span>Report a Problem</span></a></li>
+						</ul>
+					</div>
+				</div>
+
+				<div id="post-footer" class="row">
+					<div class="column">
+						<p class="copyright">&copy; 2019 <a href="/">Luther College</a>. All rights reserved.</p>
+						<p class="powered-by">Powered by <a href="https://apps.carleton.edu/opensource/reason/" target="_blank">Reason CMS</a>.</p>
+					</div>
+				</div>
+
+				<!-- close the off-canvas menu -->
+ 				<a class="exit-off-canvas"></a>
+
+			</footer>
+
+			
+
+</div>
+</div>
+</div>
+</div>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript" src="/reason/local/luther_2014/javascripts/vendor/fastclick.js"></script><script type="text/javascript" src="/reason/local/luther_2014/foundation/bower_components/foundation/js/foundation.min.js"></script><script> $(document).foundation(); </script><script type="text/javascript" src="/reason/local/luther_2014/javascripts/luther.js"></script></body>
+</html>

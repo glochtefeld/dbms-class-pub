@@ -1,0 +1,873 @@
+
+		
+<!DOCTYPE html>
+<html  class="no-js" id="luther-edu" lang="en">
+<head>
+<script type="text/javascript" src="/jquery/jquery-1.11.2.min.js"></script>
+<title>Dance | 2019-20 Academic Catalog | Luther College</title>
+<link rel="stylesheet" type="text/css" href="/reason/css/twitter/twitter.css" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link rel="shortcut icon" href="/reason/local/favicon.ico" />
+<!--[if lt IE 9]><script type="text/javascript" src="/reason/js/respond/respond.min.js"></script><![endif]-->
+<!--[if lt IE 9]><script type="text/javascript" src="/reason/js/ie8_fix_maxwidth.js"></script><![endif]-->
+<meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0" />
+<script type="text/javascript" src="/reason/js/hoverintent.minified.js"></script>
+<script type="text/javascript" src="/reason_package/FancyBox/source/jquery.fancybox.js"></script>
+<link rel="stylesheet" type="text/css" href="/reason_package/FancyBox/source/jquery.fancybox.css" />
+<script type="text/javascript" src="/reason_package/FancyBox/source/helpers/jquery.fancybox-thumbs.js"></script>
+<link rel="stylesheet" type="text/css" href="/reason_package/FancyBox/source/helpers/jquery.fancybox-thumbs.css" />
+<script type="text/javascript" src="/reason/local/luther_2014/javascripts/luther-image-galleries.js"></script>
+<link rel="stylesheet" type="text/css" href="/jquery/css/smoothness/jquery-ui.min.css" />
+<link rel="stylesheet" type="text/css" href="/reason/modules/courses/subject_page.css" />
+<script type="text/javascript" src="/jquery/jquery-ui-1.11.3.min.js"></script>
+<script type="text/javascript" src="/reason/modules/courses/subject_page.js"></script>
+<script type="text/javascript" src="/reason/js/jquery.reasonAjax.js"></script>
+<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700" />
+<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,300,400,400italic,600,600italic,700,700italic,800,800italic" />
+<link rel="stylesheet" type="text/css" href="/reason/local/luther_2014/stylesheets/base.css" />
+<script type="text/javascript" src="/reason/local/luther_2014/javascripts/vendor/modernizr.js"></script>
+<script type="text/javascript" src="/reason/local/luther_2014/javascripts/luther-gcse.js"></script>
+<meta name="og:title" content="Dance" />
+<meta name="og:type" content="university" />
+<meta name="og:url" content="https://www.luther.edu/catalog/curriculum/dance/" />
+<meta name="og:site_name" content="Luther College" />
+<meta name="og:image" content="https://www.luther.edu/reason/images/756136.jpg" />
+<meta name="og:image" content="https://www.luther.edu/reason/images/686804.jpg" />
+<meta name="og:street-address" content="700 College Drive" />
+<meta name="og:locality" content="Decorah" />
+<meta name="og:region" content="Iowa" />
+<meta name="og:country" content="USA" />
+<meta name="og:email" content="www@luther.edu" />
+<meta name="og:phone_number" content="563-387-2000" />
+<!--[if lt IE 9]><link rel='stylesheet' type='text/css' href='/reason/local/luther_2014/stylesheets/ie.css' /><![endif]-->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+	ga('create', 'UA-129020-8', 'auto', {'allowLinker': true});
+	ga('require', 'linker');
+	ga('linker:autoLink', ['hiretouch.com', 'lutherbookshop.com'] );
+	ga('send', 'pageview');
+</script>
+<script async="async" src="https://connect.luther.edu/ping">/**/</script>
+<!-- Google Tag Manager -->
+<script>
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-KLWCQL');
+</script>
+<!-- End Google Tag Manager -->
+</head>
+<body class="body course-catalog course_catalog_page">
+<!-- Google Tag Manager (noscript) -->
+<noscript>
+<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KLWCQL" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+<!-- End Google Tag Manager (noscript) -->
+<div class="off-canvas-wrap">
+<div class="inner-wrap"><div id="wrapper">
+<div id="wrapper-col">
+
+
+
+
+			<header id="global-banner" role="banner">
+			
+				<hgroup>
+					<h1><a href="/"><img src="/reason/local/luther_2014/images/logo_2x.png" alt="Luther College"></a></h1>
+<h2 class="tagline">An Iowa College in the Liberal Arts Tradition</h2>
+				</hgroup>
+				
+				<div id="nav-toggles" role="navigation">
+					<ul>
+						<li>
+							<a class="toggle left-off-canvas-toggle" href="#global-nav">
+								<i class="fa fa-bars"></i>
+								<span class="screenreader">Global Navigation</span>
+							</a>
+						</li>
+						<li>
+							<a class="toggle search-toggle" href="#search-nav">
+								<i class="fa fa-search"></i>
+								<i class="fa fa-times"></i>
+								<span class="screenreader">Go to Search</span>
+							</a>
+						</li>
+						<li>
+							<!-- <a class="toggle audience-toggle" href="#audience-nav"> -->
+							<!-- <a href="#audience-nav" data-dropdown="audience-nav" data-options="is_hover:true; hover_timeout:5000"> -->
+							<a href="#" class="toggle audience-toggle" data-dropdown="audience-nav" data-options="is_hover:true; hover_timeout:5000">	
+								<span class="label">Info for</span>
+							</a>
+						</li>
+					</ul>
+				</div>
+			
+				<div id="search-nav" role="navigation">
+					<div class="search-wrap">
+						<gcse:searchbox-only></gcse:searchbox-only>
+					</div>
+					<ul class="search-related-links">
+						<li class="directory"><a href="/directory/">Directory</a></li>
+						<li class="offices"><a href="/contact/administrative">Offices</a></li>
+						<li class="index"><a href="/azindex/">A-Z Index</a></li>
+					</ul>
+				</div>
+			
+			</header>	
+			
+			
+
+<nav id="global-nav" class="left-off-canvas-menu" role="navigation">
+<h1 class="screenreader">Luther College Site Navigation</h1>
+<ul id="audience-nav" class="audiences f-dropdown" data-dropdown-content role="navigation">
+<li><a href="/alumni">Alumni &amp; Friends</a></li>
+<li><a href="/giving">Donors</a></li>
+<li><a href="/faculty-staff">Faculty &amp; Staff</a></li>
+<li><a href="/students">Students</a></li>
+<li><a href="/parents">Parents</a></li>
+</ul>
+<ul class="minisites">
+<li class="minisite admissions hasSidebar">
+
+
+<a href="/admissions/" class="minisite-name">Admission &amp; Aid</a>
+<div class="dropdown-wrap">
+<ul class="dropdown-nav">
+<li>
+<a href="/admissions/discover/" class="child">Discover Luther</a>
+<ul>
+<li><a href="/admissions/discover/value/" class="grandchild">Luther Value</a></li>
+<li><a href="/campus/tour/" class="grandchild">Online Campus Tour</a></li>
+<li><a href="/about/lutheran-college/" class="grandchild">Lutheran College</a></li>
+<li><a href="/admissions/discover/traditions/" class="grandchild">Luther Traditions</a></li>
+<li><a href="/admissions/discover/brochures/" class="grandchild">Brochures</a></li>
+</ul>
+</li>
+<li>
+<a href="/admissions/connect/" class="child">Connect with Us</a>
+<ul>
+<li><a href="https://connect.luther.edu/register/recruit-me" class="grandchild">Recruit Me</a></li>
+<li><a href="/admissions/connect/staff/" class="grandchild">Admissions Staff</a></li>
+<li><a href="/admissions/connect/tagboard/" class="grandchild">#LutherCollege</a></li>
+<li><a href="/admissions/student-blogs/" class="grandchild">Student Blogs</a></li>
+<li><a href="/inside-college-admissions/" class="grandchild">Inside College Admissions</a></li>
+<li><a href="/admissions/connect/high-school-counselors/" class="grandchild">For High School Counselors</a></li>
+<li><a href="/catalyze/" class="grandchild">Catalyze at Luther</a></li>
+</ul>
+</li>
+<li>
+<a href="/admissions/visit/" class="child">Plan a Visit</a>
+</li>
+<li>
+<a href="/admissions/apply/" class="child">Apply to Luther</a>
+<ul>
+<li><a href="/admissions/apply/how/" class="grandchild">How to Apply</a></li>
+<li><a href="/admissions/apply/requirements/" class="grandchild">Admissions Requirements</a></li>
+<li><a href="/admissions/international/" class="grandchild">International Students</a></li>
+<li><a href="/admissions/apply/transfer/" class="grandchild">Transfer Students</a></li>
+<li><a href="/admissions/apply/dates/" class="grandchild">Important Dates</a></li>
+</ul>
+</li>
+<li>
+<a href="/admissions/financial-aid/" class="child">Get Financial Aid</a>
+<ul>
+<li><a href="/admissions/financial-aid/scholarships/" class="grandchild">Scholarships and Awards</a></li>
+<li><a href="/admissions/financial-aid/tuition/" class="grandchild">Tuition and Fees</a></li>
+<li><a href="/admissions/financial-aid/net-price-calculator/" class="grandchild">Net Price Calculator</a></li>
+<li><a href="/admissions/financial-aid/how-to-apply/" class="grandchild">How to Apply for Aid</a></li>
+<li><a href="/admissions/financial-aid/need/" class="grandchild">Determining Financial Need</a></li>
+<li><a href="/admissions/financial-aid/understanding-your-award/" class="grandchild">Understanding Your Award</a></li>
+<li><a href="/admissions/financial-aid/grants/" class="grandchild">Grants</a></li>
+<li><a href="/work-study/" class="grandchild">Work-Study Opportunities</a></li>
+<li><a href="/admissions/financial-aid/loans/" class="grandchild">Loans</a></li>
+<li><a href="/admissions/financial-aid/veterans/" class="grandchild">VA Benefits</a></li>
+</ul>
+</li>
+<li>
+<a href="/admissions/accepted-students/" class="child">Accepted Students</a>
+<ul>
+<li><a href="/admissions/deposit/" class="grandchild">Pay Your Deposit</a></li>
+<li><a href="/registrar/students/transferring-credit/" class="grandchild">Transferring Credit</a></li>
+</ul>
+</li>
+<li>
+<a href="/admissions/diversity-ambassadors/" class="child">Diversity Ambassadors</a>
+</li>
+</ul>
+
+
+<div class="dropdown-content">
+
+
+<div class="callToActionBlurb">
+<div class="blurbs module_identifier-mcla-CallToActionBlurbModule-mloc-global_navigation_dropdown_content_admissions-mpar-3a39fab62b1616917473e004782b9817 module_api-standalone">
+<div class="blurb number1 uname_text_blurb_global_nav_admissions_buttons odd"><div class="blurbInner"><ul>
+<li><a class="cta-deposit gold" href="//www.luther.edu/admissions/deposit/">Pay Your Deposit</a></li>
+<li><a class="cta-apply green" href="https://connect.luther.edu/apply/">Apply Now</a></li>
+<li><a class="cta-visit blue" href="//www.luther.edu/admissions/visit/">Visit Luther</a></li>
+<li><a class="cta-tour red" href="//www.luther.edu/campus/tour/">Virtual Tour</a></li>
+</ul></div>
+</div>
+</div>
+</div>
+
+
+
+
+<div class="socialProfileSimpleLinks"><a href="https://www.facebook.com/luthercollege" target="_blank"><span class="label">Visit on Facebook</span></a> <a href="http://www.twitter.com/LutherAdmission" target="_blank"><span class="label">Visit on Twitter</span></a> <a href="http://www.instagram.com/lutheradmission" target="_blank"><span class="label">Instagram photos and videos</span></a> <a href="http://www.youtube.com/user/LutherCollegeMedia" target="_blank"><span class="label">YouTube videos</span></a></div>
+
+</div>
+</div>
+</li>
+<li class="minisite academics noSidebar">
+
+
+<a href="/academics/" class="minisite-name">Academics</a>
+<div class="dropdown-wrap">
+<ul class="dropdown-nav">
+<li>
+<a href="/academics/#majors" class="child">Majors, Minors, and Programs</a>
+</li>
+<li>
+<a href="/registrar/calendar/" class="child">Academic Calendar</a>
+</li>
+<li>
+<a href="/catalog/" class="child">College Catalog</a>
+</li>
+<li>
+<a href="/academics/programs-centers/" class="child">Distinctive Programs and Centers</a>
+<ul>
+<li><a href="/paideia/" class="grandchild">Paideia</a></li>
+<li><a href="/j-term/" class="grandchild">January Term</a></li>
+<li><a href="/academics/dean/scholars/" class="grandchild">Scholars Program</a></li>
+<li><a href="/global-learning/" class="grandchild">Center for Global Learning</a></li>
+<li><a href="https://www.luther.edu/sustainability/csc/" class="grandchild">Center for Sustainable Communities</a></li>
+<li><a href="https://www.luther.edu/public-life/" class="grandchild">Center for Ethics and Public Engagement</a></li>
+</ul>
+</li>
+<li>
+<a href="/academics/high-impact-learning/" class="child">High-Impact Learning</a>
+<ul>
+<li><a href="/academics/high-impact-learning/first-year/" class="grandchild">First-Year Seminars and Experiences</a></li>
+<li><a href="/academics/high-impact-learning/collaborative/" class="grandchild">Collaborative Assignments and Projects</a></li>
+<li><a href="/academics/high-impact-learning/research/" class="grandchild">Undergraduate Research</a></li>
+<li><a href="/academics/high-impact-learning/study-away/" class="grandchild">Study Away</a></li>
+<li><a href="/academics/high-impact-learning/internships/" class="grandchild">Internships</a></li>
+<li><a href="/academics/high-impact-learning/capstone-projects/" class="grandchild">Capstone Projects</a></li>
+</ul>
+</li>
+<li>
+<a href="/about/liberal-arts-college/" class="child">Liberal Arts Education</a>
+</li>
+<li>
+<a href="/academics/faculty-stories/" class="child">Faculty Stories</a>
+</li>
+<li>
+<a href="/academics/support/" class="child">Academic Support</a>
+</li>
+<li>
+<a href="/library/" class="child">Library</a>
+</li>
+<li>
+<a href="/diversity-at-luther" class="child">Diversity at Luther</a>
+</li>
+<li>
+<a href="/academics/dean/" class="child">Dean's Office</a>
+</li>
+<li>
+<a href="/registrar/" class="child">Registrar's Office</a>
+</li>
+</ul>
+
+
+</div>
+</li>
+<li class="minisite studentLife noSidebar">
+
+
+<a href="/studentlife/" class="minisite-name">Student Life</a>
+<div class="dropdown-wrap">
+<ul class="dropdown-nav">
+<li>
+<a href="/studentlife/resources/" class="child">Student Resources</a>
+<ul>
+<li><a href="/new-students/new-student-orientation/" class="grandchild">New Student Orientation</a></li>
+<li><a href="/studentlife/resources/leadership/" class="grandchild">Leadership Opportunities</a></li>
+<li><a href="/academic-integrity/" class="grandchild">Academic Integrity</a></li>
+<li><a href="/student-senate/" class="grandchild">Student Senate</a></li>
+<li><a href="/studentlife/resources/care-report/" class="grandchild">Care Report</a></li>
+<li><a href="/studentlife/resources/awards/" class="grandchild">Awards</a></li>
+<li><a href="/studentlife/resources/transportation-options/" class="grandchild">Transportation Options</a></li>
+</ul>
+</li>
+<li>
+<a href="/studentlife/residential/" class="child">Residential Campus</a>
+<ul>
+<li><a href="/dining/" class="grandchild">Dining Services</a></li>
+<li><a href="/reslife/" class="grandchild">Residence Life</a></li>
+<li><a href="/studentlife/activities/" class="grandchild">Student Activities Office</a></li>
+</ul>
+</li>
+<li>
+<a href="/studentlife/wellness-recreation/" class="child">Wellness and Recreation</a>
+<ul>
+<li><a href="/campus/tour/natural-areas/" class="grandchild">Natural Areas</a></li>
+<li><a href="/recservices/" class="grandchild">Recreational Services</a></li>
+<li><a href="/studentlife/wellness/" class="grandchild">Wellness Program</a></li>
+</ul>
+</li>
+<li>
+<a href="/studentlife/student-support/" class="child">Student-Centered Support</a>
+<ul>
+<li><a href="/career/" class="grandchild">Career Center</a></li>
+<li><a href="/ministries/" class="grandchild">College Ministries</a></li>
+<li><a href="/counseling/" class="grandchild">Counseling Service</a></li>
+<li><a href="/diversity/" class="grandchild">Center for Intercultural Engagement and Student Success</a></li>
+<li><a href="/healthservice/" class="grandchild">Health Service</a></li>
+<li><a href="/safety/" class="grandchild">Safety and Security</a></li>
+<li><a href="/studentlife/student-support/strengths/" class="grandchild">Strengths Based Leadership Program</a></li>
+</ul>
+</li>
+<li>
+<a href="/studentlife/office/" class="child">Student Life Office</a>
+<ul>
+<li><a href="/studentlife/office/offices/" class="grandchild">Offices</a></li>
+<li><a href="/safety/emergency/" class="grandchild">Emergency Procedures</a></li>
+<li><a href="/studentlife/office/crime/" class="grandchild">Crime Statistics</a></li>
+<li><a href="/studentlife/office/parents/" class="grandchild">Parents</a></li>
+<li><a href="/studentlife/office/staff/" class="grandchild">Staff</a></li>
+</ul>
+</li>
+<li>
+<a href="/studentlife/norse-creed/" class="child">The Norse Creed</a>
+</li>
+<li>
+<a href="/studentlife/student-handbook/" class="child">Student Handbook</a>
+</li>
+</ul>
+
+
+</div>
+</li>
+<li class="minisite athletics noSidebar">
+
+
+<a href="/sports/" class="minisite-name">Athletics</a>
+<div class="dropdown-wrap">
+<ul class="dropdown-nav">
+<li>
+<a href="/sports/men/" class="child">Men's Teams</a>
+<ul>
+<li><a href="/sports/men/baseball/" class="grandchild">Baseball</a></li>
+<li><a href="/sports/men/basketball/" class="grandchild">Basketball</a></li>
+<li><a href="/sports/men/cross-country/" class="grandchild">Cross Country</a></li>
+<li><a href="/sports/men/football/" class="grandchild">Football</a></li>
+<li><a href="/sports/men/golf/" class="grandchild">Golf</a></li>
+<li><a href="/sports/men/soccer/" class="grandchild">Soccer</a></li>
+<li><a href="/sports/men/swimming-diving/" class="grandchild">Swimming and Diving</a></li>
+<li><a href="/sports/men/tennis/" class="grandchild">Tennis</a></li>
+<li><a href="/sports/men/track-field/" class="grandchild">Track and Field</a></li>
+<li><a href="/sports/men/wrestling/" class="grandchild">Wrestling</a></li>
+</ul>
+</li>
+<li>
+<a href="/sports/women/" class="child">Women's Teams</a>
+<ul>
+<li><a href="/sports/women/basketball/" class="grandchild">Basketball</a></li>
+<li><a href="/sports/women/cross-country/" class="grandchild">Cross Country</a></li>
+<li><a href="/sports/women/golf/" class="grandchild">Golf</a></li>
+<li><a href="/sports/women/soccer/" class="grandchild">Soccer</a></li>
+<li><a href="/sports/women/softball/" class="grandchild">Softball</a></li>
+<li><a href="/sports/women/swimming-diving/" class="grandchild">Swimming and Diving</a></li>
+<li><a href="/sports/women/tennis/" class="grandchild">Tennis</a></li>
+<li><a href="/sports/women/track-field/" class="grandchild">Track and Field</a></li>
+<li><a href="/sports/women/volleyball/" class="grandchild">Volleyball</a></li>
+</ul>
+</li>
+<li>
+<a href="/sports/strength-conditioning/" class="child">Athletic Performance</a>
+</li>
+<li>
+<a href="/sports/training/" class="child">Athletic Training</a>
+<ul>
+<li><a href="/sports/training/staff/" class="grandchild">Athletic Training Staff</a></li>
+<li><a href="/sports/training/facilities/" class="grandchild">Athletic Training Facilities</a></li>
+<li><a href="/sports/training/forms/" class="grandchild">Athletic Training Forms</a></li>
+<li><a href="https://www.luther.edu/sports/assets/VisitingTeamLetter.pdf" class="grandchild">Visiting Team Information</a></li>
+</ul>
+</li>
+<li>
+<a href="/sports/media/" class="child">Live Streaming &amp; Media Gallery</a>
+<ul>
+<li><a href="http://portal.stretchinternet.com/luther/" class="grandchild">Streaming Schedule</a></li>
+<li><a href="/sports/media/gallery/" class="grandchild">Photo Gallery</a></li>
+</ul>
+</li>
+<li>
+<a href="/naa/" class="child">Norse Athletic Association</a>
+</li>
+<li>
+<a href="/sports/recruit/" class="child">Recruit Me</a>
+<ul>
+<li><a href="/sports/recruit/recruit/" class="grandchild">Team Recruitment Forms</a></li>
+<li><a href="/sports/recruit/tour/" class="grandchild">Facilities Virtual Tour</a></li>
+</ul>
+</li>
+<li>
+<a href="/sports/forms/" class="child">Student Athlete Forms</a>
+<ul>
+<li><a href="/sports/forms/checklist/" class="grandchild">First Day of Practice Checklist</a></li>
+<li><a href="/sports/forms/policies/" class="grandchild">NCAA Policies</a></li>
+<li><a href="/sports/forms/luther-policies/" class="grandchild">Luther Athletics Policies</a></li>
+<li><a href="/sports/forms/parents/" class="grandchild">Parent Information</a></li>
+<li><a href="/sports/forms/compliance/" class="grandchild">Compliance Forms</a></li>
+</ul>
+</li>
+<li>
+<a href="/sports/athletics/" class="child">Inside Luther Athletics</a>
+<ul>
+<li><a href="/sports/athletics/staff/" class="grandchild">Staff</a></li>
+<li><a href="/sports/athletics/visitors/" class="grandchild">Visitors Guide</a></li>
+<li><a href="/sports/athletics/facilities/" class="grandchild">Facilities</a></li>
+<li><a href="/sports/athletics/mission/" class="grandchild">Mission and Policies</a></li>
+<li><a href="/sports/athletics/history/" class="grandchild">History</a></li>
+<li><a href="/sports/athletics/hall-of-fame/" class="grandchild">Athletic Hall of Fame</a></li>
+<li><a href="/sports/athletics/meritoriusaward/" class="grandchild">Athletics Meritorious Service Award</a></li>
+<li><a href="/sports/athletics/postgrads/" class="grandchild">NCAA Postgraduate Scholars</a></li>
+<li><a href="/sports/athletics/cosidaacademic/" class="grandchild">CoSIDA Academic All-America</a></li>
+<li><a href="/sports/athletics/chi-alpha-sigma/" class="grandchild">Chi Alpha Sigma Honor Society</a></li>
+<li><a href="/sports/athletics/schedule/" class="grandchild">Complete Sports Schedule</a></li>
+<li><a href="/sports-information/" class="grandchild">Sports Information Office</a></li>
+</ul>
+</li>
+<li>
+<a href="/sports/camps/" class="child">Sports Camps</a>
+</li>
+</ul>
+
+
+</div>
+</li>
+<li class="minisite music noSidebar">
+
+
+<a href="/music/" class="minisite-name">Music</a>
+<div class="dropdown-wrap">
+<ul class="dropdown-nav">
+<li>
+<a href="/music/prospective-students/" class="child">Prospective Students</a>
+<ul>
+<li><a href="https://connect.luther.edu/register/music-recruit" class="grandchild">Recruit Me for Music</a></li>
+<li><a href="/music/prospective-students/auditions/" class="grandchild">Scholarship Auditions</a></li>
+<li><a href="/music/prospective-students/audition-dates/" class="grandchild">Scholarship Audition Dates</a></li>
+<li><a href="/music/prospective-students/hear-from-our-faculty/" class="grandchild">Hear from Our Faculty</a></li>
+<li><a href="/music/prospective-students/music-faq/" class="grandchild">Frequently Asked Questions</a></li>
+<li><a href="/music/prospective-students/scholarships/" class="grandchild">Music Scholarships</a></li>
+</ul>
+</li>
+<li>
+<a href="/music/academic-info/" class="child">Academic Information</a>
+<ul>
+<li><a href="/music/academic-info/why-study/" class="grandchild">Why Study Music at Luther?</a></li>
+<li><a href="/catalog/curriculum/music/" class="grandchild">Requirements and Courses</a></li>
+<li><a href="/music/academic-info/study-plans/" class="grandchild">Study Plans</a></li>
+<li><a href="/music/academic-info/music-education/" class="grandchild">Music Education</a></li>
+<li><a href="/music/academic-info/health-safety/" class="grandchild">Health and Safety Guidelines</a></li>
+</ul>
+</li>
+<li>
+<a href="/music/faculty/" class="child">Faculty</a>
+<ul>
+<li><a href="/music/faculty/emeriti/" class="grandchild">Emeriti</a></li>
+<li><a href="/music/faculty/ensembles/" class="grandchild">Faculty Ensembles</a></li>
+</ul>
+</li>
+<li>
+<a href="/music/outcomes/" class="child">Outcomes</a>
+<ul>
+<li><a href="/music/outcomes/careers/" class="grandchild">Careers</a></li>
+<li><a href="/music/outcomes/grad-stats/" class="grandchild">Recent Grad Statistics</a></li>
+<li><a href="/music/outcomes/alumni/" class="grandchild">Alumni Profiles</a></li>
+</ul>
+</li>
+<li>
+<a href="/music/ensembles/" class="child">Ensembles</a>
+</li>
+<li>
+<a href="/music/tours/" class="child">Ensemble Tours</a>
+</li>
+<li>
+<a href="/christmas-at-luther" class="child">Christmas at Luther</a>
+</li>
+<li>
+<a href="/music/dorian" class="child">Dorian Festivals and Summer Camps</a>
+</li>
+<li>
+<a href="/music/department/" class="child">Department Information</a>
+<ul>
+<li><a href="/music/events/" class="grandchild">Calendar</a></li>
+<li><a href="http://www.lutherbookshop.com/shop_main.asp?catalog_group_id=OQ&amp;catalog_group_name=Q0RzICYgRFZEcw" class="grandchild">Recordings</a></li>
+<li><a href="/music/department/facilities/" class="grandchild">Facilities</a></li>
+<li><a href="/music/department/mission-statement/" class="grandchild">Mission Statement</a></li>
+<li><a href="/music/department/staff/" class="grandchild">Staff</a></li>
+<li><a href="/music-marketing/" class="grandchild">Music Marketing Office</a></li>
+</ul>
+</li>
+</ul>
+
+
+</div>
+</li>
+<li class="minisite outcomes hasSidebar">
+
+
+<a href="/inauguration/" class="minisite-name">Inauguration</a>
+<div class="dropdown-wrap">
+<ul class="dropdown-nav">
+<li>
+<a href="/inauguration/schedule/" class="child">Schedule of Events</a>
+<ul>
+<li><a href="/inauguration/schedule/Agora/" class="grandchild">Luther Agora</a></li>
+<li><a href="/inauguration/schedule/Decorah/" class="grandchild">Inaugural Night on the Town</a></li>
+</ul>
+</li>
+<li>
+<a href="/inauguration/rsvp/" class="child">Response Form</a>
+</li>
+<li>
+<a href="/inauguration/well-wishes/" class="child">Send Well Wishes</a>
+</li>
+<li>
+<a href="/decorah/lodging/" class="child">Area Lodging</a>
+</li>
+<li>
+<a href="/president/" class="child">Office of the President</a>
+</li>
+<li>
+<a href="/admissions/visit/directions/" class="child">Directions to Decorah</a>
+</li>
+<li>
+<a href="https://www.luther.edu/campus/map/" class="child">Campus Map</a>
+</li>
+</ul>
+
+
+<div class="dropdown-content">
+</div>
+</div>
+</li>
+</ul>
+</nav>
+<section id="minisite" class="hasContent hasNavigation hasConNav">
+<div class="minisiteWrap"><header id="minisiteBanner"><div id="banner" role="banner" aria-label="site">
+<h1 class="siteTitle"><a href="/catalog/"><span>2019-20 Academic Catalog</span></a></h1>
+</div>
+<div class="breadcrumbs"><a href="/"><span class="screenreader">Home</span><i class="fa fa-home"></i></a> <span>&raquo;</span> <a href="/catalog/" class="locationBarLinks">2019-20 Academic Catalog</a> <span>&raquo;</span> <a href="/catalog/curriculum/" class="locationBarLinks">Curriculum</a> <span>&raquo;</span> Dance</div>
+</header><nav id="navWrap" class="hasNav hasSubNav">
+<a class="toggle" href="#minisiteNavigation">
+<h1><span class="screenreader">2019-20 Academic Catalog</span> <span class="helper-text">Menu <i class="fa fa-arrow-right"></i></span></h1>
+<i class="fa fa-bars"></i>
+<i class="fa fa-times"></i>
+</a>
+
+
+<div id="minisiteNavigation" class="module_identifier-mcla-NavigationModule-mloc-navigation-mpar-3b18c0f2cb22d75c095d016ae47598e5 module_api-standalone" role="navigation" aria-label="page"><div class="list"><ul class="navListTop"><li class="navListItem open 2019-20_academic_catalog"><a href="/catalog/" class="home"><span>2019-20 Academic Catalog</span></a><ul class="navList"><li class="navListItem open pseudoCurrent curriculum"><a href="/catalog/curriculum/">Curriculum</a><ul class="navList"><li class="navListItem closed program_learning_goals"><a href="/catalog/curriculum/program-learning-goals/">Program Learning Goals</a></li></ul></li><li class="navListItem accordion closed item1 academic_information"><a href="/catalog/academics/">Academic Information</a><ul class="navList"><li class="navListItem closed item1 goals_for_student_learning"><a href="/catalog/academics/goals/">Goals for Student Learning</a></li><li class="navListItem closed item2 requirements_for_the_degree"><a href="/catalog/academics/requirements/">Requirements for the Degree</a></li><li class="navListItem closed item3 policies_and_procedures"><a href="/catalog/academics/policies/">Policies and Procedures</a></li><li class="navListItem closed item4 jump jump-internal advising"><a href="https://www.luther.edu/registrar/students/degree-progress/advising/">Advising</a></li><li class="navListItem closed item5 jump jump-internal academic_support_programs"><a href="/academics/support/">Academic Support Programs</a></li><li class="navListItem closed item6 jump jump-internal scholars_program"><a href="/academics/dean/scholars/">Scholars Program</a></li><li class="navListItem closed item7 jump jump-internal off-campus_study_programs"><a href="/global-learning/">Off-Campus Study Programs</a></li></ul></li><li class="navListItem closed item2 jump jump-internal costs_and_financial_policies"><a href="/financial-services/students/">Costs and Financial Policies</a></li><li class="navListItem closed item3 jump jump-internal academic_calendar"><a href="/registrar/calendar/">Academic Calendar</a></li><li class="navListItem closed item4 jump jump-internal about_luther"><a href="/about/">About Luther</a></li><li class="navListItem closed item5 catalog_archive"><a href="/catalog/archive/">Catalog Archive</a></li></ul></li></ul>
+</div></div>
+
+<div class="subNavElements">
+
+
+<aside class="contactBlurb">
+<div class="blurbInner">
+<h2>Contact Information</h2>
+<p>Registrar's Office<br />Main Building 123<br />700 College Drive<br />Decorah, Iowa 52101</p><h3>Phone:</h3><p>563-387-1167</p><h3>Email:</h3><p><a href="/cdn-cgi/l/email-protection#126077757b6166607360527e67667a77603c777667"><span class="__cf_email__" data-cfemail="4b392e2c22383f392a390b273e3f232e39652e2f3e">[email&#160;protected]</span></a></p></div>
+</aside>
+
+
+</div>
+</nav>
+<section id="contentAndRelated"><header class="contentHead">
+<div class="breadcrumbs"><a href="/"><span class="screenreader">Home</span><i class="fa fa-home"></i></a> <span>&raquo;</span> <a href="/catalog/" class="locationBarLinks">2019-20 Academic Catalog</a> <span>&raquo;</span> <a href="/catalog/curriculum/" class="locationBarLinks">Curriculum</a> <span>&raquo;</span> Dance</div>
+
+
+<h1 class="pageTitle"><span>Dance</span></h1>
+
+</header>
+<div id="contentSections">
+<div class="contentMain">
+
+
+<div id="subjectPageModule" class="module_identifier-mcla-LutherCatalogSubjectPageModule-mloc-main-mpar-dcca48101505dd86b703689a604fe3c4 module_api-standalone" year="2017">
+<a name="block1"></a>
+<div class="catalog_block">
+<p><strong>Jeff Dintaman</strong> (department head)</p>
+<p>Art and performance training expands the capabilities of the human body and imagination, developing capacities for persistence, invention, and communication. Dance minors learn self-confidence and refine their ability to conceive and enact new ideas, practices, and solutions through the performative body. Collaborative performances and studio environments stimulate active learning, and promote body and mind development toward reflecting what it means to be human. This approach equips students with skills for dealing with a complex world, and engaging with and contributing to the dance world as performers, choreographers, teachers, and collaborators.</p>
+<p>The dance minor is appropriate for the student who is continuing their study of dance, reentering dance, or accessing dance for the first time. The discipline of dance at Luther is based in the experiential and analytical study of <a href="//www.luther.edu/mf/">movement fundamentals</a>, three courses rooted in somatic (body based) rather than dance styles education. These three courses educate the dance artist through the paired principles of: alignment and function; range and efficiency; and vocabulary and intention. Along with movement fundamentals, <a href="//www.luther.edu/dance/department/contact-improv/">contact improvisation</a> is a core component in shaping this holistic and distinct foundation for dance technique. This somatic approach to dance brings suppleness and refinement to skills attained in prior studio training and daily life movements while adding sophistication to dance making and performing.</p>
+<p>Dance minors become dance artists, dance or movement teachers, or continue on to become dance scholars. Dance minors pursue graduate and professional studies, certification and employment in performance; choreography; dance or movement education; dance curation; dance studio or company management; somatic movement practices; somatic psychology; movement, dance, or massage therapy; medicine; and chiropractic arts.</p>
+</div>
+<a name="block2"></a>
+<div class="catalog_block">
+<p><strong>Required for a minor:</strong> 20-24 credits, DAN 105, 130, 205, 360; DAN 264 or 351 and choice of DAN 305 and 1 DAN 100 or DAN 100, 3 times.</p>
+<p><strong>Dance Management Concentration:</strong> To complete the dance management concentration a student is required to complete a major in management and a minor in dance.</p>
+<p>View <a href="//www.luther.edu/catalog/assets/Program_Learning_Goals__2019_2020_.pdf" title="Program Learning Goals">program learning goals</a> for an explanation of learning outcomes in Dance.&nbsp;</p>
+</div>
+<a name="block3"></a>
+<div class="catalog_block">
+<h3>Dance Courses</h3>
+<div class="courseContainer">
+<h4><span class="courseNumber" course="course_696983_2017">DAN 100</span> <span class="courseTitle">Performance Practicum</span> </h4>
+<ul class="fa-ul">
+<li><i class="fa-li fa fa-clock-o fa-lg"></i>0 hours</li>
+<li><i class="fa-li fa fa-check-square-o fa-lg"></i>Fulfills: <span class="genEd" data-gened="SKL">Skills</span>, <span class="genEd" data-gened="HE">Human Expression</span></li>
+</ul>
+<p><span class="courseDescription">An intensive experiential research ensemble devoted to creating, developing, performing and producing a faculty-directed dance performance.  Students in this course will be involved in research and theoretical discussion supporting active involvement in a collaborative process of performance and production.  Dance majors must complete six performance practicums, while minors must complete three.  Course may be repeated an unlimited number of times (including more than one in a semester).  Enrollment by audition or consent of instructor, will be limited to performing members of the ensemble for the production.</span></p>
+</div>
+<div class="courseContainer">
+<h4><span class="courseNumber" course="course_696984_2017">DAN 101</span> <span class="courseTitle">Dance Technique and Analysis</span> </h4>
+<ul class="fa-ul">
+<li><i class="fa-li fa fa-clock-o fa-lg"></i>4 hours</li>
+<li><i class="fa-li fa fa-check-square-o fa-lg"></i>Fulfills: <span class="genEd" data-gened="HEPT">Human Expression—Primary Texts</span></li>
+</ul>
+<p><span class="courseDescription">This course introduces Movement Fundamentals (MF)and Laban Movement Analysis (LMA) through theatrical, social, ritualized dance and movement practices. Students will investigate how MF and LMA prepares them for analyzing ritualized dance and movement practices and for teaching and performing various dance and movement forms (ballet, contemporary, jazz, hip-hop, yoga, pilates, swing, ballroom, martial arts, etc). This course examines the body as primary source through performance (both live and recorded) and theoretical texts from various theatrical, social, ritualized dance and movement practices.</span></p>
+</div>
+<div class="courseContainer">
+<h4><span class="courseNumber" course="course_696985_2017">DAN 105</span> <span class="courseTitle">Movement Fundamentals I: Practices of Alignment and Function</span> </h4>
+<ul class="fa-ul">
+<li><i class="fa-li fa fa-clock-o fa-lg"></i>4 hours</li>
+<li><i class="fa-li fa fa-check-square-o fa-lg"></i>Fulfills: <span class="genEd" data-gened="HE">Human Expression</span></li>
+</ul>
+<p><span class="courseDescription">An introductory movement course exploring vital integrative connections between somatic practice and performance preparation.  Somatic skills including dynamic alignment and functional anatomy provide the groundwork for embodied movement exploration.  The study and practice of dynamic alignment and embodied anatomy unfolds new relationships between physical function and expression.</span></p>
+</div>
+<div class="courseContainer">
+<h4><span class="courseNumber" course="course_696986_2017">DAN 130</span> <span class="courseTitle">Contact Improvisation</span> </h4>
+<ul class="fa-ul">
+<li><i class="fa-li fa fa-clock-o fa-lg"></i>4 hours</li>
+<li><i class="fa-li fa fa-check-square-o fa-lg"></i>Fulfills: <span class="genEd" data-gened="SKL">Skills</span>, <span class="genEd" data-gened="HB">Human Behavior</span>, <span class="genEd" data-gened="HE">Human Expression</span></li>
+</ul>
+<p><span class="courseDescription">This course is an introduction to the fundamentals of contact improvisation, a dance form that explores elements of physical contact among participants while challenging preconceptions about the gendered body. Emphasis will be placed on finding mindful and physical ways to prepare to be "ready" to dance: cultivating a quiet core amidst the wilderness of physical disorientation; finding the root of levity, contact point, weight sharing, and physical pathways into the floor and air; and focusing attention on the details of sensation. Students will engage in egalitarian practices for building physical skills of trust, receptivity, and responsiveness, as well as physical tolerance for waiting in the unknown.(Same as WGST 131)</span></p>
+</div>
+<div class="courseContainer">
+<h4><span class="courseNumber" course="course_696990_2017">DAN 199</span> <span class="courseTitle">Dance Synthesis</span> </h4>
+<ul class="fa-ul">
+<li><i class="fa-li fa fa-clock-o fa-lg"></i>0 hours</li>
+</ul>
+<p><span class="courseDescription">During the sophomore year majors will develop a written reflection outlining their previous work in the performing arts and develop possible pathways for future directions leading toward their senior project.</span></p>
+</div>
+<div class="courseContainer">
+<h4><span class="courseNumber" course="course_696991_2017">DAN 205</span> <span class="courseTitle">Movement Fundamentals II: Practices of Range and Efficiency</span> </h4>
+<ul class="fa-ul">
+<li><i class="fa-li fa fa-clock-o fa-lg"></i>4 hours</li>
+<li><i class="fa-li fa fa-check-square-o fa-lg"></i>Fulfills: <span class="genEd" data-gened="HE">Human Expression</span></li>
+<li><i class="fa-li fa fa-book fa-lg"></i>Prerequisites: DAN 105</li>
+</ul>
+<p><span class="courseDescription">An intermediate movement course building technical practice from basic somatic skills.  This technique course supports awareness of individual movement patterns and sequences allowing for the development of new movement possibilities.  This increased range and efficiency opens the door to new levels of creative expression in communication and performance. This course may be repeated twice.</span></p>
+</div>
+<div class="courseContainer">
+<h4><span class="courseNumber" course="course_696992_2017">DAN 230</span> <span class="courseTitle">Contact Improvisation II</span> </h4>
+<ul class="fa-ul">
+<li><i class="fa-li fa fa-clock-o fa-lg"></i>4 hours</li>
+<li><i class="fa-li fa fa-check-square-o fa-lg"></i>Fulfills: <span class="genEd" data-gened="HE">Human Expression</span></li>
+<li><i class="fa-li fa fa-book fa-lg"></i>Prerequisites: DAN 130</li>
+</ul>
+<p><span class="courseDescription">Building on introductory practices of contact improvisation, students will develop their physical skills in both capacity and subtlety within the form.  Students will improve listening and internal awareness for very fast dancing, patterning in and out of the floor, more innovation in lifting, and maintaining the point of contact coming out of lifts.  Further study includes the craft and facilitation of scores for the practice and performance of contact improvisation.</span></p>
+</div>
+<div class="courseContainer">
+<h4><span class="courseNumber" course="course_696995_2017">DAN 264</span> <span class="courseTitle">Performance Research:The Happenings Course</span> </h4>
+<ul class="fa-ul">
+<li><i class="fa-li fa fa-clock-o fa-lg"></i>4 hours</li>
+<li><i class="fa-li fa fa-check-square-o fa-lg"></i>Fulfills: <span class="genEd" data-gened="HE">Human Expression</span></li>
+</ul>
+<p><span class="courseDescription">This experiential studio and field course will provide the student with theories, practices and performance opportunities based in creating site-specific "happenings" both on and off campus, inspired by the (American) avant-garde theatre.  Students will configure and implement performance scores based in concepts of attracting attention and creating a gathering within the mundane domain.  The intensity of the research is based in uncompromising realism and raw and unmediated ways in which artists confront experiences in collusion with audiences from real time in order to investigate new levels of understanding perceptual or psychological states of being human.  This performance research attempts to open a disquieting discourse on contemporary daily life.  Recommended for the student interested in performance and art, the historical (American) avant-garde and creating community.</span></p>
+</div>
+<div class="courseContainer">
+<h4><span class="courseNumber" course="course_696998_2017">DAN 300</span> <span class="courseTitle">Production Studio</span> </h4>
+<ul class="fa-ul">
+<li><i class="fa-li fa fa-clock-o fa-lg"></i>1 hour</li>
+<li><i class="fa-li fa fa-book fa-lg"></i>Prerequisites: Junior standing</li>
+</ul>
+<p><span class="courseDescription">An experiential collaborative component for the dance major.  Set within a faculty-directed project or production, the student participates in research, dialogue, and the underpinnings of producing work.  Requires junior or senior standing. (Same as THE 300)</span></p>
+</div>
+<div class="courseContainer">
+<h4><span class="courseNumber" course="course_696999_2017">DAN 305</span> <span class="courseTitle">Movement Fundamentals III:Practices of Vocabulary and Intention</span> </h4>
+<ul class="fa-ul">
+<li><i class="fa-li fa fa-clock-o fa-lg"></i>4 hours</li>
+<li><i class="fa-li fa fa-check-square-o fa-lg"></i>Fulfills: <span class="genEd" data-gened="HE">Human Expression</span></li>
+<li><i class="fa-li fa fa-book fa-lg"></i>Prerequisites: DAN 205</li>
+</ul>
+<p><span class="courseDescription">This is an advanced movement course focusing on crystallizing performance skills through the development of individual movement versatility and invention. Practice of technique builds from somatic skills and contemporary dance vocabulary through both technical phrasing and improvisational scoring. Depth of integrative practice prepares the mover to refine movement vocabulary and clarify movement vocabulary and intention. This course may be repeated.</span></p>
+</div>
+<div class="courseContainer">
+<h4><span class="courseNumber" course="course_697001_2017">DAN 351</span> <span class="courseTitle">Dance History</span> </h4>
+<ul class="fa-ul">
+<li><i class="fa-li fa fa-clock-o fa-lg"></i>4 hours</li>
+<li><i class="fa-li fa fa-check-square-o fa-lg"></i>Fulfills: <span class="genEd" data-gened="HEPT">Human Expression—Primary Texts</span>, <span class="genEd" data-gened="HIST">Historical</span></li>
+</ul>
+<p><span class="courseDescription">This course studies a breadth of representative dance artists, artworks and practices from the ancient period to the present in order to understand intercultural and cross-genre development of performance dance. African, American, Asian and European dance forms are included, with a focus on figures and conventions in ballet and Western modern and contemporary dance. Dance and choreography are analyzed in relation to their historical, artistic, social and political contexts. Depth is accomplished through individual scholarly research projects on a subject of the student's choosing, and experiential projects focused on a particular dance artist or artistic concept.</span></p>
+</div>
+<div class="courseContainer">
+<h4><span class="courseNumber" course="course_697002_2017">DAN 360</span> <span class="courseTitle">Dance Composition</span> </h4>
+<ul class="fa-ul">
+<li><i class="fa-li fa fa-clock-o fa-lg"></i>4 hours</li>
+<li><i class="fa-li fa fa-check-square-o fa-lg"></i>Fulfills: <span class="genEd" data-gened="HE">Human Expression</span></li>
+<li><i class="fa-li fa fa-book fa-lg"></i>Prerequisites: DAN 101 or 105; THE 127 or ART 104</li>
+</ul>
+<p><span class="courseDescription">This course introduces the basic tools of dance-making, while exploring the development and crafting of movement within time, space, and design elements.  Consideration of compositional methods in other art forms-theatre, music, visual art, literature-will inform the development of skills for creating dance/movement events.  Students will prepare solo and group studies for informal performances and observe, discuss, and critique their work as they learn how to see dance as well as make it.</span></p>
+</div>
+
+</div>
+</div>
+
+
+</div>
+</div>
+</section><footer id="footer" role="contentInfo">
+
+
+<aside class="contactBlurb">
+<div class="blurbInner">
+<h2>Contact Information</h2>
+<p>Registrar's Office<br />Main Building 123<br />700 College Drive<br />Decorah, Iowa 52101</p><h3>Phone:</h3><p>563-387-1167</p><h3>Email:</h3><p><a href="/cdn-cgi/l/email-protection#bdcfd8dad4cec9cfdccffdd1c8c9d5d8cf93d8d9c8"><span class="__cf_email__" data-cfemail="196b7c7e706a6d6b786b59756c6d717c6b377c7d6c">[email&#160;protected]</span></a></p></div>
+</aside>
+
+
+<div id="foot">
+
+
+<div id="maintained">
+<div id="maintainer">2019-20 Academic Catalog maintained by <a href="/cdn-cgi/l/email-protection#37454e56595919405e595e595044775b42435f524519525342">RyAnn Winings</a>. <span id="lastUpdated"> Page last updated on 28 June 2019</span>.</div></div>
+
+
+
+
+<div class="loginLinkModule unauthenticated"><p id="footerLoginLink"><a href="https://www.luther.edu/login/" class="login">Login</a></p>
+</div>
+
+
+</div>
+</footer>
+</div></section>
+
+
+			<footer id="global-footer">
+
+				<h2 class="screenreader">Complimentary Navigation</h2>
+
+				<div id="global-footer-nav" class="section" role="navigation">
+					<div class="row">
+						<div class="column">
+							<h3>About</h3>
+							<ul>
+								<li><a href="/about/">About Luther</a></li>
+								<li><a href="/about/lutheran-college/">College of the Church</a></li>
+								<li><a href="/diversity-at-luther/">Diversity at Luther</a></li>
+								<li><a href="/about/liberal-arts-college/">The Liberal Arts</a></li>
+								<li><a href="/sustainability/">Sustainability</a></li>
+							</ul>
+						</div>
+						<div class="column">
+							<h3>Alumni & Friends</h3>
+							<ul>
+								<li><a href="/alumni/directory/">Alumni Directory</a></li>
+								<li><a href="/alumni/">Alumni Home</a></li>
+								<li><a href="/giving/">Giving</a></li>
+								<li><a href="/homecoming/">Homecoming</a></li>
+								<li><a href="/magazine/">Magazine</a></li>
+							</ul>
+						</div>
+						<div class="column">
+							<h3>Campus</h3>
+							<ul>
+								<li><a href="/bookshop/">Book Shop</a></li>
+								<li><a href="/ministries/">College Ministries</a></li>
+								<li><a href="/dining/">Dining Services</a></li>
+								<li><a href="/helpdesk/">Technology Help Desk</a></li>
+								<li><a href="https://tickets.luther.edu/Online/default.asp">Ticket Office</a></li>
+							</ul>
+						</div>
+						<div class="column">
+							<h3>Offices</h3>
+							<ul>
+								<li><a href="/marketing/">Communications</a></li>
+								<li><a href="/financial-services/">Financial Services</a></li>
+								<li><a href="/hr/">Human Resources</a></li>
+								<li><a href="/president/">President</a></li>
+								<li><a href="/registrar/">Registrar’s Office</a></li>
+							</ul>
+						</div>
+						<div class="column">
+							<h3>Quick Links</h3>
+							<ul>
+								<li><a href="/directory/">Directory</a></li>
+								<li><a href="http://mail.luther.edu">Norse Mail</a></li>
+								<li><a href="https://katie.luther.edu/">KATIE</a></li>
+								<li><a href="/library/">Library</a></li>
+								<li><a href="https://my.luther.edu/">my.luther.edu</a></li>
+							</ul>
+						</div>
+						<div class="column">
+							<div class="socialProfileSimpleLinks">
+							<ul>
+								<li><a href="https://www.facebook.com/luthercollege" target="_blank"><span class="label">Facebook</span></a>
+								<a href="https://twitter.com/luthercollege" target="_blank"><span class="label">Twitter</span></a></li>
+								<li><a href="http://instagram.com/luthercollege#" target="_blank"><span class="label">Instagram</span></a>
+								<a href="https://www.youtube.com/user/LutherCollegeMedia" target="_blank"><span class="label">YouTube</span></a></li>
+								<li><a href="https://plus.google.com/106145735238161370551" target="_blank"><span class="label">Google+</span></a>
+								<a href="https://www.linkedin.com/edu/luther-college-20110" target="_blank"><span class="label">LinkedIn</span></a></li>
+							
+							</ul>
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<div id="global-footer-contact" class="row">
+					<div class="column">
+						<p class="contact">
+							<span class="addr">
+								<span class="">Luther College</span> <span class="sep"></span>
+								<span class="street-address">700 College Drive</span> <span class="sep"></span>
+								<span class="locality">Decorah,</span>
+								<span class="region">Iowa</span>
+								<span class="postal-code">52101</span> <span class="sep"></span>
+								<span class="country-name">USA</span>
+							</span>
+							<span class="phone"><a href="tel:563-387-2000">563-387-2000</a> <span class="sep"></span> <a href="tel:800-458-8437">800-4-LUTHER</a> (<span class="tel"><a href="tel:800-458-8437">800-458-8437</a></span>)</span>
+						</p>
+					</div>
+				</div>
+
+				<div id="global-footer-ultilty" class="row">
+					<div class="column">
+						<ul class="utility-nav" role="navigation">
+							<li><a href="http://emergency.luther.edu"><span>Emergency Info</span></a></li>
+							<li><a href="/privacy/"><span>Privacy Statement</span></a></li>
+							<li><a href="/reportproblem/"><span>Report a Problem</span></a></li>
+						</ul>
+					</div>
+				</div>
+
+				<div id="post-footer" class="row">
+					<div class="column">
+						<p class="copyright">&copy; 2019 <a href="/">Luther College</a>. All rights reserved.</p>
+						<p class="powered-by">Powered by <a href="https://apps.carleton.edu/opensource/reason/" target="_blank">Reason CMS</a>.</p>
+					</div>
+				</div>
+
+				<!-- close the off-canvas menu -->
+ 				<a class="exit-off-canvas"></a>
+
+			</footer>
+
+			
+
+</div>
+</div>
+</div>
+</div>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript" src="/reason/local/luther_2014/javascripts/vendor/fastclick.js"></script><script type="text/javascript" src="/reason/local/luther_2014/foundation/bower_components/foundation/js/foundation.min.js"></script><script> $(document).foundation(); </script><script type="text/javascript" src="/reason/local/luther_2014/javascripts/luther.js"></script></body>
+</html>
