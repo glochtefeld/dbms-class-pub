@@ -1,0 +1,257 @@
+dept,name,office,extension,email,head
+12,"Whitsitt, Novian, head",Main 604,2142,whitsino,1
+12,"Mtisi, Richard",Koren 204,1264,mtisri01,0
+3,"Larsen, Kirk, head",Sampson Hoffland Lab 190D,1558,larsenkj,1
+3,"Baack, Eric",Sampson Hoffland Lab 190G,1087,baacer01,0
+3,"Carlson, Scott",Sampson Hoffland Lab 290H,1552,carlsosc,0
+3,"Eichinger, Mark",Sampson Hoffland Lab 290C,1551,eichma01,0
+3,"Enos-Berlage, Jodi",Sampson Hoffland Lab 290F,1554,enosbejo,0
+3,"Fretham, Stephanie",Sampson Hoffland Lab 190B,1555,bohmst01,0
+3,"Hiester, Brian",Sampson Hoffland Lab 290B,1550,hiesbr01,0
+3,"Kaehler, Marian",,,kaehlerm,0
+3,"Kraus, Kevin",Union 262D,1005,krauske,0
+3,"Lynch, Elizabeth",Sampson Hoffland Lab 190F,1248,lynchbet,0
+3,"McNicoll, Molly",Sampson Hoffland Lab 190C,1257,mcnimo01,0
+3,"Reding, Dawn",Sampson Hoffland Lab 190A,1700,redida01,0
+3,"Strand, Gwen",Sampson Hoffland Lab 290A,1177,strandgu,0
+3,"Fitton, Robert",Sampson Hoffland Lab 190E,1559,fittonro,0
+23,"Michels, Olga, head",Sampson Hoffland Lab 390E,1684,rincol01,1
+23,"Chamberlain, Bradley",Union 234A,1627,chambr01,0
+23,"Hedstrom, Jack",Sampson Hoffland Lab 390G,1625,hedstrom,0
+23,"Jefferson, John",Sampson Hoffland Lab 390H,1119,jeffersj,0
+23,"Mertzenich, Claude",Sampson Hoffland Lab 390F,1626,mertzecl,0
+23,"Tokheim, Benjamin",Sampson Hoffland Lab 390C,1681,tokhbe01,0
+23,"Wilker, Molly",Sampson Hoffland Lab 390D,1123,wilkmo01,0
+23,"Winsauer, Alisa",Sampson Hoffland Lab 390B,1342,winsal01,0
+13,"Kopf, Gereon, acting head",Ockham House 15,1497,kopfg,1
+13,"Bulliung, Anne",Main 115A,1263,bulliuan,0
+13,"Davis, Dan",,,davida06,0
+13,"Thorne, Mark",Main 115B,2551,thorma02,0
+14,"Powell, Kim, head",Campus House 101,1362,powellki,1
+14,"Bodensteiner, Keri",Campus House 102,1347,bodeke02,0
+14,"Grouws, David",Union LL4,1079,grouda01,0
+14,"Johnson, Thomas",Campus House 105,1091,johnth03,0
+14,"Sweet, Derek",Campus House 103,1566,sweede01,0
+14,"Wilder, Sarah",Campus House 104,1334,wildsa02,0
+11,"Lee, Kent, head",Olin 318,2429,leekentd,1
+11,"Mattson, Paul",Olin 322,1717,mattpa01,0
+11,"Yasinovskyy, Roman",Olin 319,1171,yasiro01,0
+11,"Zaring, Alan",Olin 321,1137,zarial01,0
+8,"Holland, Steven, head",Olin 331,1130,hollst03,1
+8,"Cord, Brittany",Olin 346,1035,cordbr01,0
+8,"Gomersall, Nicholas",Olin 335,1133,gomersni,0
+8,"Jones, Don",Olin 332,1706,jonedo01,0
+8,"Larson, Rob",Olin 347,1568,larsro01,0
+8,"Mutsune, Tony",Olin 339,1574,mutsto01,0
+8,"Patton, Greg",Olin 341,1295,pattgr01,0
+8,"Schweizer, Tim",Olin 334,1131,schweizt,0
+8,"Shilts, Wade",Olin 333,1714,shiltswa,0
+8,"Torkelson, Ryan",Olin 342,1187,torkry01,0
+8,"White, Alexandra",Olin 344,1812,whital04,0
+10,"Bohach, Barbara, head",Koren 105,1547,bohachba,1
+10,"Huinker, Amanda",Koren 109,1196,roigeram,0
+10,"Leet-Otley, Jill",Koren 104,1542,leetji01,0
+10,"Meyer-Mork, Jodi",Koren 103,1544,meyejo09,0
+10,"Norland, Deborah",Koren 116,1546,norlandd,0
+10,"Pillsbury, Jeannette",Koren 107,1543,pillje01,0
+10,"Potvin, Susan",Koren 109,1196,stockssu,0
+10,"Snell-Anderson, Heidi",Koren 109,1196,snelhe01,0
+10,"Vesperman, Dean",Koren 102,2979,vespde01,0
+10,"Wilson, Jill",Koren 101,1301,wilsji01,0
+10,"Bigler, Kris",Koren 108,1548,biglkr01,0
+21,"Kildegaard, Lise, head",Main 503A,1683,kildegli,1
+21,"Barry, Nancy",Main 505,1591,barrynan,0
+21,"Drews, Marie",Main 501,1181,drewsmar,0
+21,"Faldet, David",Main 503,1592,faldetda,0
+21,"Faldet, Rachel",Main 507,1082,faldetra,0
+21,"Garcia, Mike",Main 502,2207,garcmi01,0
+21,"Hageman, Andrew",Main 606,1256,hagean03,0
+21,"Klammer, Martin",Main 602,2112,klammerm,0
+21,"Narveson, Kate",Main 506,1593,narveska,0
+21,"Row-Heyveld, Lindsey",Main 504,1596,rowhli01,0
+21,"Weldon, Amy (ACM London—spring)",,,,0
+21,,Main 603A,2224,weldam01,0
+21,"Whitsitt, Novian",Main 604,2142,whitsino,0
+22,"Peterson, Laura, program director Valders 372H",,1781,cleala01,0
+22,"Brummel, Rachel",Valders 372E,1778,brumra02,0
+22,"Jensen, Jon",Valders 372D,1696,jensjo01,0
+22,"Neal, Emily",Valders 372F,2138,nealem01,0
+6,"Caton, Brian, head",Koren 203,2119,catobr01,1
+6,"Christman, Robert",Koren 207,2137,chriro05,0
+6,"Christman, Victoria",Olin 214,1071,chrivi02,0
+6,"Little, Dalton",Koren 209,2981,littda02,0
+6,"Mtisi, Richard",Koren 204,1264,mtisri01,0
+6,"Peterson, Anna",Koren 202,1155,petean07,0
+6,"Sharp, Kelly",Koren 208,1691,sharke01,0
+6,"Wilkie, Jacqueline",Koren 201,1369,wilkieja,0
+17,"Solberg, Brian, head",The Regents Center 228,1246,solberbr,1
+17,"Boeke, Jeff",Ockham House 108,1820,boekje01,0
+17,"Drewes-Stoen, Ellen",The Regents Center 105B,1587,drewesel,0
+17,"Hall, James (spring)",The Regents Center,1245,hallja02,0
+17,"Hornbacher, Steven",The Regents Center,1245,hornst02,0
+17,"Jaeger, Roger",The Regents Center,1245,jaegerrj,0
+17,"OGara, Jeff",The Regents Center 26,2649,ogarajef,0
+17,"Wettach, Jeff",The Regents Center 14E,1245,wettacje,0
+17,"Wright, Jacquelyn",The Regents Center 105A,1581,wrightja,0
+17,"Agena, Kris",The Regents Center 15,1658,agenkr01,0
+17,"Androus, John",The Regents Center 16C,1612,andrjo04,0
+17,"Bailey, Amanda",The Regents Center 213,1584,necham01,0
+17,"Battle, Raven",The Regents Center 11C,1024,battra01,0
+17,"Clift, Christopher",The Regents Center 11D,1637,clifch01,0
+17,"Garcia-Prats, Chris",The Regents Center 217B,1443,garcch01,0
+17,"Garcia-Prats, James",The Regents Center 230A,1083,garcja01,0
+17,"Hickman, Billy",The Regents Center 11B,1613,hickwi02,0
+17,"Jennings, Chandra",Dahl Union 266A,2075,skinch01,0
+17,"Kaupp, Nicole",The Regents Center 207,1578,kaupni01,0
+17,"Keller, Dorian",The Regents Center 11E,2180,kelldo01,0
+17,"Pasche, Steve",The Regents Center 209,1589,pascst01,0
+17,"Pasche, Yarrow",The Regents Center 212,1282,pascya01,0
+17,"Schnittjer, Amber",The Regents Center 35A,2128,schnam02,0
+17,"Sisk, Brittany",The Regents Center 217D,1496,siskbr01,0
+17,"Strand, Adam",The Regents Center 217C,2181,strandad,0
+5,"Beckendorf, Andrea",Preus Library 207D,1227,beckenan,0
+5,"Moeller, Lindy",Preus Library 217,1498,moellind,0
+5,"Sullivan, Rebecca",Main 126,2212,sullivre,0
+4,"Westlund, Eric, head",Olin 307,1711,wester01,1
+4,"Berger, Ruth",Olin 317,1174,bergerr,0
+4,"Bernatz, Richard",Main 123,1233,bernatzr,0
+4,"Fey, Kyle",Olin 306,1173,feyky01,0
+4,"Iversen, Phil",Olin 310,1363,iverph01,0
+4,"Johnson, Michael",Olin 305,1638,johnmi10,0
+4,"Mitchell, David",Olin 323,1713,mitcheda,0
+4,"Occhipinti, Thomas",Olin 304,1170,occhth01,0
+4,"Wangsness, Cheryl",Olin 309,1716,wangsnch,0
+7,"Gates Madsen, Nancy, head Main 306",,2982,madsna01,0
+7,"Alonso Estenoz, Alfredo",Main 305,1183,alonal01,0
+7,"Brekka, Ingrid",Campus House 303,2076,brekin01,0
+7,"Feat, Anne-Marine",Campus House 201,1185,featan01,0
+7,"Iudin-Nelson, Laurie",Main 405,1078,iudinnel,0
+7,"Johnson, Maren",Campus House 202,1570,johnma29,0
+7,"Schweizer, Dawn",Main 304,2997,schweida,0
+7,"Steding, Elizabeth",Main 404,1703,stedel01,0
+7,"Steding, Sören",Main 403A,1489,stedso01,0
+7,"Tejada, Rita",Main 605,1127,tejadari,0
+7,"Thompson, David",Main 601,2146,thomda01,0
+7,"Trampert, Aurelie",Main 406,1242,tramau01,0
+7,"Yu, Hongmei",Main 402,2178,yuho01,0
+7,"Zaring, Laurie",Main 403,2986,zarila01,0
+25,"Baldwin, Daniel, head",Jenson-Noble 206,1692,baldwida,1
+25,"Ailabouni, Jonathan",CFA 220,1265,ailajo01,0
+25,"Andereck, Edwin",Jenson-Noble 180,1213,andereck,0
+25,"Armstrong, Heather",Jenson-Noble 169,1214,armshe01,0
+25,"Batoff, Melanie",Jenson-Noble 211,1211,batome01,0
+25,"Beane-Hanson, Katherine",Jenson-Noble 176,1792,beanka01,0
+25,"Borter, Philip",Jenson-Noble 161,1220,bortph01,0
+25,"Brandwein, Rachel",Jenson-Noble 176,1792,branra02,0
+25,"Britton, Jason",Jenson-Noble 193,1378,britja02,0
+25,"Britton, Margaret (fall)",Jenson-Noble 193,1378,fonsma01,0
+25,"Chesher, Michael",Jenson-Noble 192,1206,chesheml,0
+25,"Cord, John",Jenson-Noble 167,1201,cordjo01,0
+25,"deAlbuquerque, Joan",Jenson-Noble 168,1202,dealjo01,0
+25,"Engelsdorfer, Amy",Jenson-Noble 188,1399,engeam02,0
+25,"Fritz, James",Jenson-Noble 168,1202,fritja01,0
+25,"Geary, Michael",Jenson-Noble 136,1003,gearymic,0
+25,"Gover, Deborah",Jenson-Noble 179,1795,govede01,0
+25,"Groth, Thea",Jenson-Noble 176,1792,grotth01,0
+25,"Guzman, Juan Tony",Jenson-Noble 163,1354,guzmanto,0
+25,"Hanson, Carla",Jenson-Noble 178,1499,hansca01,0
+25,"Hart, Lynne",Jenson-Noble 195,2140,postly01,0
+25,"Hart, Peter",Jenson-Noble 195,2140,hartpe01,0
+25,"Hester, Carol",Jenson-Noble 170,1200,hesterca,0
+25,"Hu, Xiao",Jenson-Noble 172,1364,huxi01,0
+25,"Huang, Du",Jenson-Noble 173,1056,huandu01,0
+25,"Joyce, Brooke (Malta—spring)",Jenson-Noble 214,1386,,0
+25,"Kalnin, Igor",Jenson-Noble 164,2209,joycbr02,0
+25,"Kominami, Miko",Jenson-Noble 175,1387,kalnig01,0
+25,"Kreuscher, Carol",Jenson-Noble 190,1224,komimi01,0
+25,"Last, Andrew",Jenson-Noble 158,1817,kreuca01,0
+25,"Lingen, Peter",Jenson-Noble 200B,2148,lastan01,0
+25,"Martin, Linda",Jenson-Noble 200B,2148,martli01,0
+25,"Martin, Spencer",Jenson-Noble 160,2424,martsp01,0
+25,"Meade, Tara",Jenson-Noble 190,1224,meadta01,0
+25,"Mitchell, Evan",Jenson-Noble 186,1209,mitcev01,0
+25,"Moss, Gary",Jenson-Noble 191,1203,mossga01,0
+25,"X# Olson, Christopher",Jenson-Noble 121,1208,olsoch08,0
+25,"Peterson, Gregory",Jenson-Noble 212,1205,petegr01,0
+25,"Potvin, Mark",Jenson-Noble 213,2219,potvma01,0
+25,"Ray Westlund, Beth",Jenson-Noble 181,2132,raybet01,0
+25,"Reed, Kathy",Jenson-Noble 171,1315,reedmaka,0
+25,"Robison, Jennaya",Jenson-Noble 159,2208,robije01,0
+25,"Shaffer, Rebecca Boehm",Jenson-Noble 185,1006,shafre01,0
+25,"Shaneyfelt, Nicholas",Jenson-Noble 157,1147,shanni01,0
+25,"Smith, Michael",Jenson-Noble 166,1179,smitmi01,0
+25,"X# Stamp, John (fall)",Jenson-Noble 168,1202,stamjo01,0
+25,"Storlie, Rachel",Jenson-Noble 187,1215,gripra01,0
+25,"Strauss, John",Jenson-Noble 177,1210,straussj,0
+25,"Strauss, Virginia",Jenson-Noble 162,1266,strausvi,0
+25,"Struve, Jonathan",Jenson-Noble 194,1367,struvejo,0
+25,"Whitfield, Andrew",Jenson-Noble 165,1764,whitan01,0
+24,"Rowe Neal, April, head",Rochester,507/529-5525,roweap01,1
+24,"Anderson, Robert",Rochester,507/288-6872,andero17,0
+24,"Bisbey, Cindy (fall)",Rochester,507/288-6872,sanci01,0
+24,"Bottema, Sophie (fall)",Rochester,507/288-6872,guyeso01,0
+24,"Bouska, Laura",Valders 243E,1453,fritla01,0
+24,"Carbonell, Brita",Rochester,507/289-3994,carbbr01,0
+24,"Carlson, Corine",Rochester,507/282-7396,carlsoco,0
+24,"Edrington, Janna",Valders 243L,1456,edrija01,0
+24,"Gilbert, Karla",Valders 243G,1057,gilbka01,0
+24,"Harreld, Katie",Rochester,507/288-6872,harrka06,0
+24,"Knepprath, Katherine (fall)",Valders 243K,1057,knepka02,0
+24,"Kueny, Angela",Valders 243G,1165,oldenban,0
+24,"Larson, Tiffany",Rochester,507/288-6872,larsti03,0
+24,"McGohan, LaDonna",Valders 243D,1478,mcgola01,0
+24,"Nelson, Jayme",Valders 243F,1454,nelsjaym,0
+24,"Romme, Abby",Rochester,507/288-6872,wieseabb,0
+26,"Sullivan, Rebecca, program director",Main 126,2212,sullivre,1
+26,"Conrad, Joy",Olin 315,2996,conradjo,0
+26,"Moeller, John",Koren 318,1221,moellerj,0
+26,"Struve, Jonathan",Olin 316,2067,struvejo,0
+26,"Vrtis, Christy",Olin 324,1033,vrtich01,0
+26,"Streese, Germano",Preus Library 217,2223,strege01,0
+27,"Bailey, Storm, head",Ockham House 105,1687,baileyst,1
+27,"Jensen, Jon",Valders 372D,1696,jensjo01,0
+27,"Moore, Holly",Ockham House 13,1222,moorho01,0
+27,"Nekola, Peter",Ockham House 17,1513,nekope01,0
+18,"Pedlar, Todd, head",Valders 272D,1628,pedlto01,1
+18,"Flater, Erin",Valders 272C,1632,flater01,0
+18,"Perez, James",Valders 272F,1629,perezjam,0
+18,"Wilkerson, Jeffrey",Valders 272G,1226,wilkerje,0
+19,"Foster, Carly Hayden, head",Koren 303,1874,fostca01,1
+19,"Engelhardt, Michael",Koren 301,1252,engelhmi,0
+19,"Martinez, Melissa",Koren 302,1139,martme04,0
+1,"Gould, Kristy, head",Valders 344U-1,1685,goulkr01,1
+1,"Bishop, David",Valders 344D,1262,bishopda,0
+1,"Breitenstein, Joseph",Valders 340D,1490,breitejo,0
+1,"Njus, David",Valders 340G,1633,njusdavi,0
+1,"Sprung, Justin",Valders 344C,1255,spruju01,0
+1,"Toussaint, Loren",Valders 340F,1647,touslo01,0
+1,"Travers, Stephanie",Valders 344U-2,1254,travst01,0
+15,"Kopf, Gereon, head",Ockham House 15,1497,kopfg,1
+15,"Burke, Sean",Main 201/Union 262B,2985/2110,burkse01,0
+15,"Deifelt, Wanda",Main 203A,2147,deifwa01,0
+15,"Green, Todd",Main 203,1791,greeto02,0
+15,"Hoke, James",Main 302,1326,hokeja01,0
+15,"Hurley, Scott",Ockham House 104,1788,hurlsc01,0
+15,"Lillis, Julia",Main 303,1831,lillju01,0
+15,"Martin-Schramm, James",Valders 372G,1251,marschja,0
+15,"Nave, Guy",Main 202,2143,navegu01,0
+15,"Shedinger, Robert",Main 301,1276,shedinro,0
+15,"Swanson, Kristin",Olin 337,1346,swansokr,0
+9,"Bazylevych, Maryna, head Koren 320",,1349,bazyma01,0
+9,"Betts, Colin",Koren 316,1284,bettscol,0
+9,"Carrasco, Anita",Koren 308,1158,carran02,0
+9,"Eastwood, Andrew",Koren 307,1622,eastan01,0
+9,"Kunkel, Charlotte",Koren 322,1624,kunkelch,0
+9,"Rhodes, Britt",Koren 317,1623,rhodbr01,0
+9,"Schmidt, Susan",Koren 310,2133,schmsu02,0
+9,"Silber, Linda",Koren 321,1280,silbli01,0
+9,"Stanley, Lori",Koren 309,1283,stanleyl,0
+2,"Dintaman, Jeff, head",CFA 102,1380,dintamje,1
+2,"Elliott, Kate",CFA 104,1328,ellika03,0
+2,"Hawley, Jane",CFA 109,1694,hawleyja,0
+2,"Madrigal, Joseph",CFA 108,1114,madrjo01,0
+2,"Merritt, Richard",CFA 116,1290,merritri,0
+2,"Moore, Benjamin",CFA 107,1112,mooreben,0
+2,"Petersen-Brandt, Jenni (fall)",CFA 114,1113,peteje08,0
+2,"Vrtis, Robert",CFA 110,1218,vrtiro01,0
+2,"Lurth, Aaron",CFA 105,1113,lurtaa01,0

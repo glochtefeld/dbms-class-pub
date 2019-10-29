@@ -1,0 +1,969 @@
+
+		
+<!DOCTYPE html>
+<html  class="no-js" id="luther-edu" lang="en">
+<head>
+<script type="text/javascript" src="/jquery/jquery-1.11.2.min.js"></script>
+<title>Nursing | 2019-20 Academic Catalog | Luther College</title>
+<link rel="stylesheet" type="text/css" href="/reason/css/twitter/twitter.css" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link rel="shortcut icon" href="/reason/local/favicon.ico" />
+<!--[if lt IE 9]><script type="text/javascript" src="/reason/js/respond/respond.min.js"></script><![endif]-->
+<!--[if lt IE 9]><script type="text/javascript" src="/reason/js/ie8_fix_maxwidth.js"></script><![endif]-->
+<meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0" />
+<script type="text/javascript" src="/reason/js/hoverintent.minified.js"></script>
+<script type="text/javascript" src="/reason_package/FancyBox/source/jquery.fancybox.js"></script>
+<link rel="stylesheet" type="text/css" href="/reason_package/FancyBox/source/jquery.fancybox.css" />
+<script type="text/javascript" src="/reason_package/FancyBox/source/helpers/jquery.fancybox-thumbs.js"></script>
+<link rel="stylesheet" type="text/css" href="/reason_package/FancyBox/source/helpers/jquery.fancybox-thumbs.css" />
+<script type="text/javascript" src="/reason/local/luther_2014/javascripts/luther-image-galleries.js"></script>
+<link rel="stylesheet" type="text/css" href="/jquery/css/smoothness/jquery-ui.min.css" />
+<link rel="stylesheet" type="text/css" href="/reason/modules/courses/subject_page.css" />
+<script type="text/javascript" src="/jquery/jquery-ui-1.11.3.min.js"></script>
+<script type="text/javascript" src="/reason/modules/courses/subject_page.js"></script>
+<script type="text/javascript" src="/reason/js/jquery.reasonAjax.js"></script>
+<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700" />
+<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,300,400,400italic,600,600italic,700,700italic,800,800italic" />
+<link rel="stylesheet" type="text/css" href="/reason/local/luther_2014/stylesheets/base.css" />
+<script type="text/javascript" src="/reason/local/luther_2014/javascripts/vendor/modernizr.js"></script>
+<script type="text/javascript" src="/reason/local/luther_2014/javascripts/luther-gcse.js"></script>
+<meta name="og:title" content="Nursing" />
+<meta name="og:type" content="university" />
+<meta name="og:url" content="https://www.luther.edu/catalog/curriculum/nursing/" />
+<meta name="og:site_name" content="Luther College" />
+<meta name="og:image" content="https://www.luther.edu/reason/images/756136.jpg" />
+<meta name="og:image" content="https://www.luther.edu/reason/images/686804.jpg" />
+<meta name="og:street-address" content="700 College Drive" />
+<meta name="og:locality" content="Decorah" />
+<meta name="og:region" content="Iowa" />
+<meta name="og:country" content="USA" />
+<meta name="og:email" content="www@luther.edu" />
+<meta name="og:phone_number" content="563-387-2000" />
+<!--[if lt IE 9]><link rel='stylesheet' type='text/css' href='/reason/local/luther_2014/stylesheets/ie.css' /><![endif]-->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+	ga('create', 'UA-129020-8', 'auto', {'allowLinker': true});
+	ga('require', 'linker');
+	ga('linker:autoLink', ['hiretouch.com', 'lutherbookshop.com'] );
+	ga('send', 'pageview');
+</script>
+<script async="async" src="https://connect.luther.edu/ping">/**/</script>
+<!-- Google Tag Manager -->
+<script>
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-KLWCQL');
+</script>
+<!-- End Google Tag Manager -->
+</head>
+<body class="body course-catalog course_catalog_page">
+<!-- Google Tag Manager (noscript) -->
+<noscript>
+<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KLWCQL" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+<!-- End Google Tag Manager (noscript) -->
+<div class="off-canvas-wrap">
+<div class="inner-wrap"><div id="wrapper">
+<div id="wrapper-col">
+
+
+
+
+			<header id="global-banner" role="banner">
+			
+				<hgroup>
+					<h1><a href="/"><img src="/reason/local/luther_2014/images/logo_2x.png" alt="Luther College"></a></h1>
+<h2 class="tagline">An Iowa College in the Liberal Arts Tradition</h2>
+				</hgroup>
+				
+				<div id="nav-toggles" role="navigation">
+					<ul>
+						<li>
+							<a class="toggle left-off-canvas-toggle" href="#global-nav">
+								<i class="fa fa-bars"></i>
+								<span class="screenreader">Global Navigation</span>
+							</a>
+						</li>
+						<li>
+							<a class="toggle search-toggle" href="#search-nav">
+								<i class="fa fa-search"></i>
+								<i class="fa fa-times"></i>
+								<span class="screenreader">Go to Search</span>
+							</a>
+						</li>
+						<li>
+							<!-- <a class="toggle audience-toggle" href="#audience-nav"> -->
+							<!-- <a href="#audience-nav" data-dropdown="audience-nav" data-options="is_hover:true; hover_timeout:5000"> -->
+							<a href="#" class="toggle audience-toggle" data-dropdown="audience-nav" data-options="is_hover:true; hover_timeout:5000">	
+								<span class="label">Info for</span>
+							</a>
+						</li>
+					</ul>
+				</div>
+			
+				<div id="search-nav" role="navigation">
+					<div class="search-wrap">
+						<gcse:searchbox-only></gcse:searchbox-only>
+					</div>
+					<ul class="search-related-links">
+						<li class="directory"><a href="/directory/">Directory</a></li>
+						<li class="offices"><a href="/contact/administrative">Offices</a></li>
+						<li class="index"><a href="/azindex/">A-Z Index</a></li>
+					</ul>
+				</div>
+			
+			</header>	
+			
+			
+
+<nav id="global-nav" class="left-off-canvas-menu" role="navigation">
+<h1 class="screenreader">Luther College Site Navigation</h1>
+<ul id="audience-nav" class="audiences f-dropdown" data-dropdown-content role="navigation">
+<li><a href="/alumni">Alumni &amp; Friends</a></li>
+<li><a href="/giving">Donors</a></li>
+<li><a href="/faculty-staff">Faculty &amp; Staff</a></li>
+<li><a href="/students">Students</a></li>
+<li><a href="/parents">Parents</a></li>
+</ul>
+<ul class="minisites">
+<li class="minisite admissions hasSidebar">
+
+
+<a href="/admissions/" class="minisite-name">Admission &amp; Aid</a>
+<div class="dropdown-wrap">
+<ul class="dropdown-nav">
+<li>
+<a href="/admissions/discover/" class="child">Discover Luther</a>
+<ul>
+<li><a href="/admissions/discover/value/" class="grandchild">Luther Value</a></li>
+<li><a href="/campus/tour/" class="grandchild">Online Campus Tour</a></li>
+<li><a href="/about/lutheran-college/" class="grandchild">Lutheran College</a></li>
+<li><a href="/admissions/discover/traditions/" class="grandchild">Luther Traditions</a></li>
+<li><a href="/admissions/discover/brochures/" class="grandchild">Brochures</a></li>
+</ul>
+</li>
+<li>
+<a href="/admissions/connect/" class="child">Connect with Us</a>
+<ul>
+<li><a href="https://connect.luther.edu/register/recruit-me" class="grandchild">Recruit Me</a></li>
+<li><a href="/admissions/connect/staff/" class="grandchild">Admissions Staff</a></li>
+<li><a href="/admissions/connect/tagboard/" class="grandchild">#LutherCollege</a></li>
+<li><a href="/admissions/student-blogs/" class="grandchild">Student Blogs</a></li>
+<li><a href="/inside-college-admissions/" class="grandchild">Inside College Admissions</a></li>
+<li><a href="/admissions/connect/high-school-counselors/" class="grandchild">For High School Counselors</a></li>
+<li><a href="/catalyze/" class="grandchild">Catalyze at Luther</a></li>
+</ul>
+</li>
+<li>
+<a href="/admissions/visit/" class="child">Plan a Visit</a>
+</li>
+<li>
+<a href="/admissions/apply/" class="child">Apply to Luther</a>
+<ul>
+<li><a href="/admissions/apply/how/" class="grandchild">How to Apply</a></li>
+<li><a href="/admissions/apply/requirements/" class="grandchild">Admissions Requirements</a></li>
+<li><a href="/admissions/international/" class="grandchild">International Students</a></li>
+<li><a href="/admissions/apply/transfer/" class="grandchild">Transfer Students</a></li>
+<li><a href="/admissions/apply/dates/" class="grandchild">Important Dates</a></li>
+</ul>
+</li>
+<li>
+<a href="/admissions/financial-aid/" class="child">Get Financial Aid</a>
+<ul>
+<li><a href="/admissions/financial-aid/scholarships/" class="grandchild">Scholarships and Awards</a></li>
+<li><a href="/admissions/financial-aid/tuition/" class="grandchild">Tuition and Fees</a></li>
+<li><a href="/admissions/financial-aid/net-price-calculator/" class="grandchild">Net Price Calculator</a></li>
+<li><a href="/admissions/financial-aid/how-to-apply/" class="grandchild">How to Apply for Aid</a></li>
+<li><a href="/admissions/financial-aid/need/" class="grandchild">Determining Financial Need</a></li>
+<li><a href="/admissions/financial-aid/understanding-your-award/" class="grandchild">Understanding Your Award</a></li>
+<li><a href="/admissions/financial-aid/grants/" class="grandchild">Grants</a></li>
+<li><a href="/work-study/" class="grandchild">Work-Study Opportunities</a></li>
+<li><a href="/admissions/financial-aid/loans/" class="grandchild">Loans</a></li>
+<li><a href="/admissions/financial-aid/veterans/" class="grandchild">VA Benefits</a></li>
+</ul>
+</li>
+<li>
+<a href="/admissions/accepted-students/" class="child">Accepted Students</a>
+<ul>
+<li><a href="/admissions/deposit/" class="grandchild">Pay Your Deposit</a></li>
+<li><a href="/registrar/students/transferring-credit/" class="grandchild">Transferring Credit</a></li>
+</ul>
+</li>
+<li>
+<a href="/admissions/diversity-ambassadors/" class="child">Diversity Ambassadors</a>
+</li>
+</ul>
+
+
+<div class="dropdown-content">
+
+
+<div class="callToActionBlurb">
+<div class="blurbs module_identifier-mcla-CallToActionBlurbModule-mloc-global_navigation_dropdown_content_admissions-mpar-3a39fab62b1616917473e004782b9817 module_api-standalone">
+<div class="blurb number1 uname_text_blurb_global_nav_admissions_buttons odd"><div class="blurbInner"><ul>
+<li><a class="cta-deposit gold" href="//www.luther.edu/admissions/deposit/">Pay Your Deposit</a></li>
+<li><a class="cta-apply green" href="https://connect.luther.edu/apply/">Apply Now</a></li>
+<li><a class="cta-visit blue" href="//www.luther.edu/admissions/visit/">Visit Luther</a></li>
+<li><a class="cta-tour red" href="//www.luther.edu/campus/tour/">Virtual Tour</a></li>
+</ul></div>
+</div>
+</div>
+</div>
+
+
+
+
+<div class="socialProfileSimpleLinks"><a href="https://www.facebook.com/luthercollege" target="_blank"><span class="label">Visit on Facebook</span></a> <a href="http://www.twitter.com/LutherAdmission" target="_blank"><span class="label">Visit on Twitter</span></a> <a href="http://www.instagram.com/lutheradmission" target="_blank"><span class="label">Instagram photos and videos</span></a> <a href="http://www.youtube.com/user/LutherCollegeMedia" target="_blank"><span class="label">YouTube videos</span></a></div>
+
+</div>
+</div>
+</li>
+<li class="minisite academics noSidebar">
+
+
+<a href="/academics/" class="minisite-name">Academics</a>
+<div class="dropdown-wrap">
+<ul class="dropdown-nav">
+<li>
+<a href="/academics/#majors" class="child">Majors, Minors, and Programs</a>
+</li>
+<li>
+<a href="/registrar/calendar/" class="child">Academic Calendar</a>
+</li>
+<li>
+<a href="/catalog/" class="child">College Catalog</a>
+</li>
+<li>
+<a href="/academics/programs-centers/" class="child">Distinctive Programs and Centers</a>
+<ul>
+<li><a href="/paideia/" class="grandchild">Paideia</a></li>
+<li><a href="/j-term/" class="grandchild">January Term</a></li>
+<li><a href="/academics/dean/scholars/" class="grandchild">Scholars Program</a></li>
+<li><a href="/global-learning/" class="grandchild">Center for Global Learning</a></li>
+<li><a href="https://www.luther.edu/sustainability/csc/" class="grandchild">Center for Sustainable Communities</a></li>
+<li><a href="https://www.luther.edu/public-life/" class="grandchild">Center for Ethics and Public Engagement</a></li>
+</ul>
+</li>
+<li>
+<a href="/academics/high-impact-learning/" class="child">High-Impact Learning</a>
+<ul>
+<li><a href="/academics/high-impact-learning/first-year/" class="grandchild">First-Year Seminars and Experiences</a></li>
+<li><a href="/academics/high-impact-learning/collaborative/" class="grandchild">Collaborative Assignments and Projects</a></li>
+<li><a href="/academics/high-impact-learning/research/" class="grandchild">Undergraduate Research</a></li>
+<li><a href="/academics/high-impact-learning/study-away/" class="grandchild">Study Away</a></li>
+<li><a href="/academics/high-impact-learning/internships/" class="grandchild">Internships</a></li>
+<li><a href="/academics/high-impact-learning/capstone-projects/" class="grandchild">Capstone Projects</a></li>
+</ul>
+</li>
+<li>
+<a href="/about/liberal-arts-college/" class="child">Liberal Arts Education</a>
+</li>
+<li>
+<a href="/academics/faculty-stories/" class="child">Faculty Stories</a>
+</li>
+<li>
+<a href="/academics/support/" class="child">Academic Support</a>
+</li>
+<li>
+<a href="/library/" class="child">Library</a>
+</li>
+<li>
+<a href="/diversity-at-luther" class="child">Diversity at Luther</a>
+</li>
+<li>
+<a href="/academics/dean/" class="child">Dean's Office</a>
+</li>
+<li>
+<a href="/registrar/" class="child">Registrar's Office</a>
+</li>
+</ul>
+
+
+</div>
+</li>
+<li class="minisite studentLife noSidebar">
+
+
+<a href="/studentlife/" class="minisite-name">Student Life</a>
+<div class="dropdown-wrap">
+<ul class="dropdown-nav">
+<li>
+<a href="/studentlife/resources/" class="child">Student Resources</a>
+<ul>
+<li><a href="/new-students/new-student-orientation/" class="grandchild">New Student Orientation</a></li>
+<li><a href="/studentlife/resources/leadership/" class="grandchild">Leadership Opportunities</a></li>
+<li><a href="/academic-integrity/" class="grandchild">Academic Integrity</a></li>
+<li><a href="/student-senate/" class="grandchild">Student Senate</a></li>
+<li><a href="/studentlife/resources/care-report/" class="grandchild">Care Report</a></li>
+<li><a href="/studentlife/resources/awards/" class="grandchild">Awards</a></li>
+<li><a href="/studentlife/resources/transportation-options/" class="grandchild">Transportation Options</a></li>
+</ul>
+</li>
+<li>
+<a href="/studentlife/residential/" class="child">Residential Campus</a>
+<ul>
+<li><a href="/dining/" class="grandchild">Dining Services</a></li>
+<li><a href="/reslife/" class="grandchild">Residence Life</a></li>
+<li><a href="/studentlife/activities/" class="grandchild">Student Activities Office</a></li>
+</ul>
+</li>
+<li>
+<a href="/studentlife/wellness-recreation/" class="child">Wellness and Recreation</a>
+<ul>
+<li><a href="/campus/tour/natural-areas/" class="grandchild">Natural Areas</a></li>
+<li><a href="/recservices/" class="grandchild">Recreational Services</a></li>
+<li><a href="/studentlife/wellness/" class="grandchild">Wellness Program</a></li>
+</ul>
+</li>
+<li>
+<a href="/studentlife/student-support/" class="child">Student-Centered Support</a>
+<ul>
+<li><a href="/career/" class="grandchild">Career Center</a></li>
+<li><a href="/ministries/" class="grandchild">College Ministries</a></li>
+<li><a href="/counseling/" class="grandchild">Counseling Service</a></li>
+<li><a href="/diversity/" class="grandchild">Center for Intercultural Engagement and Student Success</a></li>
+<li><a href="/healthservice/" class="grandchild">Health Service</a></li>
+<li><a href="/safety/" class="grandchild">Safety and Security</a></li>
+<li><a href="/studentlife/student-support/strengths/" class="grandchild">Strengths Based Leadership Program</a></li>
+</ul>
+</li>
+<li>
+<a href="/studentlife/office/" class="child">Student Life Office</a>
+<ul>
+<li><a href="/studentlife/office/offices/" class="grandchild">Offices</a></li>
+<li><a href="/safety/emergency/" class="grandchild">Emergency Procedures</a></li>
+<li><a href="/studentlife/office/crime/" class="grandchild">Crime Statistics</a></li>
+<li><a href="/studentlife/office/parents/" class="grandchild">Parents</a></li>
+<li><a href="/studentlife/office/staff/" class="grandchild">Staff</a></li>
+</ul>
+</li>
+<li>
+<a href="/studentlife/norse-creed/" class="child">The Norse Creed</a>
+</li>
+<li>
+<a href="/studentlife/student-handbook/" class="child">Student Handbook</a>
+</li>
+</ul>
+
+
+</div>
+</li>
+<li class="minisite athletics noSidebar">
+
+
+<a href="/sports/" class="minisite-name">Athletics</a>
+<div class="dropdown-wrap">
+<ul class="dropdown-nav">
+<li>
+<a href="/sports/men/" class="child">Men's Teams</a>
+<ul>
+<li><a href="/sports/men/baseball/" class="grandchild">Baseball</a></li>
+<li><a href="/sports/men/basketball/" class="grandchild">Basketball</a></li>
+<li><a href="/sports/men/cross-country/" class="grandchild">Cross Country</a></li>
+<li><a href="/sports/men/football/" class="grandchild">Football</a></li>
+<li><a href="/sports/men/golf/" class="grandchild">Golf</a></li>
+<li><a href="/sports/men/soccer/" class="grandchild">Soccer</a></li>
+<li><a href="/sports/men/swimming-diving/" class="grandchild">Swimming and Diving</a></li>
+<li><a href="/sports/men/tennis/" class="grandchild">Tennis</a></li>
+<li><a href="/sports/men/track-field/" class="grandchild">Track and Field</a></li>
+<li><a href="/sports/men/wrestling/" class="grandchild">Wrestling</a></li>
+</ul>
+</li>
+<li>
+<a href="/sports/women/" class="child">Women's Teams</a>
+<ul>
+<li><a href="/sports/women/basketball/" class="grandchild">Basketball</a></li>
+<li><a href="/sports/women/cross-country/" class="grandchild">Cross Country</a></li>
+<li><a href="/sports/women/golf/" class="grandchild">Golf</a></li>
+<li><a href="/sports/women/soccer/" class="grandchild">Soccer</a></li>
+<li><a href="/sports/women/softball/" class="grandchild">Softball</a></li>
+<li><a href="/sports/women/swimming-diving/" class="grandchild">Swimming and Diving</a></li>
+<li><a href="/sports/women/tennis/" class="grandchild">Tennis</a></li>
+<li><a href="/sports/women/track-field/" class="grandchild">Track and Field</a></li>
+<li><a href="/sports/women/volleyball/" class="grandchild">Volleyball</a></li>
+</ul>
+</li>
+<li>
+<a href="/sports/strength-conditioning/" class="child">Athletic Performance</a>
+</li>
+<li>
+<a href="/sports/training/" class="child">Athletic Training</a>
+<ul>
+<li><a href="/sports/training/staff/" class="grandchild">Athletic Training Staff</a></li>
+<li><a href="/sports/training/facilities/" class="grandchild">Athletic Training Facilities</a></li>
+<li><a href="/sports/training/forms/" class="grandchild">Athletic Training Forms</a></li>
+<li><a href="https://www.luther.edu/sports/assets/VisitingTeamLetter.pdf" class="grandchild">Visiting Team Information</a></li>
+</ul>
+</li>
+<li>
+<a href="/sports/media/" class="child">Live Streaming &amp; Media Gallery</a>
+<ul>
+<li><a href="http://portal.stretchinternet.com/luther/" class="grandchild">Streaming Schedule</a></li>
+<li><a href="/sports/media/gallery/" class="grandchild">Photo Gallery</a></li>
+</ul>
+</li>
+<li>
+<a href="/naa/" class="child">Norse Athletic Association</a>
+</li>
+<li>
+<a href="/sports/recruit/" class="child">Recruit Me</a>
+<ul>
+<li><a href="/sports/recruit/recruit/" class="grandchild">Team Recruitment Forms</a></li>
+<li><a href="/sports/recruit/tour/" class="grandchild">Facilities Virtual Tour</a></li>
+</ul>
+</li>
+<li>
+<a href="/sports/forms/" class="child">Student Athlete Forms</a>
+<ul>
+<li><a href="/sports/forms/checklist/" class="grandchild">First Day of Practice Checklist</a></li>
+<li><a href="/sports/forms/policies/" class="grandchild">NCAA Policies</a></li>
+<li><a href="/sports/forms/luther-policies/" class="grandchild">Luther Athletics Policies</a></li>
+<li><a href="/sports/forms/parents/" class="grandchild">Parent Information</a></li>
+<li><a href="/sports/forms/compliance/" class="grandchild">Compliance Forms</a></li>
+</ul>
+</li>
+<li>
+<a href="/sports/athletics/" class="child">Inside Luther Athletics</a>
+<ul>
+<li><a href="/sports/athletics/staff/" class="grandchild">Staff</a></li>
+<li><a href="/sports/athletics/visitors/" class="grandchild">Visitors Guide</a></li>
+<li><a href="/sports/athletics/facilities/" class="grandchild">Facilities</a></li>
+<li><a href="/sports/athletics/mission/" class="grandchild">Mission and Policies</a></li>
+<li><a href="/sports/athletics/history/" class="grandchild">History</a></li>
+<li><a href="/sports/athletics/hall-of-fame/" class="grandchild">Athletic Hall of Fame</a></li>
+<li><a href="/sports/athletics/meritoriusaward/" class="grandchild">Athletics Meritorious Service Award</a></li>
+<li><a href="/sports/athletics/postgrads/" class="grandchild">NCAA Postgraduate Scholars</a></li>
+<li><a href="/sports/athletics/cosidaacademic/" class="grandchild">CoSIDA Academic All-America</a></li>
+<li><a href="/sports/athletics/chi-alpha-sigma/" class="grandchild">Chi Alpha Sigma Honor Society</a></li>
+<li><a href="/sports/athletics/schedule/" class="grandchild">Complete Sports Schedule</a></li>
+<li><a href="/sports-information/" class="grandchild">Sports Information Office</a></li>
+</ul>
+</li>
+<li>
+<a href="/sports/camps/" class="child">Sports Camps</a>
+</li>
+</ul>
+
+
+</div>
+</li>
+<li class="minisite music noSidebar">
+
+
+<a href="/music/" class="minisite-name">Music</a>
+<div class="dropdown-wrap">
+<ul class="dropdown-nav">
+<li>
+<a href="/music/prospective-students/" class="child">Prospective Students</a>
+<ul>
+<li><a href="https://connect.luther.edu/register/music-recruit" class="grandchild">Recruit Me for Music</a></li>
+<li><a href="/music/prospective-students/auditions/" class="grandchild">Scholarship Auditions</a></li>
+<li><a href="/music/prospective-students/audition-dates/" class="grandchild">Scholarship Audition Dates</a></li>
+<li><a href="/music/prospective-students/hear-from-our-faculty/" class="grandchild">Hear from Our Faculty</a></li>
+<li><a href="/music/prospective-students/music-faq/" class="grandchild">Frequently Asked Questions</a></li>
+<li><a href="/music/prospective-students/scholarships/" class="grandchild">Music Scholarships</a></li>
+</ul>
+</li>
+<li>
+<a href="/music/academic-info/" class="child">Academic Information</a>
+<ul>
+<li><a href="/music/academic-info/why-study/" class="grandchild">Why Study Music at Luther?</a></li>
+<li><a href="/catalog/curriculum/music/" class="grandchild">Requirements and Courses</a></li>
+<li><a href="/music/academic-info/study-plans/" class="grandchild">Study Plans</a></li>
+<li><a href="/music/academic-info/music-education/" class="grandchild">Music Education</a></li>
+<li><a href="/music/academic-info/health-safety/" class="grandchild">Health and Safety Guidelines</a></li>
+</ul>
+</li>
+<li>
+<a href="/music/faculty/" class="child">Faculty</a>
+<ul>
+<li><a href="/music/faculty/emeriti/" class="grandchild">Emeriti</a></li>
+<li><a href="/music/faculty/ensembles/" class="grandchild">Faculty Ensembles</a></li>
+</ul>
+</li>
+<li>
+<a href="/music/outcomes/" class="child">Outcomes</a>
+<ul>
+<li><a href="/music/outcomes/careers/" class="grandchild">Careers</a></li>
+<li><a href="/music/outcomes/grad-stats/" class="grandchild">Recent Grad Statistics</a></li>
+<li><a href="/music/outcomes/alumni/" class="grandchild">Alumni Profiles</a></li>
+</ul>
+</li>
+<li>
+<a href="/music/ensembles/" class="child">Ensembles</a>
+</li>
+<li>
+<a href="/music/tours/" class="child">Ensemble Tours</a>
+</li>
+<li>
+<a href="/christmas-at-luther" class="child">Christmas at Luther</a>
+</li>
+<li>
+<a href="/music/dorian" class="child">Dorian Festivals and Summer Camps</a>
+</li>
+<li>
+<a href="/music/department/" class="child">Department Information</a>
+<ul>
+<li><a href="/music/events/" class="grandchild">Calendar</a></li>
+<li><a href="http://www.lutherbookshop.com/shop_main.asp?catalog_group_id=OQ&amp;catalog_group_name=Q0RzICYgRFZEcw" class="grandchild">Recordings</a></li>
+<li><a href="/music/department/facilities/" class="grandchild">Facilities</a></li>
+<li><a href="/music/department/mission-statement/" class="grandchild">Mission Statement</a></li>
+<li><a href="/music/department/staff/" class="grandchild">Staff</a></li>
+<li><a href="/music-marketing/" class="grandchild">Music Marketing Office</a></li>
+</ul>
+</li>
+</ul>
+
+
+</div>
+</li>
+<li class="minisite outcomes hasSidebar">
+
+
+<a href="/inauguration/" class="minisite-name">Inauguration</a>
+<div class="dropdown-wrap">
+<ul class="dropdown-nav">
+<li>
+<a href="/inauguration/schedule/" class="child">Schedule of Events</a>
+<ul>
+<li><a href="/inauguration/schedule/Agora/" class="grandchild">Luther Agora</a></li>
+<li><a href="/inauguration/schedule/Decorah/" class="grandchild">Inaugural Night on the Town</a></li>
+</ul>
+</li>
+<li>
+<a href="/inauguration/rsvp/" class="child">Response Form</a>
+</li>
+<li>
+<a href="/inauguration/well-wishes/" class="child">Send Well Wishes</a>
+</li>
+<li>
+<a href="/decorah/lodging/" class="child">Area Lodging</a>
+</li>
+<li>
+<a href="/president/" class="child">Office of the President</a>
+</li>
+<li>
+<a href="/admissions/visit/directions/" class="child">Directions to Decorah</a>
+</li>
+<li>
+<a href="https://www.luther.edu/campus/map/" class="child">Campus Map</a>
+</li>
+</ul>
+
+
+<div class="dropdown-content">
+</div>
+</div>
+</li>
+</ul>
+</nav>
+<section id="minisite" class="hasContent hasNavigation hasConNav">
+<div class="minisiteWrap"><header id="minisiteBanner"><div id="banner" role="banner" aria-label="site">
+<h1 class="siteTitle"><a href="/catalog/"><span>2019-20 Academic Catalog</span></a></h1>
+</div>
+<div class="breadcrumbs"><a href="/"><span class="screenreader">Home</span><i class="fa fa-home"></i></a> <span>&raquo;</span> <a href="/catalog/" class="locationBarLinks">2019-20 Academic Catalog</a> <span>&raquo;</span> <a href="/catalog/curriculum/" class="locationBarLinks">Curriculum</a> <span>&raquo;</span> Nursing</div>
+</header><nav id="navWrap" class="hasNav hasSubNav">
+<a class="toggle" href="#minisiteNavigation">
+<h1><span class="screenreader">2019-20 Academic Catalog</span> <span class="helper-text">Menu <i class="fa fa-arrow-right"></i></span></h1>
+<i class="fa fa-bars"></i>
+<i class="fa fa-times"></i>
+</a>
+
+
+<div id="minisiteNavigation" class="module_identifier-mcla-NavigationModule-mloc-navigation-mpar-3b18c0f2cb22d75c095d016ae47598e5 module_api-standalone" role="navigation" aria-label="page"><div class="list"><ul class="navListTop"><li class="navListItem open 2019-20_academic_catalog"><a href="/catalog/" class="home"><span>2019-20 Academic Catalog</span></a><ul class="navList"><li class="navListItem open pseudoCurrent curriculum"><a href="/catalog/curriculum/">Curriculum</a><ul class="navList"><li class="navListItem closed program_learning_goals"><a href="/catalog/curriculum/program-learning-goals/">Program Learning Goals</a></li></ul></li><li class="navListItem accordion closed item1 academic_information"><a href="/catalog/academics/">Academic Information</a><ul class="navList"><li class="navListItem closed item1 goals_for_student_learning"><a href="/catalog/academics/goals/">Goals for Student Learning</a></li><li class="navListItem closed item2 requirements_for_the_degree"><a href="/catalog/academics/requirements/">Requirements for the Degree</a></li><li class="navListItem closed item3 policies_and_procedures"><a href="/catalog/academics/policies/">Policies and Procedures</a></li><li class="navListItem closed item4 jump jump-internal advising"><a href="https://www.luther.edu/registrar/students/degree-progress/advising/">Advising</a></li><li class="navListItem closed item5 jump jump-internal academic_support_programs"><a href="/academics/support/">Academic Support Programs</a></li><li class="navListItem closed item6 jump jump-internal scholars_program"><a href="/academics/dean/scholars/">Scholars Program</a></li><li class="navListItem closed item7 jump jump-internal off-campus_study_programs"><a href="/global-learning/">Off-Campus Study Programs</a></li></ul></li><li class="navListItem closed item2 jump jump-internal costs_and_financial_policies"><a href="/financial-services/students/">Costs and Financial Policies</a></li><li class="navListItem closed item3 jump jump-internal academic_calendar"><a href="/registrar/calendar/">Academic Calendar</a></li><li class="navListItem closed item4 jump jump-internal about_luther"><a href="/about/">About Luther</a></li><li class="navListItem closed item5 catalog_archive"><a href="/catalog/archive/">Catalog Archive</a></li></ul></li></ul>
+</div></div>
+
+<div class="subNavElements">
+
+
+<aside class="contactBlurb">
+<div class="blurbInner">
+<h2>Contact Information</h2>
+<p>Registrar's Office<br />Main Building 123<br />700 College Drive<br />Decorah, Iowa 52101</p><h3>Phone:</h3><p>563-387-1167</p><h3>Email:</h3><p><a href="/cdn-cgi/l/email-protection#ff8d9a98968c8b8d9e8dbf938a8b979a8dd19a9b8a"><span class="__cf_email__" data-cfemail="deacbbb9b7adaaacbfac9eb2abaab6bbacf0bbbaab">[email&#160;protected]</span></a></p></div>
+</aside>
+
+
+</div>
+</nav>
+<section id="contentAndRelated"><header class="contentHead">
+<div class="breadcrumbs"><a href="/"><span class="screenreader">Home</span><i class="fa fa-home"></i></a> <span>&raquo;</span> <a href="/catalog/" class="locationBarLinks">2019-20 Academic Catalog</a> <span>&raquo;</span> <a href="/catalog/curriculum/" class="locationBarLinks">Curriculum</a> <span>&raquo;</span> Nursing</div>
+
+
+<h1 class="pageTitle"><span>Nursing</span></h1>
+
+</header>
+<div id="contentSections">
+<div class="contentMain">
+
+
+<div id="subjectPageModule" class="module_identifier-mcla-LutherCatalogSubjectPageModule-mloc-main-mpar-dcca48101505dd86b703689a604fe3c4 module_api-standalone" year="2017">
+<a name="block1"></a>
+<div class="catalog_block">
+<p><strong>Jayme Nelson and April Rowe Neal</strong> (department heads)</p>
+<p><strong>Admission to the nursing major:</strong></p>
+<p>Luther's nursing program, with its longstanding connection to Mayo Clinic in Rochester, has a very strong reputation. Clinical resources both in the Rochester and Decorah areas limit the number of students who can be enrolled in the program, and so the number of qualified program applicants may exceed the number who can be admitted. Students must understand that admission to Luther does not itself mean admission to nursing. Applicants must meet minimum eligibility requirements indicated below; however, obtaining or exceeding minimum criteria does not guarantee admission. Decisions affecting admission to the major will be made at the end of the fall semester. Luther also offers a <a href="//www.luther.edu/nursing/major/direct-entry/">direct entry program</a> into the nursing major for high school seniors.</p>
+</div>
+<a name="block2"></a>
+<div class="catalog_block">
+<p><strong>Minimum criteria for admission to the nursing major include:</strong></p>
+<ul>
+<li>A minimum cumulative grade point average (GPA) for college courses taken at Luther College of 2.75.</li>
+<li>A minimum grade of C in all courses required for the nursing major.</li>
+<li>Repetition of any single course required for the major no more than once.</li>
+<li>Repetition of a total of no more than two courses required for the major.</li>
+</ul>
+<p><strong>Continued progression in the nursing major:</strong></p>
+<p>Decisions affecting continued progression in the major after admission to it are made at the end of each semester. Students must continue to meet all admissions requirements. Additionally, a minimum grade of C is required for all nursing courses as well as satisfactory completion of the clinical components. No courses required for the major can be repeated more than once.</p>
+<p>All other policies regarding grading, withdrawal, and graduation are in accordance with general college policy and can be found elsewhere in the college catalog.</p>
+<p>Clinical participation is not allowed by persons who have been denied licensure by the Iowa Board of Nursing or whose license is currently suspended, surrendered, or revoked in any country or U.S. jurisdiction due to disciplinary action.</p>
+<p>Students must be able to provide their own transportation to clinical facilities. They must also pay for their own uniforms and stethoscopes, as well as costs for CPR certification and state background checks (required by clinical agencies). Nursing courses in the junior year are taken off campus in Rochester, MN.</p>
+<p><strong>Required for a major:</strong> NURS 234, 235, 236, 237, 370, 371, 372, 373, 374, 376, 377, 378, 382, 384, 386, 388, 390, 420, 421, 425, 480, 490. Students completing more than one major may elect to complete the senior project in a major other than nursing. Writing requirement completed with NURS 384 and 390.</p>
+<p><strong>Correlative requirements:</strong> BIO 115, 116, 190; HP 125; SCI 240, 250; PSYC 130, 240. A course in statistics is recommended for nursing majors who intend to pursue graduate studies.</p>
+<p>View <a href="//www.luther.edu/catalog/assets/Program_Learning_Goals__2019_2020_.pdf" title="Program Learning Goals" target="_blank">program learning goals</a> for an explanation of learning outcomes in Nursing.&nbsp;</p>
+</div>
+<a name="block3"></a>
+<div class="catalog_block">
+<h3>Nursing Courses</h3>
+<div class="courseContainer">
+<h4><span class="courseNumber" course="course_701303_2017">NURS 138</span> <span class="courseTitle">Human Sexuality</span> </h4>
+<ul class="fa-ul">
+<li><i class="fa-li fa fa-clock-o fa-lg"></i>4 hours</li>
+<li><i class="fa-li fa fa-check-square-o fa-lg"></i>Fulfills: <span class="genEd" data-gened="HB">Human Behavior</span></li>
+</ul>
+<p><span class="courseDescription">A study of the field of human sexuality. The origins of sex roles, myths, stereotypes, and realities of this important aspect of life will be presented. The complexity of the sociological, psychological, biological, and legal components of the sexual being will also be included. The class is open to all students on campus. (Same as WGST 138)</span></p>
+</div>
+<div class="courseContainer">
+<h4><span class="courseNumber" course="course_701316_2017">NURS 234</span> <span class="courseTitle">Pathways to Practice I</span> </h4>
+<ul class="fa-ul">
+<li><i class="fa-li fa fa-clock-o fa-lg"></i>2 hours</li>
+<li><i class="fa-li fa fa-book fa-lg"></i>Prerequisites: Admission to nursing major, BIO 115, 116 and HP 125</li>
+</ul>
+<p><span class="courseDescription">First of two courses focusing on assessment, health promotion and communication skills; development and application of cognitive and psychomotor skills to perform systematic, holistic, and culturally sensitive assessments with an emphasis on the application of clinical reasoning.  This course facilitates the acquistion of knowledge for the liberal arts, sciences and nursing as the foundation of professional nursing practice.</span></p>
+</div>
+<div class="courseContainer">
+<h4><span class="courseNumber" course="course_701317_2017">NURS 235</span> <span class="courseTitle">Pathways to Practice I Lab</span> </h4>
+<ul class="fa-ul">
+<li><i class="fa-li fa fa-clock-o fa-lg"></i>2 hours</li>
+<li><i class="fa-li fa fa-book fa-lg"></i>Prerequisites: BIO 115, 116 and HP 125</li>
+</ul>
+<p><span class="courseDescription">A course focusing on the development of physical assessments, communication skills, and the application of cognitive and psychomotor skills for the safe care of patients in various healthcare settings.</span></p>
+</div>
+<div class="courseContainer">
+<h4><span class="courseNumber" course="course_701319_2017">NURS 236</span> <span class="courseTitle">Pathways to Practice II</span> </h4>
+<ul class="fa-ul">
+<li><i class="fa-li fa fa-clock-o fa-lg"></i>2 hours</li>
+<li><i class="fa-li fa fa-book fa-lg"></i>Prerequisites: NURS 234 and 235</li>
+</ul>
+<p><span class="courseDescription">Second course in a series focusing on further development of assessment, health promotion and communication skills and the application of cognitive and psychomotor skills to patients experiencing common abnormalities with an emphasis on the application of clinical reasoning.</span></p>
+</div>
+<div class="courseContainer">
+<h4><span class="courseNumber" course="course_701320_2017">NURS 237</span> <span class="courseTitle">Pathways to Practice II Clinical</span> </h4>
+<ul class="fa-ul">
+<li><i class="fa-li fa fa-clock-o fa-lg"></i>2 hours</li>
+<li><i class="fa-li fa fa-book fa-lg"></i>Prerequisites: NURS 234 and 235</li>
+</ul>
+<p><span class="courseDescription">Second clinical course in a series focusing on the application of cognitive and psychomotor skills on the care of adult patients with common abnormalities in a rural acute care and long term care settings.  Upon completion of this course, students will be expected to perform appropriate nursing interventions safely and effectively under direct clinical supervision.</span></p>
+</div>
+<div class="courseContainer">
+<h4><span class="courseNumber" course="course_701336_2017">NURS 370</span> <span class="courseTitle">Health and Healing I</span> </h4>
+<ul class="fa-ul">
+<li><i class="fa-li fa fa-clock-o fa-lg"></i>2 hours</li>
+<li><i class="fa-li fa fa-book fa-lg"></i>Prerequisites: NURS 234, 235, 236 and 237, BIO 115, 116 and 190, HP 125, PSYC 130 and 240 and SCI 240 and 250</li>
+</ul>
+<p><span class="courseDescription">In this course students will develop the knowledge and skills to support adult patients experiencing alterations in health while examining values, meanings, and experience.  Focus will be on how nurses intervene in a complex care environment, with an emphasis on integrating patient education and health promotion strategies to promote healing and achieve optimal health.  Concepts will relate to acute care needs with beginning discussion related to complex chronic health care needs.</span></p>
+</div>
+<div class="courseContainer">
+<h4><span class="courseNumber" course="course_701337_2017">NURS 371</span> <span class="courseTitle">Health and Healing I Clinical</span> </h4>
+<ul class="fa-ul">
+<li><i class="fa-li fa fa-clock-o fa-lg"></i>2 hours</li>
+<li><i class="fa-li fa fa-book fa-lg"></i>Prerequisites: NURS 234, 235, 236 and 237, BIO 115, 116 and 190, HP 125, PSYC 130 and 240, SCI 240 and 250</li>
+</ul>
+<p><span class="courseDescription">This clinical course is meant to apply the knowledge and skills learned previously, with emphasis on developing clinical decision making abilities.  Students will practice in an adult, acute-care setting and with regular opportunity to relfect on values and experiences in order to make meaning of health and healing.</span></p>
+</div>
+<div class="courseContainer">
+<h4><span class="courseNumber" course="course_701338_2017">NURS 372</span> <span class="courseTitle">Health and Healing II</span> </h4>
+<ul class="fa-ul">
+<li><i class="fa-li fa fa-clock-o fa-lg"></i>2 hours</li>
+<li><i class="fa-li fa fa-book fa-lg"></i>Prerequisites: NURS 234, 235, 236 and 237, BIO 115, 116 and 190, HP 125, PSYC 130 and 240, SCI 240 and 250</li>
+</ul>
+<p><span class="courseDescription">Continuation of NURS 370, with added complexity reflected in a focus on chronic disease management in the setting of acute alterations to health.  Students will continue to build on concepts of health promotion and patient education to address discharge needs, especially as related to acute-on-chronic healthcare needs.</span></p>
+</div>
+<div class="courseContainer">
+<h4><span class="courseNumber" course="course_701339_2017">NURS 373</span> <span class="courseTitle">Health and Healing II Clinical</span> </h4>
+<ul class="fa-ul">
+<li><i class="fa-li fa fa-clock-o fa-lg"></i>2 hours</li>
+<li><i class="fa-li fa fa-book fa-lg"></i>Prerequisites: NURS 234, 235, 236 and 237, BIO 115, 116 and 190, HP 125, PSYC 130 and 240, SCI 240 and 250</li>
+</ul>
+<p><span class="courseDescription">This clinical course is meant to apply the knowledge and skills learned in NURS 370 with continued emphasis on developing clinical decision making abilities. Students will explore the continuum of care in both inpatient and outpatient settings with a special focus on engaging in patient education and health promotion strategies in discharge planning.</span></p>
+</div>
+<div class="courseContainer">
+<h4><span class="courseNumber" course="course_701340_2017">NURS 374</span> <span class="courseTitle">Behaviorial Health Care</span> </h4>
+<ul class="fa-ul">
+<li><i class="fa-li fa fa-clock-o fa-lg"></i>2 hours</li>
+<li><i class="fa-li fa fa-book fa-lg"></i>Prerequisites: NURS 234, 235, 236 and 237, BIO 115, 116 and 190, HP 125, PSYC 130 and 240, SCI 240 and 250</li>
+</ul>
+<p><span class="courseDescription">Basic theories and concepts related to psychiatric-mental health care of children, adolescents, adults and older adults are examined.  Emphasis is placed on the biopsychosocial/physiologic basis for mental health care and provides knowledge necessary for a beginning practitioner.  Primary emphasis is given to mental health promotion and to the treatment of commonly occurring mental health concerns and illnesses.</span></p>
+</div>
+<div class="courseContainer">
+<h4><span class="courseNumber" course="course_701343_2017">NURS 376</span> <span class="courseTitle">Behavioral Health Care Clinical</span> </h4>
+<ul class="fa-ul">
+<li><i class="fa-li fa fa-clock-o fa-lg"></i>2 hours</li>
+<li><i class="fa-li fa fa-book fa-lg"></i>Prerequisites: NURS 234, 235, 236 and 237, BIO 115, 116, and 190, HP 125, PSYC 130 and 240, SCI 240 and 250</li>
+</ul>
+<p><span class="courseDescription">Application of theories and concepts related to the care of psychiatric clients.  Emphasis on knowledge of nursing and pharmacological management as well as advanced communication skills provide the basis of the clinical experiences in psychiatric nursing necessary for preparation as a beginning practitioner.</span></p>
+</div>
+<div class="courseContainer">
+<h4><span class="courseNumber" course="course_701344_2017">NURS 377</span> <span class="courseTitle">Family/Child Nursing</span> </h4>
+<ul class="fa-ul">
+<li><i class="fa-li fa fa-clock-o fa-lg"></i>4 hours</li>
+<li><i class="fa-li fa fa-book fa-lg"></i>Prerequisites: NURS 234, 235, 236 and 237, BIO 115, 116 and 190, HP 125, PSYC 130 and 240, SCI 240 and 250</li>
+</ul>
+<p><span class="courseDescription">This course focuses on childbearing and childrearing families, with emphasis on culturally competent and developmentally appropriate nursing care to promote healthy infant/adolescent and family function.  Concepts of family theory, family-centered care, family culture and health promotion are emphasized.</span></p>
+</div>
+<div class="courseContainer">
+<h4><span class="courseNumber" course="course_701345_2017">NURS 378</span> <span class="courseTitle">Family/Child Nursing Clinical</span> </h4>
+<ul class="fa-ul">
+<li><i class="fa-li fa fa-clock-o fa-lg"></i>2 hours</li>
+<li><i class="fa-li fa fa-book fa-lg"></i>Prerequisites: NURS 234, 235, 236 and 237, BIO 115, 116 and 190, HP 125, PSYC 130 and 240, SCI 240 and 250</li>
+</ul>
+<p><span class="courseDescription">This clinical course is meant to apply knowledge and skills learned in NURS 377 with childbearing and childrearing families.  Students will utilize clinical decision making skills, assessment and therapeutic communication.</span></p>
+</div>
+<div class="courseContainer">
+<h4><span class="courseNumber" course="course_701348_2017">NURS 382</span> <span class="courseTitle">Gerontological Nursing</span> </h4>
+<ul class="fa-ul">
+<li><i class="fa-li fa fa-clock-o fa-lg"></i>2 hours</li>
+<li><i class="fa-li fa fa-book fa-lg"></i>Prerequisites: NURS 234, 235, 236 and 237, BIO 115, 116 and 190, HP 125, PSYC 130 and 240, SCI 240 and 250</li>
+</ul>
+<p><span class="courseDescription">This course is designed to build upon learning in previous nursing courses with an emphasis on the aging phase of the life process.  The focus of the course is on the knowledge, attitudes, and skills needed to understand and care for the growing geriatric population.  Students will acquire understanding of the uniqueness of the health related needs of the aging population and learn to recognize the physiological, cognitive, psychological, social changes, and atypical presentations of disease associated with aging.</span></p>
+</div>
+<div class="courseContainer">
+<h4><span class="courseNumber" course="course_701349_2017">NURS 384</span> <span class="courseTitle">Evidence Based Practice</span> </h4>
+<ul class="fa-ul">
+<li><i class="fa-li fa fa-clock-o fa-lg"></i>2 hours</li>
+<li><i class="fa-li fa fa-book fa-lg"></i>Prerequisites: NURS 234, 235, 236 and 237, BIO 115, 116 and 190, HP 125, PSYC 130 and 240, SCI 240 and 250</li>
+</ul>
+<p><span class="courseDescription">This course emphasizes the use of research as a key component in clinical decision making for nursing practice.  Theoretical and practical components of research perspectives and the research process are discussed.  The course incorporates ethical aspects of the research process and research history.  Integration of multiple sources of evidence to guide nursing practice is analyzed.</span></p>
+</div>
+<div class="courseContainer">
+<h4><span class="courseNumber" course="course_701350_2017">NURS 386</span> <span class="courseTitle">Professional Nursing Practice: A Conceptual Immersion Experience</span> </h4>
+<ul class="fa-ul">
+<li><i class="fa-li fa fa-clock-o fa-lg"></i>2 hours</li>
+<li><i class="fa-li fa fa-book fa-lg"></i>Prerequisites: NURS 234, 235, 236 and 237, BIO 115, 116 and 190, HP 125, PSYC 130 and 240, SCI 240 and 250</li>
+</ul>
+<p><span class="courseDescription">This clinical course immerses students in a concept-based, systems-level analysis of the continuum of care.  This immersion allows students to work closely and collaborate with other healthcare providers to develop a conceptual understanding of how the patient experiences and the nurse contributes to the continuum of care.  Emphasis is on analysis of concepts and theories while also reflecting on leadership skills that promote quality care within a complex health care system.</span></p>
+</div>
+<div class="courseContainer">
+<h4><span class="courseNumber" course="course_701351_2017">NURS 388</span> <span class="courseTitle">Health Informatics</span> </h4>
+<ul class="fa-ul">
+<li><i class="fa-li fa fa-clock-o fa-lg"></i>2 hours</li>
+<li><i class="fa-li fa fa-book fa-lg"></i>Prerequisites: NURS 234, 235, 236 and 237, BIO 115, 116 and 190, HP 125, PSYC 130 and 240, SCI 240 and 250</li>
+</ul>
+<p><span class="courseDescription">This course includes the study of health informatics and information technology from consumer, clinical, and public health perspectives.  Students will analyze the use of information technology to communicate, manage knowledge, mitigate error, and support clinical decision-making.</span></p>
+</div>
+<div class="courseContainer">
+<h4><span class="courseNumber" course="course_701362_2017">NURS 390</span> <span class="courseTitle">Nursing Leadership in Health Care</span> </h4>
+<ul class="fa-ul">
+<li><i class="fa-li fa fa-clock-o fa-lg"></i>2 hours</li>
+<li><i class="fa-li fa fa-book fa-lg"></i>Prerequisites: NURS 234, 235, 236 and 237, BIO 115, 116 and 190, HP 125, PSYC 130 and 240, SCI 240 and 250</li>
+</ul>
+<p><span class="courseDescription">This course will view integrated concepts of leadership and management and advocacy, recognizing nursing as a collective profession within the larger health care delivery system.  This course will emphasize nurses' roles in promoting social justice in health care, in the context of economic, social, political, and ethical influence.  Students will understand how the health care system impacts the delivery of care, in health care organizations and direct patient care, focusing on cost, quality, safety, and access.  Historical perspectives of health care will be used to contextualize trends in nursing leadership and their role in the delivery of care.</span></p>
+</div>
+<div class="courseContainer">
+<h4><span class="courseNumber" course="course_701371_2017">NURS 420</span> <span class="courseTitle">Population-Based Care</span> </h4>
+<ul class="fa-ul">
+<li><i class="fa-li fa fa-clock-o fa-lg"></i>2 hours</li>
+<li><i class="fa-li fa fa-book fa-lg"></i>Prerequisites: NURS 370, 371, 372, 373, 374, 376, 377, 378, 382, 384, 386, 388 and 390</li>
+</ul>
+<p><span class="courseDescription">This course focuses on health promotion with disease and injury prevention in population groups.  Social justice principles are woven throughout course content to emphasize collective action toward improving national and international health.  With an introduction to the science of epidemiology, students will analyze health patterns of populations in connection with contextual contributing factors, such as lifestyle, social, economic, cultural, and historical perspectives.  Public health interventions are explored at individual, aggregate, and population levels.  Key focus areas of public health will be addressed including but not limited to environmental health, disaster and emergency preparedness, and political involvement.</span></p>
+</div>
+<div class="courseContainer">
+<h4><span class="courseNumber" course="course_701372_2017">NURS 421</span> <span class="courseTitle">Population-Based Care Clinical</span> </h4>
+<ul class="fa-ul">
+<li><i class="fa-li fa fa-clock-o fa-lg"></i>2 hours</li>
+<li><i class="fa-li fa fa-book fa-lg"></i>Prerequisites: NURS 370, 371, 372, 373, 374, 376, 377, 378, 382, 384, 386, 388 and 390</li>
+</ul>
+<p><span class="courseDescription">This clinical nursing course allows nursing students to practice public health nursing, incorporating theoretical and analytic components from NURS 420. Determinants of health are examined as students practice in collaboration with agencies and organizations, preparing students to specialize in rural public health priorities and interventions.  Emphasis is placed on the principles of public health combined with the nursing process to focus on health promotion, life-style factors, and disease prevention that facilitate the development of healthy populations, communities, families, and individuals.</span></p>
+</div>
+<div class="courseContainer">
+<h4><span class="courseNumber" course="course_701373_2017">NURS 425</span> <span class="courseTitle">Synthesis of Clinical Practice Across The Lifespan</span> </h4>
+<ul class="fa-ul">
+<li><i class="fa-li fa fa-clock-o fa-lg"></i>2 hours</li>
+<li><i class="fa-li fa fa-book fa-lg"></i>Prerequisites: NURS 370, 371, 372, 373, 374, 376, 377, 378, 382, 384, 386, 388 and 390</li>
+</ul>
+<p><span class="courseDescription">This course emphasizes clinical and critical reasoning skills synthesized from knowledge obtained in prior nursing courses to address fundamental to complex situations across the lifespan.  Students will engage in critical inquiry in both the classroom and simulation lab settings that is evidence based and that applies and integrates concepts associated with safe, high quality, professional nursing practice.</span></p>
+</div>
+<div class="courseContainer">
+<h4><span class="courseNumber" course="course_701382_2017">NURS 480</span> <span class="courseTitle">Leadership Capstone</span> </h4>
+<ul class="fa-ul">
+<li><i class="fa-li fa fa-clock-o fa-lg"></i>4 hours</li>
+<li><i class="fa-li fa fa-book fa-lg"></i>Prerequisites: NURS 370, 371, 372, 373, 374, 376, 377, 378, 382, 384, 386, 388 and 390</li>
+</ul>
+<p><span class="courseDescription">This capstone course will include experiences similar to those students are likely to confront as newly employed baccalaureate prepared registered nurses.  Students will work in 1:1 experiences with baccalaureate nurse preceptors in selected clinical settings.  An emphasis is placed on the development of personal and professional strategies needed to make the transition from student to graduate nurse by highlighting role development skills of bedside nurse leaders.</span></p>
+</div>
+<div class="courseContainer">
+<h4><span class="courseNumber" course="course_701383_2017">NURS 490</span> <span class="courseTitle">Senior Project</span> </h4>
+<ul class="fa-ul">
+<li><i class="fa-li fa fa-clock-o fa-lg"></i>1, 2, or 4 hours</li>
+<li><i class="fa-li fa fa-book fa-lg"></i>Prerequisites: NURS 384</li>
+</ul>
+<p><span class="courseDescription">A student completing a senior project in another major is not required to complete a senior project in nursing.</span></p>
+</div>
+
+</div>
+</div>
+
+
+</div>
+</div>
+</section><footer id="footer" role="contentInfo">
+
+
+<aside class="contactBlurb">
+<div class="blurbInner">
+<h2>Contact Information</h2>
+<p>Registrar's Office<br />Main Building 123<br />700 College Drive<br />Decorah, Iowa 52101</p><h3>Phone:</h3><p>563-387-1167</p><h3>Email:</h3><p><a href="/cdn-cgi/l/email-protection#542631333d2720263526143821203c31267a313021"><span class="__cf_email__" data-cfemail="4d3f282a243e393f2c3f0d21383925283f63282938">[email&#160;protected]</span></a></p></div>
+</aside>
+
+
+<div id="foot">
+
+
+<div id="maintained">
+<div id="maintainer">2019-20 Academic Catalog maintained by <a href="/cdn-cgi/l/email-protection#c9bbb0a8a7a7e7bea0a7a0a7aeba89a5bcbda1acbbe7acadbc">RyAnn Winings</a>. <span id="lastUpdated"> Page last updated on 28 June 2019</span>.</div></div>
+
+
+
+
+<div class="loginLinkModule unauthenticated"><p id="footerLoginLink"><a href="https://www.luther.edu/login/" class="login">Login</a></p>
+</div>
+
+
+</div>
+</footer>
+</div></section>
+
+
+			<footer id="global-footer">
+
+				<h2 class="screenreader">Complimentary Navigation</h2>
+
+				<div id="global-footer-nav" class="section" role="navigation">
+					<div class="row">
+						<div class="column">
+							<h3>About</h3>
+							<ul>
+								<li><a href="/about/">About Luther</a></li>
+								<li><a href="/about/lutheran-college/">College of the Church</a></li>
+								<li><a href="/diversity-at-luther/">Diversity at Luther</a></li>
+								<li><a href="/about/liberal-arts-college/">The Liberal Arts</a></li>
+								<li><a href="/sustainability/">Sustainability</a></li>
+							</ul>
+						</div>
+						<div class="column">
+							<h3>Alumni & Friends</h3>
+							<ul>
+								<li><a href="/alumni/directory/">Alumni Directory</a></li>
+								<li><a href="/alumni/">Alumni Home</a></li>
+								<li><a href="/giving/">Giving</a></li>
+								<li><a href="/homecoming/">Homecoming</a></li>
+								<li><a href="/magazine/">Magazine</a></li>
+							</ul>
+						</div>
+						<div class="column">
+							<h3>Campus</h3>
+							<ul>
+								<li><a href="/bookshop/">Book Shop</a></li>
+								<li><a href="/ministries/">College Ministries</a></li>
+								<li><a href="/dining/">Dining Services</a></li>
+								<li><a href="/helpdesk/">Technology Help Desk</a></li>
+								<li><a href="https://tickets.luther.edu/Online/default.asp">Ticket Office</a></li>
+							</ul>
+						</div>
+						<div class="column">
+							<h3>Offices</h3>
+							<ul>
+								<li><a href="/marketing/">Communications</a></li>
+								<li><a href="/financial-services/">Financial Services</a></li>
+								<li><a href="/hr/">Human Resources</a></li>
+								<li><a href="/president/">President</a></li>
+								<li><a href="/registrar/">Registrar’s Office</a></li>
+							</ul>
+						</div>
+						<div class="column">
+							<h3>Quick Links</h3>
+							<ul>
+								<li><a href="/directory/">Directory</a></li>
+								<li><a href="http://mail.luther.edu">Norse Mail</a></li>
+								<li><a href="https://katie.luther.edu/">KATIE</a></li>
+								<li><a href="/library/">Library</a></li>
+								<li><a href="https://my.luther.edu/">my.luther.edu</a></li>
+							</ul>
+						</div>
+						<div class="column">
+							<div class="socialProfileSimpleLinks">
+							<ul>
+								<li><a href="https://www.facebook.com/luthercollege" target="_blank"><span class="label">Facebook</span></a>
+								<a href="https://twitter.com/luthercollege" target="_blank"><span class="label">Twitter</span></a></li>
+								<li><a href="http://instagram.com/luthercollege#" target="_blank"><span class="label">Instagram</span></a>
+								<a href="https://www.youtube.com/user/LutherCollegeMedia" target="_blank"><span class="label">YouTube</span></a></li>
+								<li><a href="https://plus.google.com/106145735238161370551" target="_blank"><span class="label">Google+</span></a>
+								<a href="https://www.linkedin.com/edu/luther-college-20110" target="_blank"><span class="label">LinkedIn</span></a></li>
+							
+							</ul>
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<div id="global-footer-contact" class="row">
+					<div class="column">
+						<p class="contact">
+							<span class="addr">
+								<span class="">Luther College</span> <span class="sep"></span>
+								<span class="street-address">700 College Drive</span> <span class="sep"></span>
+								<span class="locality">Decorah,</span>
+								<span class="region">Iowa</span>
+								<span class="postal-code">52101</span> <span class="sep"></span>
+								<span class="country-name">USA</span>
+							</span>
+							<span class="phone"><a href="tel:563-387-2000">563-387-2000</a> <span class="sep"></span> <a href="tel:800-458-8437">800-4-LUTHER</a> (<span class="tel"><a href="tel:800-458-8437">800-458-8437</a></span>)</span>
+						</p>
+					</div>
+				</div>
+
+				<div id="global-footer-ultilty" class="row">
+					<div class="column">
+						<ul class="utility-nav" role="navigation">
+							<li><a href="http://emergency.luther.edu"><span>Emergency Info</span></a></li>
+							<li><a href="/privacy/"><span>Privacy Statement</span></a></li>
+							<li><a href="/reportproblem/"><span>Report a Problem</span></a></li>
+						</ul>
+					</div>
+				</div>
+
+				<div id="post-footer" class="row">
+					<div class="column">
+						<p class="copyright">&copy; 2019 <a href="/">Luther College</a>. All rights reserved.</p>
+						<p class="powered-by">Powered by <a href="https://apps.carleton.edu/opensource/reason/" target="_blank">Reason CMS</a>.</p>
+					</div>
+				</div>
+
+				<!-- close the off-canvas menu -->
+ 				<a class="exit-off-canvas"></a>
+
+			</footer>
+
+			
+
+</div>
+</div>
+</div>
+</div>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript" src="/reason/local/luther_2014/javascripts/vendor/fastclick.js"></script><script type="text/javascript" src="/reason/local/luther_2014/foundation/bower_components/foundation/js/foundation.min.js"></script><script> $(document).foundation(); </script><script type="text/javascript" src="/reason/local/luther_2014/javascripts/luther.js"></script></body>
+</html>

@@ -1,0 +1,1163 @@
+
+		
+<!DOCTYPE html>
+<html  class="no-js" id="luther-edu" lang="en">
+<head>
+<script type="text/javascript" src="/jquery/jquery-1.11.2.min.js"></script>
+<title>Education | 2019-20 Academic Catalog | Luther College</title>
+<link rel="stylesheet" type="text/css" href="/reason/css/twitter/twitter.css" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link rel="shortcut icon" href="/reason/local/favicon.ico" />
+<!--[if lt IE 9]><script type="text/javascript" src="/reason/js/respond/respond.min.js"></script><![endif]-->
+<!--[if lt IE 9]><script type="text/javascript" src="/reason/js/ie8_fix_maxwidth.js"></script><![endif]-->
+<meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0" />
+<script type="text/javascript" src="/reason/js/hoverintent.minified.js"></script>
+<script type="text/javascript" src="/reason_package/FancyBox/source/jquery.fancybox.js"></script>
+<link rel="stylesheet" type="text/css" href="/reason_package/FancyBox/source/jquery.fancybox.css" />
+<script type="text/javascript" src="/reason_package/FancyBox/source/helpers/jquery.fancybox-thumbs.js"></script>
+<link rel="stylesheet" type="text/css" href="/reason_package/FancyBox/source/helpers/jquery.fancybox-thumbs.css" />
+<script type="text/javascript" src="/reason/local/luther_2014/javascripts/luther-image-galleries.js"></script>
+<link rel="stylesheet" type="text/css" href="/jquery/css/smoothness/jquery-ui.min.css" />
+<link rel="stylesheet" type="text/css" href="/reason/modules/courses/subject_page.css" />
+<script type="text/javascript" src="/jquery/jquery-ui-1.11.3.min.js"></script>
+<script type="text/javascript" src="/reason/modules/courses/subject_page.js"></script>
+<script type="text/javascript" src="/reason/js/jquery.reasonAjax.js"></script>
+<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700" />
+<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,300,400,400italic,600,600italic,700,700italic,800,800italic" />
+<link rel="stylesheet" type="text/css" href="/reason/local/luther_2014/stylesheets/base.css" />
+<script type="text/javascript" src="/reason/local/luther_2014/javascripts/vendor/modernizr.js"></script>
+<script type="text/javascript" src="/reason/local/luther_2014/javascripts/luther-gcse.js"></script>
+<meta name="og:title" content="Education" />
+<meta name="og:type" content="university" />
+<meta name="og:url" content="https://www.luther.edu/catalog/curriculum/education/" />
+<meta name="og:site_name" content="Luther College" />
+<meta name="og:image" content="https://www.luther.edu/reason/images/756136.jpg" />
+<meta name="og:image" content="https://www.luther.edu/reason/images/686804.jpg" />
+<meta name="og:street-address" content="700 College Drive" />
+<meta name="og:locality" content="Decorah" />
+<meta name="og:region" content="Iowa" />
+<meta name="og:country" content="USA" />
+<meta name="og:email" content="www@luther.edu" />
+<meta name="og:phone_number" content="563-387-2000" />
+<!--[if lt IE 9]><link rel='stylesheet' type='text/css' href='/reason/local/luther_2014/stylesheets/ie.css' /><![endif]-->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+	ga('create', 'UA-129020-8', 'auto', {'allowLinker': true});
+	ga('require', 'linker');
+	ga('linker:autoLink', ['hiretouch.com', 'lutherbookshop.com'] );
+	ga('send', 'pageview');
+</script>
+<script async="async" src="https://connect.luther.edu/ping">/**/</script>
+<!-- Google Tag Manager -->
+<script>
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-KLWCQL');
+</script>
+<!-- End Google Tag Manager -->
+</head>
+<body class="body course-catalog course_catalog_page">
+<!-- Google Tag Manager (noscript) -->
+<noscript>
+<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KLWCQL" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+<!-- End Google Tag Manager (noscript) -->
+<div class="off-canvas-wrap">
+<div class="inner-wrap"><div id="wrapper">
+<div id="wrapper-col">
+
+
+
+
+			<header id="global-banner" role="banner">
+			
+				<hgroup>
+					<h1><a href="/"><img src="/reason/local/luther_2014/images/logo_2x.png" alt="Luther College"></a></h1>
+<h2 class="tagline">An Iowa College in the Liberal Arts Tradition</h2>
+				</hgroup>
+				
+				<div id="nav-toggles" role="navigation">
+					<ul>
+						<li>
+							<a class="toggle left-off-canvas-toggle" href="#global-nav">
+								<i class="fa fa-bars"></i>
+								<span class="screenreader">Global Navigation</span>
+							</a>
+						</li>
+						<li>
+							<a class="toggle search-toggle" href="#search-nav">
+								<i class="fa fa-search"></i>
+								<i class="fa fa-times"></i>
+								<span class="screenreader">Go to Search</span>
+							</a>
+						</li>
+						<li>
+							<!-- <a class="toggle audience-toggle" href="#audience-nav"> -->
+							<!-- <a href="#audience-nav" data-dropdown="audience-nav" data-options="is_hover:true; hover_timeout:5000"> -->
+							<a href="#" class="toggle audience-toggle" data-dropdown="audience-nav" data-options="is_hover:true; hover_timeout:5000">	
+								<span class="label">Info for</span>
+							</a>
+						</li>
+					</ul>
+				</div>
+			
+				<div id="search-nav" role="navigation">
+					<div class="search-wrap">
+						<gcse:searchbox-only></gcse:searchbox-only>
+					</div>
+					<ul class="search-related-links">
+						<li class="directory"><a href="/directory/">Directory</a></li>
+						<li class="offices"><a href="/contact/administrative">Offices</a></li>
+						<li class="index"><a href="/azindex/">A-Z Index</a></li>
+					</ul>
+				</div>
+			
+			</header>	
+			
+			
+
+<nav id="global-nav" class="left-off-canvas-menu" role="navigation">
+<h1 class="screenreader">Luther College Site Navigation</h1>
+<ul id="audience-nav" class="audiences f-dropdown" data-dropdown-content role="navigation">
+<li><a href="/alumni">Alumni &amp; Friends</a></li>
+<li><a href="/giving">Donors</a></li>
+<li><a href="/faculty-staff">Faculty &amp; Staff</a></li>
+<li><a href="/students">Students</a></li>
+<li><a href="/parents">Parents</a></li>
+</ul>
+<ul class="minisites">
+<li class="minisite admissions hasSidebar">
+
+
+<a href="/admissions/" class="minisite-name">Admission &amp; Aid</a>
+<div class="dropdown-wrap">
+<ul class="dropdown-nav">
+<li>
+<a href="/admissions/discover/" class="child">Discover Luther</a>
+<ul>
+<li><a href="/admissions/discover/value/" class="grandchild">Luther Value</a></li>
+<li><a href="/campus/tour/" class="grandchild">Online Campus Tour</a></li>
+<li><a href="/about/lutheran-college/" class="grandchild">Lutheran College</a></li>
+<li><a href="/admissions/discover/traditions/" class="grandchild">Luther Traditions</a></li>
+<li><a href="/admissions/discover/brochures/" class="grandchild">Brochures</a></li>
+</ul>
+</li>
+<li>
+<a href="/admissions/connect/" class="child">Connect with Us</a>
+<ul>
+<li><a href="https://connect.luther.edu/register/recruit-me" class="grandchild">Recruit Me</a></li>
+<li><a href="/admissions/connect/staff/" class="grandchild">Admissions Staff</a></li>
+<li><a href="/admissions/connect/tagboard/" class="grandchild">#LutherCollege</a></li>
+<li><a href="/admissions/student-blogs/" class="grandchild">Student Blogs</a></li>
+<li><a href="/inside-college-admissions/" class="grandchild">Inside College Admissions</a></li>
+<li><a href="/admissions/connect/high-school-counselors/" class="grandchild">For High School Counselors</a></li>
+<li><a href="/catalyze/" class="grandchild">Catalyze at Luther</a></li>
+</ul>
+</li>
+<li>
+<a href="/admissions/visit/" class="child">Plan a Visit</a>
+</li>
+<li>
+<a href="/admissions/apply/" class="child">Apply to Luther</a>
+<ul>
+<li><a href="/admissions/apply/how/" class="grandchild">How to Apply</a></li>
+<li><a href="/admissions/apply/requirements/" class="grandchild">Admissions Requirements</a></li>
+<li><a href="/admissions/international/" class="grandchild">International Students</a></li>
+<li><a href="/admissions/apply/transfer/" class="grandchild">Transfer Students</a></li>
+<li><a href="/admissions/apply/dates/" class="grandchild">Important Dates</a></li>
+</ul>
+</li>
+<li>
+<a href="/admissions/financial-aid/" class="child">Get Financial Aid</a>
+<ul>
+<li><a href="/admissions/financial-aid/scholarships/" class="grandchild">Scholarships and Awards</a></li>
+<li><a href="/admissions/financial-aid/tuition/" class="grandchild">Tuition and Fees</a></li>
+<li><a href="/admissions/financial-aid/net-price-calculator/" class="grandchild">Net Price Calculator</a></li>
+<li><a href="/admissions/financial-aid/how-to-apply/" class="grandchild">How to Apply for Aid</a></li>
+<li><a href="/admissions/financial-aid/need/" class="grandchild">Determining Financial Need</a></li>
+<li><a href="/admissions/financial-aid/understanding-your-award/" class="grandchild">Understanding Your Award</a></li>
+<li><a href="/admissions/financial-aid/grants/" class="grandchild">Grants</a></li>
+<li><a href="/work-study/" class="grandchild">Work-Study Opportunities</a></li>
+<li><a href="/admissions/financial-aid/loans/" class="grandchild">Loans</a></li>
+<li><a href="/admissions/financial-aid/veterans/" class="grandchild">VA Benefits</a></li>
+</ul>
+</li>
+<li>
+<a href="/admissions/accepted-students/" class="child">Accepted Students</a>
+<ul>
+<li><a href="/admissions/deposit/" class="grandchild">Pay Your Deposit</a></li>
+<li><a href="/registrar/students/transferring-credit/" class="grandchild">Transferring Credit</a></li>
+</ul>
+</li>
+<li>
+<a href="/admissions/diversity-ambassadors/" class="child">Diversity Ambassadors</a>
+</li>
+</ul>
+
+
+<div class="dropdown-content">
+
+
+<div class="callToActionBlurb">
+<div class="blurbs module_identifier-mcla-CallToActionBlurbModule-mloc-global_navigation_dropdown_content_admissions-mpar-3a39fab62b1616917473e004782b9817 module_api-standalone">
+<div class="blurb number1 uname_text_blurb_global_nav_admissions_buttons odd"><div class="blurbInner"><ul>
+<li><a class="cta-deposit gold" href="//www.luther.edu/admissions/deposit/">Pay Your Deposit</a></li>
+<li><a class="cta-apply green" href="https://connect.luther.edu/apply/">Apply Now</a></li>
+<li><a class="cta-visit blue" href="//www.luther.edu/admissions/visit/">Visit Luther</a></li>
+<li><a class="cta-tour red" href="//www.luther.edu/campus/tour/">Virtual Tour</a></li>
+</ul></div>
+</div>
+</div>
+</div>
+
+
+
+
+<div class="socialProfileSimpleLinks"><a href="https://www.facebook.com/luthercollege" target="_blank"><span class="label">Visit on Facebook</span></a> <a href="http://www.twitter.com/LutherAdmission" target="_blank"><span class="label">Visit on Twitter</span></a> <a href="http://www.instagram.com/lutheradmission" target="_blank"><span class="label">Instagram photos and videos</span></a> <a href="http://www.youtube.com/user/LutherCollegeMedia" target="_blank"><span class="label">YouTube videos</span></a></div>
+
+</div>
+</div>
+</li>
+<li class="minisite academics noSidebar">
+
+
+<a href="/academics/" class="minisite-name">Academics</a>
+<div class="dropdown-wrap">
+<ul class="dropdown-nav">
+<li>
+<a href="/academics/#majors" class="child">Majors, Minors, and Programs</a>
+</li>
+<li>
+<a href="/registrar/calendar/" class="child">Academic Calendar</a>
+</li>
+<li>
+<a href="/catalog/" class="child">College Catalog</a>
+</li>
+<li>
+<a href="/academics/programs-centers/" class="child">Distinctive Programs and Centers</a>
+<ul>
+<li><a href="/paideia/" class="grandchild">Paideia</a></li>
+<li><a href="/j-term/" class="grandchild">January Term</a></li>
+<li><a href="/academics/dean/scholars/" class="grandchild">Scholars Program</a></li>
+<li><a href="/global-learning/" class="grandchild">Center for Global Learning</a></li>
+<li><a href="https://www.luther.edu/sustainability/csc/" class="grandchild">Center for Sustainable Communities</a></li>
+<li><a href="https://www.luther.edu/public-life/" class="grandchild">Center for Ethics and Public Engagement</a></li>
+</ul>
+</li>
+<li>
+<a href="/academics/high-impact-learning/" class="child">High-Impact Learning</a>
+<ul>
+<li><a href="/academics/high-impact-learning/first-year/" class="grandchild">First-Year Seminars and Experiences</a></li>
+<li><a href="/academics/high-impact-learning/collaborative/" class="grandchild">Collaborative Assignments and Projects</a></li>
+<li><a href="/academics/high-impact-learning/research/" class="grandchild">Undergraduate Research</a></li>
+<li><a href="/academics/high-impact-learning/study-away/" class="grandchild">Study Away</a></li>
+<li><a href="/academics/high-impact-learning/internships/" class="grandchild">Internships</a></li>
+<li><a href="/academics/high-impact-learning/capstone-projects/" class="grandchild">Capstone Projects</a></li>
+</ul>
+</li>
+<li>
+<a href="/about/liberal-arts-college/" class="child">Liberal Arts Education</a>
+</li>
+<li>
+<a href="/academics/faculty-stories/" class="child">Faculty Stories</a>
+</li>
+<li>
+<a href="/academics/support/" class="child">Academic Support</a>
+</li>
+<li>
+<a href="/library/" class="child">Library</a>
+</li>
+<li>
+<a href="/diversity-at-luther" class="child">Diversity at Luther</a>
+</li>
+<li>
+<a href="/academics/dean/" class="child">Dean's Office</a>
+</li>
+<li>
+<a href="/registrar/" class="child">Registrar's Office</a>
+</li>
+</ul>
+
+
+</div>
+</li>
+<li class="minisite studentLife noSidebar">
+
+
+<a href="/studentlife/" class="minisite-name">Student Life</a>
+<div class="dropdown-wrap">
+<ul class="dropdown-nav">
+<li>
+<a href="/studentlife/resources/" class="child">Student Resources</a>
+<ul>
+<li><a href="/new-students/new-student-orientation/" class="grandchild">New Student Orientation</a></li>
+<li><a href="/studentlife/resources/leadership/" class="grandchild">Leadership Opportunities</a></li>
+<li><a href="/academic-integrity/" class="grandchild">Academic Integrity</a></li>
+<li><a href="/student-senate/" class="grandchild">Student Senate</a></li>
+<li><a href="/studentlife/resources/care-report/" class="grandchild">Care Report</a></li>
+<li><a href="/studentlife/resources/awards/" class="grandchild">Awards</a></li>
+<li><a href="/studentlife/resources/transportation-options/" class="grandchild">Transportation Options</a></li>
+</ul>
+</li>
+<li>
+<a href="/studentlife/residential/" class="child">Residential Campus</a>
+<ul>
+<li><a href="/dining/" class="grandchild">Dining Services</a></li>
+<li><a href="/reslife/" class="grandchild">Residence Life</a></li>
+<li><a href="/studentlife/activities/" class="grandchild">Student Activities Office</a></li>
+</ul>
+</li>
+<li>
+<a href="/studentlife/wellness-recreation/" class="child">Wellness and Recreation</a>
+<ul>
+<li><a href="/campus/tour/natural-areas/" class="grandchild">Natural Areas</a></li>
+<li><a href="/recservices/" class="grandchild">Recreational Services</a></li>
+<li><a href="/studentlife/wellness/" class="grandchild">Wellness Program</a></li>
+</ul>
+</li>
+<li>
+<a href="/studentlife/student-support/" class="child">Student-Centered Support</a>
+<ul>
+<li><a href="/career/" class="grandchild">Career Center</a></li>
+<li><a href="/ministries/" class="grandchild">College Ministries</a></li>
+<li><a href="/counseling/" class="grandchild">Counseling Service</a></li>
+<li><a href="/diversity/" class="grandchild">Center for Intercultural Engagement and Student Success</a></li>
+<li><a href="/healthservice/" class="grandchild">Health Service</a></li>
+<li><a href="/safety/" class="grandchild">Safety and Security</a></li>
+<li><a href="/studentlife/student-support/strengths/" class="grandchild">Strengths Based Leadership Program</a></li>
+</ul>
+</li>
+<li>
+<a href="/studentlife/office/" class="child">Student Life Office</a>
+<ul>
+<li><a href="/studentlife/office/offices/" class="grandchild">Offices</a></li>
+<li><a href="/safety/emergency/" class="grandchild">Emergency Procedures</a></li>
+<li><a href="/studentlife/office/crime/" class="grandchild">Crime Statistics</a></li>
+<li><a href="/studentlife/office/parents/" class="grandchild">Parents</a></li>
+<li><a href="/studentlife/office/staff/" class="grandchild">Staff</a></li>
+</ul>
+</li>
+<li>
+<a href="/studentlife/norse-creed/" class="child">The Norse Creed</a>
+</li>
+<li>
+<a href="/studentlife/student-handbook/" class="child">Student Handbook</a>
+</li>
+</ul>
+
+
+</div>
+</li>
+<li class="minisite athletics noSidebar">
+
+
+<a href="/sports/" class="minisite-name">Athletics</a>
+<div class="dropdown-wrap">
+<ul class="dropdown-nav">
+<li>
+<a href="/sports/men/" class="child">Men's Teams</a>
+<ul>
+<li><a href="/sports/men/baseball/" class="grandchild">Baseball</a></li>
+<li><a href="/sports/men/basketball/" class="grandchild">Basketball</a></li>
+<li><a href="/sports/men/cross-country/" class="grandchild">Cross Country</a></li>
+<li><a href="/sports/men/football/" class="grandchild">Football</a></li>
+<li><a href="/sports/men/golf/" class="grandchild">Golf</a></li>
+<li><a href="/sports/men/soccer/" class="grandchild">Soccer</a></li>
+<li><a href="/sports/men/swimming-diving/" class="grandchild">Swimming and Diving</a></li>
+<li><a href="/sports/men/tennis/" class="grandchild">Tennis</a></li>
+<li><a href="/sports/men/track-field/" class="grandchild">Track and Field</a></li>
+<li><a href="/sports/men/wrestling/" class="grandchild">Wrestling</a></li>
+</ul>
+</li>
+<li>
+<a href="/sports/women/" class="child">Women's Teams</a>
+<ul>
+<li><a href="/sports/women/basketball/" class="grandchild">Basketball</a></li>
+<li><a href="/sports/women/cross-country/" class="grandchild">Cross Country</a></li>
+<li><a href="/sports/women/golf/" class="grandchild">Golf</a></li>
+<li><a href="/sports/women/soccer/" class="grandchild">Soccer</a></li>
+<li><a href="/sports/women/softball/" class="grandchild">Softball</a></li>
+<li><a href="/sports/women/swimming-diving/" class="grandchild">Swimming and Diving</a></li>
+<li><a href="/sports/women/tennis/" class="grandchild">Tennis</a></li>
+<li><a href="/sports/women/track-field/" class="grandchild">Track and Field</a></li>
+<li><a href="/sports/women/volleyball/" class="grandchild">Volleyball</a></li>
+</ul>
+</li>
+<li>
+<a href="/sports/strength-conditioning/" class="child">Athletic Performance</a>
+</li>
+<li>
+<a href="/sports/training/" class="child">Athletic Training</a>
+<ul>
+<li><a href="/sports/training/staff/" class="grandchild">Athletic Training Staff</a></li>
+<li><a href="/sports/training/facilities/" class="grandchild">Athletic Training Facilities</a></li>
+<li><a href="/sports/training/forms/" class="grandchild">Athletic Training Forms</a></li>
+<li><a href="https://www.luther.edu/sports/assets/VisitingTeamLetter.pdf" class="grandchild">Visiting Team Information</a></li>
+</ul>
+</li>
+<li>
+<a href="/sports/media/" class="child">Live Streaming &amp; Media Gallery</a>
+<ul>
+<li><a href="http://portal.stretchinternet.com/luther/" class="grandchild">Streaming Schedule</a></li>
+<li><a href="/sports/media/gallery/" class="grandchild">Photo Gallery</a></li>
+</ul>
+</li>
+<li>
+<a href="/naa/" class="child">Norse Athletic Association</a>
+</li>
+<li>
+<a href="/sports/recruit/" class="child">Recruit Me</a>
+<ul>
+<li><a href="/sports/recruit/recruit/" class="grandchild">Team Recruitment Forms</a></li>
+<li><a href="/sports/recruit/tour/" class="grandchild">Facilities Virtual Tour</a></li>
+</ul>
+</li>
+<li>
+<a href="/sports/forms/" class="child">Student Athlete Forms</a>
+<ul>
+<li><a href="/sports/forms/checklist/" class="grandchild">First Day of Practice Checklist</a></li>
+<li><a href="/sports/forms/policies/" class="grandchild">NCAA Policies</a></li>
+<li><a href="/sports/forms/luther-policies/" class="grandchild">Luther Athletics Policies</a></li>
+<li><a href="/sports/forms/parents/" class="grandchild">Parent Information</a></li>
+<li><a href="/sports/forms/compliance/" class="grandchild">Compliance Forms</a></li>
+</ul>
+</li>
+<li>
+<a href="/sports/athletics/" class="child">Inside Luther Athletics</a>
+<ul>
+<li><a href="/sports/athletics/staff/" class="grandchild">Staff</a></li>
+<li><a href="/sports/athletics/visitors/" class="grandchild">Visitors Guide</a></li>
+<li><a href="/sports/athletics/facilities/" class="grandchild">Facilities</a></li>
+<li><a href="/sports/athletics/mission/" class="grandchild">Mission and Policies</a></li>
+<li><a href="/sports/athletics/history/" class="grandchild">History</a></li>
+<li><a href="/sports/athletics/hall-of-fame/" class="grandchild">Athletic Hall of Fame</a></li>
+<li><a href="/sports/athletics/meritoriusaward/" class="grandchild">Athletics Meritorious Service Award</a></li>
+<li><a href="/sports/athletics/postgrads/" class="grandchild">NCAA Postgraduate Scholars</a></li>
+<li><a href="/sports/athletics/cosidaacademic/" class="grandchild">CoSIDA Academic All-America</a></li>
+<li><a href="/sports/athletics/chi-alpha-sigma/" class="grandchild">Chi Alpha Sigma Honor Society</a></li>
+<li><a href="/sports/athletics/schedule/" class="grandchild">Complete Sports Schedule</a></li>
+<li><a href="/sports-information/" class="grandchild">Sports Information Office</a></li>
+</ul>
+</li>
+<li>
+<a href="/sports/camps/" class="child">Sports Camps</a>
+</li>
+</ul>
+
+
+</div>
+</li>
+<li class="minisite music noSidebar">
+
+
+<a href="/music/" class="minisite-name">Music</a>
+<div class="dropdown-wrap">
+<ul class="dropdown-nav">
+<li>
+<a href="/music/prospective-students/" class="child">Prospective Students</a>
+<ul>
+<li><a href="https://connect.luther.edu/register/music-recruit" class="grandchild">Recruit Me for Music</a></li>
+<li><a href="/music/prospective-students/auditions/" class="grandchild">Scholarship Auditions</a></li>
+<li><a href="/music/prospective-students/audition-dates/" class="grandchild">Scholarship Audition Dates</a></li>
+<li><a href="/music/prospective-students/hear-from-our-faculty/" class="grandchild">Hear from Our Faculty</a></li>
+<li><a href="/music/prospective-students/music-faq/" class="grandchild">Frequently Asked Questions</a></li>
+<li><a href="/music/prospective-students/scholarships/" class="grandchild">Music Scholarships</a></li>
+</ul>
+</li>
+<li>
+<a href="/music/academic-info/" class="child">Academic Information</a>
+<ul>
+<li><a href="/music/academic-info/why-study/" class="grandchild">Why Study Music at Luther?</a></li>
+<li><a href="/catalog/curriculum/music/" class="grandchild">Requirements and Courses</a></li>
+<li><a href="/music/academic-info/study-plans/" class="grandchild">Study Plans</a></li>
+<li><a href="/music/academic-info/music-education/" class="grandchild">Music Education</a></li>
+<li><a href="/music/academic-info/health-safety/" class="grandchild">Health and Safety Guidelines</a></li>
+</ul>
+</li>
+<li>
+<a href="/music/faculty/" class="child">Faculty</a>
+<ul>
+<li><a href="/music/faculty/emeriti/" class="grandchild">Emeriti</a></li>
+<li><a href="/music/faculty/ensembles/" class="grandchild">Faculty Ensembles</a></li>
+</ul>
+</li>
+<li>
+<a href="/music/outcomes/" class="child">Outcomes</a>
+<ul>
+<li><a href="/music/outcomes/careers/" class="grandchild">Careers</a></li>
+<li><a href="/music/outcomes/grad-stats/" class="grandchild">Recent Grad Statistics</a></li>
+<li><a href="/music/outcomes/alumni/" class="grandchild">Alumni Profiles</a></li>
+</ul>
+</li>
+<li>
+<a href="/music/ensembles/" class="child">Ensembles</a>
+</li>
+<li>
+<a href="/music/tours/" class="child">Ensemble Tours</a>
+</li>
+<li>
+<a href="/christmas-at-luther" class="child">Christmas at Luther</a>
+</li>
+<li>
+<a href="/music/dorian" class="child">Dorian Festivals and Summer Camps</a>
+</li>
+<li>
+<a href="/music/department/" class="child">Department Information</a>
+<ul>
+<li><a href="/music/events/" class="grandchild">Calendar</a></li>
+<li><a href="http://www.lutherbookshop.com/shop_main.asp?catalog_group_id=OQ&amp;catalog_group_name=Q0RzICYgRFZEcw" class="grandchild">Recordings</a></li>
+<li><a href="/music/department/facilities/" class="grandchild">Facilities</a></li>
+<li><a href="/music/department/mission-statement/" class="grandchild">Mission Statement</a></li>
+<li><a href="/music/department/staff/" class="grandchild">Staff</a></li>
+<li><a href="/music-marketing/" class="grandchild">Music Marketing Office</a></li>
+</ul>
+</li>
+</ul>
+
+
+</div>
+</li>
+<li class="minisite outcomes hasSidebar">
+
+
+<a href="/inauguration/" class="minisite-name">Inauguration</a>
+<div class="dropdown-wrap">
+<ul class="dropdown-nav">
+<li>
+<a href="/inauguration/schedule/" class="child">Schedule of Events</a>
+<ul>
+<li><a href="/inauguration/schedule/Agora/" class="grandchild">Luther Agora</a></li>
+<li><a href="/inauguration/schedule/Decorah/" class="grandchild">Inaugural Night on the Town</a></li>
+</ul>
+</li>
+<li>
+<a href="/inauguration/rsvp/" class="child">Response Form</a>
+</li>
+<li>
+<a href="/inauguration/well-wishes/" class="child">Send Well Wishes</a>
+</li>
+<li>
+<a href="/decorah/lodging/" class="child">Area Lodging</a>
+</li>
+<li>
+<a href="/president/" class="child">Office of the President</a>
+</li>
+<li>
+<a href="/admissions/visit/directions/" class="child">Directions to Decorah</a>
+</li>
+<li>
+<a href="https://www.luther.edu/campus/map/" class="child">Campus Map</a>
+</li>
+</ul>
+
+
+<div class="dropdown-content">
+</div>
+</div>
+</li>
+</ul>
+</nav>
+<section id="minisite" class="hasContent hasNavigation hasConNav">
+<div class="minisiteWrap"><header id="minisiteBanner"><div id="banner" role="banner" aria-label="site">
+<h1 class="siteTitle"><a href="/catalog/"><span>2019-20 Academic Catalog</span></a></h1>
+</div>
+<div class="breadcrumbs"><a href="/"><span class="screenreader">Home</span><i class="fa fa-home"></i></a> <span>&raquo;</span> <a href="/catalog/" class="locationBarLinks">2019-20 Academic Catalog</a> <span>&raquo;</span> <a href="/catalog/curriculum/" class="locationBarLinks">Curriculum</a> <span>&raquo;</span> Education</div>
+</header><nav id="navWrap" class="hasNav hasSubNav">
+<a class="toggle" href="#minisiteNavigation">
+<h1><span class="screenreader">2019-20 Academic Catalog</span> <span class="helper-text">Menu <i class="fa fa-arrow-right"></i></span></h1>
+<i class="fa fa-bars"></i>
+<i class="fa fa-times"></i>
+</a>
+
+
+<div id="minisiteNavigation" class="module_identifier-mcla-NavigationModule-mloc-navigation-mpar-3b18c0f2cb22d75c095d016ae47598e5 module_api-standalone" role="navigation" aria-label="page"><div class="list"><ul class="navListTop"><li class="navListItem open 2019-20_academic_catalog"><a href="/catalog/" class="home"><span>2019-20 Academic Catalog</span></a><ul class="navList"><li class="navListItem open pseudoCurrent curriculum"><a href="/catalog/curriculum/">Curriculum</a><ul class="navList"><li class="navListItem closed program_learning_goals"><a href="/catalog/curriculum/program-learning-goals/">Program Learning Goals</a></li></ul></li><li class="navListItem accordion closed item1 academic_information"><a href="/catalog/academics/">Academic Information</a><ul class="navList"><li class="navListItem closed item1 goals_for_student_learning"><a href="/catalog/academics/goals/">Goals for Student Learning</a></li><li class="navListItem closed item2 requirements_for_the_degree"><a href="/catalog/academics/requirements/">Requirements for the Degree</a></li><li class="navListItem closed item3 policies_and_procedures"><a href="/catalog/academics/policies/">Policies and Procedures</a></li><li class="navListItem closed item4 jump jump-internal advising"><a href="https://www.luther.edu/registrar/students/degree-progress/advising/">Advising</a></li><li class="navListItem closed item5 jump jump-internal academic_support_programs"><a href="/academics/support/">Academic Support Programs</a></li><li class="navListItem closed item6 jump jump-internal scholars_program"><a href="/academics/dean/scholars/">Scholars Program</a></li><li class="navListItem closed item7 jump jump-internal off-campus_study_programs"><a href="/global-learning/">Off-Campus Study Programs</a></li></ul></li><li class="navListItem closed item2 jump jump-internal costs_and_financial_policies"><a href="/financial-services/students/">Costs and Financial Policies</a></li><li class="navListItem closed item3 jump jump-internal academic_calendar"><a href="/registrar/calendar/">Academic Calendar</a></li><li class="navListItem closed item4 jump jump-internal about_luther"><a href="/about/">About Luther</a></li><li class="navListItem closed item5 catalog_archive"><a href="/catalog/archive/">Catalog Archive</a></li></ul></li></ul>
+</div></div>
+
+<div class="subNavElements">
+
+
+<aside class="contactBlurb">
+<div class="blurbInner">
+<h2>Contact Information</h2>
+<p>Registrar's Office<br />Main Building 123<br />700 College Drive<br />Decorah, Iowa 52101</p><h3>Phone:</h3><p>563-387-1167</p><h3>Email:</h3><p><a href="/cdn-cgi/l/email-protection#a4d6c1c3cdd7d0d6c5d6e4c8d1d0ccc1d68ac1c0d1"><span class="__cf_email__" data-cfemail="aedccbc9c7dddadccfdceec2dbdac6cbdc80cbcadb">[email&#160;protected]</span></a></p></div>
+</aside>
+
+
+</div>
+</nav>
+<section id="contentAndRelated"><header class="contentHead">
+<div class="breadcrumbs"><a href="/"><span class="screenreader">Home</span><i class="fa fa-home"></i></a> <span>&raquo;</span> <a href="/catalog/" class="locationBarLinks">2019-20 Academic Catalog</a> <span>&raquo;</span> <a href="/catalog/curriculum/" class="locationBarLinks">Curriculum</a> <span>&raquo;</span> Education</div>
+
+
+<h1 class="pageTitle"><span>Education</span></h1>
+
+</header>
+<div id="contentSections">
+<div class="contentMain">
+
+
+<div id="subjectPageModule" class="module_identifier-mcla-LutherCatalogSubjectPageModule-mloc-main-mpar-dcca48101505dd86b703689a604fe3c4 module_api-standalone" year="2017">
+<a name="block1"></a>
+<div class="catalog_block">
+<p><strong>Barbara Bohach</strong> (department head)</p>
+<p>Teacher Education Programs: K-6 Elementary, 5-12 Secondary, K-12 Art, K-12 Music</p>
+<p>All completers of the Luther Teacher Education Program are eligible for a license to teach in Iowa. See the <a href="//www.luther.edu/education/licensure/">Luther College Education website</a> for information regarding licensure in other states. For complete information regarding the education programs and licensure requirements at Luther, consult the <a href="//www.luther.edu/education">Education Department website</a>. Changes in Iowa state requirements appear periodically, so printed material may be out of date; the Education Department endeavors to keep the departmental website updated. Be sure to consult the <a title="TEP Handbook" href="//www.luther.edu/education/assets/9_6_16_Comprehensive_TEP_Handbook.pdf">Teacher Education Program Handbook</a>. All students pursuing licensure in education must be aware that their course selections will have an impact on the length of their programs and their certification. For this reason, it is important that these students maintain regular contact with their education advisors and with the Education Department staff. It is imperative that secondary and K-12 students with advisors in other departments also seek regular consultation with the Education Department staff and faculty.</p>
+<p>Important information for all students interested in the teacher education program:</p>
+<ul>
+<li>Students must be approved for the Teacher Education Program before they are permitted to register for 300-400 level courses in the education department. Transfer students should see the Education Department Chair.</li>
+<li>Completed Teacher Education Program applications are due October 1 or March 1 for admission consideration.</li>
+<li>The Education Department and all program area departments review teacher education candidates.</li>
+<li>Students may not transfer methods courses at the 300 level or above from another institution.</li>
+</ul>
+<p>To be licensed to teach, a student must successfully complete the education program at Luther College. There are three levels of approval within the Teacher Education Program: admission to teacher education, approval for the professional semester, and approval for licensure.</p>
+<p><strong>A. Admission to the Teacher Education Program</strong> (required before taking any courses at or above the 300-level)</p>
+<ol>
+<li>2.75 minimum overall GPA.</li>
+<li>Pass the following courses with a minimum of a "C":<br />
+<ul>
+<li>EDUC 185 or 215</li>
+<li>EDUC 220</li>
+<li>EDUC 221</li>
+<li>EDUC 222, 232, 252, ART 228</li>
+</ul>
+</li>
+<li>Three recommendations from faculty (at least one from students' major field of study) and staff.</li>
+<li>Passing scores on the following approved Basic Skills Exam:
+<ul>
+<li>Praxis Core exam: reading (156), writing (162), mathematics (150). Praxis Core exams are given on Luther College's campus at the testing center. To register and view test availability, see ETS.org.</li>
+</ul>
+</li>
+<li>Approval of the candidate by all program-area departments and the Education Department.</li>
+<li>Satisfactory completion of the introductory portfolio.</li>
+<li>Students desiring to teach music must have passed piano proficiency or currently be enrolled in MUS 117 or applied study.</li>
+</ol>
+<p><strong>B. Approval for the professional semester (student teaching)</strong></p>
+<p>All education majors and minors are required to have a practicum that includes students from diverse backgrounds. All K-12 education minors are required to student teach both at the elementary and secondary grade levels. Elementary majors are required to student teach at the [K-2] and [3-6] grade levels. All secondary minors are required to student teach at the [5-8] and [9-12] levels. Students seeking licensure in more than one endorsement must meet the requirements for each endorsement.</p>
+<ol>
+<li>Approval by all program-area departments, and the Education Department.</li>
+<li>A 2.75 cumulative GPA and 2.75 minimum GPA in&nbsp; program area coursework. (Exceptions include modern languages at 3.00 and mathematics/biology/chemistry at 2.50). Math teaching majors must earn a grade of C or above in MATH 220, 240 and 365. The Education Department incorporates all transfer course grades when calculating the GPA.<br />
+<ul>
+<li>Elementary Education majors - completion of MATH 123 and satisfactory completion of at least one of the two required lab science courses (life &amp; physical science) plus EDUC 223, 226, 321, 322, 325, 326, 328 and EDUC 329, and all endorsement classes before the student teaching semester. All content area courses need to be passed with a "C" or above.</li>
+<li>Secondary Education minors - completion of methods coursework in their field of study plus 90 percent of their major requirements before the student teaching semester.</li>
+<li>K-12 Art and Music majors - completion of methods coursework in their field of study plus 90 percent of their major requirements before the student teaching semester.</li>
+</ul>
+</li>
+<li>Attend a professional semester application meeting that is appropriate for your professional semester:
+<ul>
+<li>Fall student teachers' meeting: The year BEFORE you wish to student teach, regardless of whether you will student teach in the fall or spring.</li>
+<li>An additional meeting: One semester BEFORE you wish to student teach.</li>
+</ul>
+</li>
+<li>Satisfactory completion of a developing portfolio.</li>
+</ol>
+<p><strong>C. Approval for licensure after completion of the teacher education program, professional semester, and graduation from Luther College.</strong></p>
+<p>Luther College prepares students to be eligible for licensure in the state of Iowa. Luther students are also eligible to receive a preliminary license in most states. All students must complete the Luther College program and meet the Iowa requirements, regardless of the state in which the student plans to eventually teach, in order to be approved for licensure. Check with the Education Department for your particular program. Each state regulates certification rules for teacher licensing. It is the student's responsibility to monitor the requirements for licensure outside of Iowa and discuss them with his or her advisor as necessary. These rules change often; therefore, for licensure outside Iowa, the best source for information is the state department of education website for your preferred state. See the link on our <a href="//www.luther.edu/education/licensure/">licensure page</a>. Luther College program completion requirements are:</p>
+<ol>
+<li>Completion of Bachelor of Arts degree, which includes the acquisition of a core of liberal arts knowledge, including English composition, mathematics, natural sciences, social sciences, and humanities.</li>
+<li>Achievement of a 2.75 minimum final overall GPA and 2.75 minimum final GPA in all program areas - including Education Department coursework (exceptions include modern languages at 3.00 and mathematics/biology/chemistry at 2.50).</li>
+<li>Completion of all program requirements in elementary, secondary, or K-12 programs, including successful completion of all required practica.</li>
+<li>All students must take the required Praxis II tests in both content and pedagogy. See the <a href="//www.luther.edu/education/testing/">testing page</a> on the education website for the specific tests required for Luther TEP completers and for further information. Students may take the edTPA in place of the Praxis II pedagogy test. These tests may be taken the semester immediately before student teaching, during student teaching, or as soon as possible following student teaching. These tests must be completed and passed before being considered a completer of the TEP and eligible for licensure.</li>
+<li>Required by all states: criminal background check, fingerprinting.</li>
+<li>Successful completion of the advanced portfolio (note: elementary majors must present the professional portfolio as the senior project).</li>
+<li>Approval of your student teaching practicum by your student teaching supervisor and, when necessary, the Education Department. When there are concerns, the department chair works with the student's advisor and methods professors to make the final decision.</li>
+</ol>
+</div>
+<a name="block2"></a>
+<div class="catalog_block">
+<h3>Elementary Education (K-6)</h3>
+<p><strong>Required for a major:</strong> EDUC 185/EDUC 215 (Clinical Experience I in the Schools), EDUC 220, 221, 222, 223, 224, 226, 321, 322, 325, 326, 328, 329, 376, 486, 490 or 493, PAID 450 (Making Decisions for U.S. Schools); HIST 111 or 112 and HIST 126; MATH 123; two lab science courses (one biological science and one physical science). Writing requirement in the major is completed with EDUC 223. Elementary majors must receive a "C" or better in each required content knowledge course.</p>
+<p>The elementary major requires an academic endorsement or a special endorsement. If more than one endorsement is selected, please speak with your advisor regarding the length of student teaching required. A ninth semester and/or an extended student teaching may be necessary for completion of the program.</p>
+<p>At least 76 semester hours (19 course equivalents) must be completed outside of the education (EDUC) discipline.</p>
+<p>EDUC 325-EDUC 329 should be taken within one year of student teaching.</p>
+<h3>Secondary Education Minor (in conjunction with an academic major, grades 5-12)</h3>
+<p><strong>Requirements for certification in English,&nbsp; mathematics, science, and social sciences:</strong> EDUC 185/EDUC 215 (Clinical Experience I in the Schools), EDUC 220, 221, 252, 352 (language majors only), EDUC 366, 367, 377, 486; PAID 450 (Making Decisions for U.S. Schools). Students are strongly encouraged, but not yet required, to take the EDUC 382 practicum while student teaching since a practicum in content area reading is required in several states. Students seeking the "Modern Language" endorsement must achieve "low advanced" in the Oral Proficiency Interview (OPI). Students seeking certification in mathematics must earn a C or better in MATH 220, 240, and 365.</p>
+<p><strong>Second Teaching Area:</strong> In the state of Iowa, students majoring in one subject may take fewer semester hours in another subject and be granted an endorsement to teach that subject. This is not transferable to other states. It only applies to students wishing to teach in the state of Iowa. Please check the Education Department website for specific requirements for second teaching areas.</p>
+<h3>Minor: K-12 Art Education</h3>
+<p><strong>Required for licensure (in addition to the major in art):</strong> EDUC 185/EDUC 215 (Clinical Experience I in the Schools), EDUC 220, 221, 366, 377, professional semester (EDUC 486); PAID 111; PAID 450 (Making Decisions for U.S. Schools). Students are strongly encouraged, but not required, to take the EDUC 382 practicum while student teaching since a practicum in content area reading is required in several states.</p>
+<p>Each major has specific methods requirements: for art: ART 222, EDUC 354 and EDUC 355.</p>
+<p><strong>Students who wish to teach K-12 Music should refer to the <a href="//www.luther.edu/catalog/curriculum/music-education/">Music Education</a> major.</strong></p>
+<p>View <a href="//www.luther.edu/catalog/assets/Program_Learning_Goals__2019_2020_.pdf" title="Program Learning Goals" target="_blank">program learning goals</a> for an explanation of learning outcomes in Education.&nbsp;</p>
+</div>
+<a name="block3"></a>
+<div class="catalog_block">
+<h3>Education Courses</h3>
+<p><div class="courseContainer">
+<h4><span class="courseNumber" course="course_697240_2017">EDUC 185</span> <span class="courseTitle">Clinical Experience I in the Schools</span> </h4>
+<ul class="fa-ul">
+<li><i class="fa-li fa fa-clock-o fa-lg"></i>4 hours</li>
+</ul>
+<p><span class="courseDescription">Seminars for first-year students offered each January term.</span></p>
+</div>
+<div class="courseContainer">
+<h4><span class="courseNumber" course="course_697241_2017">EDUC 215</span> <span class="courseTitle">Clinical Experience I in the Schools</span> </h4>
+<ul class="fa-ul">
+<li><i class="fa-li fa fa-clock-o fa-lg"></i>4 hours</li>
+</ul>
+<p><span class="courseDescription">The clinical experience requires that students work as active and involved observer-aides under teachers in public/private area schools. Concentrated instruction in preparation for these duties plus seminars accompany the experience.  Seminars include the following topics: ethics, professionalism, an introduction to program competencies; and dispositions, including reflective practice. Students taking this course in January must complete application materials in the education department by October 1 to secure a placement for January term. Requires sophomore standing. First-year students are to enroll in EDUC 185 (first-year seminar) offered during January term.</span></p>
+</div>
+<div class="courseContainer">
+<h4><span class="courseNumber" course="course_697242_2017">EDUC 220</span> <span class="courseTitle">Educational Psychology</span> </h4>
+<ul class="fa-ul">
+<li><i class="fa-li fa fa-clock-o fa-lg"></i>4 hours</li>
+<li><i class="fa-li fa fa-check-square-o fa-lg"></i>Fulfills: <span class="genEd" data-gened="HBSSM">Human Behavior—Social Science Methods</span></li>
+<li><i class="fa-li fa fa-book fa-lg"></i>Prerequisites: EDUC 185 or 215 and PAID 112 (or equivalent) or permission of Dept. Head</li>
+</ul>
+<p><span class="courseDescription">This course is an introduction to the field of education and to educational psychology.  One of the central concerns of every society, education involves the study of human growth and development, especially in the context of schooling.  Students will encounter research into how humans learn, how learning environments are structured, and how underlying social assumptions intersect with learning theories.  The course will explore such topics as socialization, teacher/student interaction, social and cognitive learning theories, testing and assessment, and ethics and the school.</span></p>
+</div>
+<div class="courseContainer">
+<h4><span class="courseNumber" course="course_697243_2017">EDUC 221</span> <span class="courseTitle">The Diverse and Exceptional Learner</span> </h4>
+<ul class="fa-ul">
+<li><i class="fa-li fa fa-clock-o fa-lg"></i>4 hours</li>
+<li><i class="fa-li fa fa-check-square-o fa-lg"></i>Fulfills: <span class="genEd" data-gened="HB">Human Behavior</span></li>
+<li><i class="fa-li fa fa-book fa-lg"></i>Prerequisites: EDUC 185 or 215 and PAID 112 (or equivalent)</li>
+</ul>
+<p><span class="courseDescription">This course introduces students to learner differences as they are related to culture, ethnicity, language, disability, gender, and socioeconomic status. Students will explore how these factors influence individual educational performance, experience and development in the institution of the school.  With a major emphasis on human intergroup relations in a pluralistic society, the course will also introduce students to significant legislation, models of service delivery, and instructional modifications.</span></p>
+</div>
+<div class="courseContainer">
+<h4><span class="courseNumber" course="course_697244_2017">EDUC 222</span> <span class="courseTitle">Instructional Strategies With Computer Applications: Elementary</span> </h4>
+<ul class="fa-ul">
+<li><i class="fa-li fa fa-clock-o fa-lg"></i>4 hours</li>
+<li><i class="fa-li fa fa-book fa-lg"></i>Prerequisites: EDUC 185 or 215 and sophomore standing</li>
+</ul>
+<p><span class="courseDescription">Planning for effective instruction and classroom environments is the focus of this course.  Students learn basics of pedagogy such as writing lesson plans aligned with standards, objectives, and assessments; planning research-based instructional techniques; and integrating electronic media to enhance learning.  Application of learning theory and investigation of classroom management are also incorporated.  Requires sophomore standing.</span></p>
+</div>
+<div class="courseContainer">
+<h4><span class="courseNumber" course="course_697245_2017">EDUC 223</span> <span class="courseTitle">Children's Literature</span> </h4>
+<ul class="fa-ul">
+<li><i class="fa-li fa fa-clock-o fa-lg"></i>4 hours</li>
+<li><i class="fa-li fa fa-book fa-lg"></i>Prerequisites: EDUC 185 or 215,  PAID 112 (or equivalent) and sophomore standing</li>
+</ul>
+<p><span class="courseDescription">The course is a study of both classic and contemporary Children's Literature: genre identification, critical analysis, review, and curriculum integration of books for children and young adults (pre-K-8).  This course fulfills the writing course for elementary education majors.   Requires sophomore standing.</span></p>
+</div>
+<div class="courseContainer">
+<h4><span class="courseNumber" course="course_820659_2017">EDUC 224</span> <span class="courseTitle">Integrated Methods for Music, Art, Physical Education and Wellness in the Elementary Classroom</span> </h4>
+<ul class="fa-ul">
+<li><i class="fa-li fa fa-clock-o fa-lg"></i>4 hours</li>
+<li><i class="fa-li fa fa-book fa-lg"></i>Prerequisites: EDUC 185 or EDUC 215, PAID 112D or consent of instructor.</li>
+</ul>
+<p><span class="courseDescription">This course presents methods for integrating music, visual arts, & physical education/wellness across the curriculum in grades K-6.  The benefits and challenges of integrating visual, performing arts, movement, and wellness in daily teaching and learning activities in the elementary classroom will be addressed.  This may include classroom instruction and field experiences with children.</span></p>
+</div>
+<div class="courseContainer">
+<h4><span class="courseNumber" course="course_697246_2017">EDUC 226</span> <span class="courseTitle">Introduction to Literacy</span> </h4>
+<ul class="fa-ul">
+<li><i class="fa-li fa fa-clock-o fa-lg"></i>4 hours</li>
+<li><i class="fa-li fa fa-book fa-lg"></i>Prerequisites: EDUC 185 or 215, EDUC 220 and sophomore standing</li>
+</ul>
+<p><span class="courseDescription">Based on a synthesis of research identifying characteristics of highly effective literacy teachers, this course focuses on research-based approaches to effective reading/writing instruction: teacher knowledge, classroom assessment, evidence-based teaching practices, response to intervention (RTI), motivation and engagement, technology and new literacies, and family & community connections. The importance of oral language acquisition, phonemic awareness, phonics and word identification, fluency, vocabulary, comprehension, writing and assessment is also addressed.  Web-based dyslexia training is required in this course.</span></p>
+</div>
+<div class="courseContainer">
+<h4><span class="courseNumber" course="course_868352_2017">EDUC 230</span> <span class="courseTitle">Infant and Toddler Education and Experience</span> </h4>
+<ul class="fa-ul">
+<li><i class="fa-li fa fa-clock-o fa-lg"></i>2 hours</li>
+</ul>
+<p><span class="courseDescription">The course addresses child development, program philosophies, creating developmentally appropriate environments, and collaboration with families and professionals working with infants and toddlers (children birth through age 3).  A twenty-hour practicum is required and needs to be completed outside of scheduled course hours.  Recommended for all elementary education majors and required for those seeking Iowa certification in early childhood education.  (Offered in fall of odd-numbered years.)</span></p>
+</div>
+<div class="courseContainer">
+<h4><span class="courseNumber" course="course_697257_2017">EDUC 240</span> <span class="courseTitle">Home, School, and Community</span> </h4>
+<ul class="fa-ul">
+<li><i class="fa-li fa fa-clock-o fa-lg"></i>2 hours</li>
+<li><i class="fa-li fa fa-book fa-lg"></i>Prerequisites: EDUC 185 or 215 or sophomore standing</li>
+</ul>
+<p><span class="courseDescription">This pre-K to 12 course examines the dynamic relationship between families, school, and the community. The course focuses on collaborative team efforts and the importance of family engagement and empowerment to improve student learning and well being.  Professional and ethical responsibilities of working with diverse families and communities will be addressed.  This course is required for those seeking early childhood, special education, and English as a Second Language (ESL) endorsements.</span></p>
+</div>
+<div class="courseContainer">
+<h4><span class="courseNumber" course="course_697259_2017">EDUC 242</span> <span class="courseTitle">Introduction to Learning Disabilities and Behavioral Issues</span> </h4>
+<ul class="fa-ul">
+<li><i class="fa-li fa fa-clock-o fa-lg"></i>4 hours</li>
+<li><i class="fa-li fa fa-book fa-lg"></i>Prerequisites: EDUC 185 or 215 or sophomore standing</li>
+</ul>
+<p><span class="courseDescription">This K-12 introductory course includes a historical perspective to the field of learning disabilities and behavioral disorders. This course covers characteristics and etiology, definitions and identification procedures, treatment and intervention, instructional and behavioral methodologies, impact of the disability throughout the lifespan, and current issues in the field.</span></p>
+</div>
+<div class="courseContainer">
+<h4><span class="courseNumber" course="course_697263_2017">EDUC 245</span> <span class="courseTitle">Career/Vocational Assessment and Vocational Planning</span> </h4>
+<ul class="fa-ul">
+<li><i class="fa-li fa fa-clock-o fa-lg"></i>2 hours</li>
+<li><i class="fa-li fa fa-book fa-lg"></i>Prerequisites: EDUC 185 or 215 or sophomore standing</li>
+</ul>
+<p><span class="courseDescription">This K-12 course covers the assessment of career/vocational skills and interests, aspects of the Individuals with Disabilities Education Improvement Act (IDEIA) which specifically address transition, transition meetings, Individualized Education Programs (IEP), community-based instruction, and the school/community services and service providers who would be involved in student transition.  This course is required for those seeking the special education endorsement.</span></p>
+</div>
+<div class="courseContainer">
+<h4><span class="courseNumber" course="course_697264_2017">EDUC 246</span> <span class="courseTitle">Classroom Management and Collaboration</span> </h4>
+<ul class="fa-ul">
+<li><i class="fa-li fa fa-clock-o fa-lg"></i>4 hours</li>
+<li><i class="fa-li fa fa-book fa-lg"></i>Prerequisites: EDUC 185 or 215 or sophomore standing</li>
+</ul>
+<p><span class="courseDescription">This K-12 course is designed to help both general education and special education pre-service teachers create supportive and culturally responsive classrooms.  Topics covered include mindfulness, social-emotional learning, restorative justice, trauma-informed care, positive behavioral interventions and supports, applied behavior strategies, and individual behavior plans.  A variety of classroom management models will be explored.  This course is required for those seeking the special education endorsement and recommended for others seeking education licensure.</span></p>
+</div>
+<div class="courseContainer">
+<h4><span class="courseNumber" course="course_697265_2017">EDUC 252</span> <span class="courseTitle">Introduction to Middle and High School 5-12 Methods</span> </h4>
+<ul class="fa-ul">
+<li><i class="fa-li fa fa-clock-o fa-lg"></i>2 hours</li>
+<li><i class="fa-li fa fa-book fa-lg"></i>Prerequisites: EDUC 185 or 215</li>
+</ul>
+<p><span class="courseDescription">An introduction to the general methods of secondary teaching. Such topics as objectives, planning, testing, evaluation, classroom management, instructional techniques, educational technology, media, and the inclusion of special education students in the regular classroom will be considered. Should be taken as close to EDUC 352 as possible.  Required for certification in K-12 health and 5-12 secondary education areas. Not required of K-12 art, K-12 physical education, and K-12 music majors.</span></p>
+</div>
+<div class="courseContainer">
+<h4><span class="courseNumber" course="course_697278_2017">EDUC 321</span> <span class="courseTitle">Clinical Experience II:Literacy in Elementary/Middle School</span> </h4>
+<ul class="fa-ul">
+<li><i class="fa-li fa fa-clock-o fa-lg"></i>1 hour</li>
+<li><i class="fa-li fa fa-book fa-lg"></i>Prerequisites: Admittance to Teacher Educ Program and EDUC 326</li>
+</ul>
+<p><span class="courseDescription">As a part of the elementary/middle school education sequence the student observes and teaches small and large groups of students in a classroom in the area of literacy. During the clinical experience the student develops and teaches a unit that documents the planning, teaching, assessment and reflection of literacy protocols. This course is co-requisite with EDUC 322 and is based in a public or private school for three weeks.</span></p>
+</div>
+<div class="courseContainer">
+<h4><span class="courseNumber" course="course_697280_2017">EDUC 322</span> <span class="courseTitle">Clinical Experience II: Mathematics in Elementary/Middle School</span> </h4>
+<ul class="fa-ul">
+<li><i class="fa-li fa fa-clock-o fa-lg"></i>1 hour</li>
+<li><i class="fa-li fa fa-book fa-lg"></i>Prerequisites: Admittance to Teacher Educ Program and EDUC 325</li>
+</ul>
+<p><span class="courseDescription">As a part of the elementary education methods sequence the student observes and teaches small and large groups of students in an elementary/middle school classroom. During the clinical experience, the student develops and teaches a unit that documents planning, teaching, assessment and reflection protocols in the area of mathematics. This course is co-requisite with EDUC 321 and is based in a public or private for three weeks.</span></p>
+</div>
+<div class="courseContainer">
+<h4><span class="courseNumber" course="course_697282_2017">EDUC 323</span> <span class="courseTitle">Teaching Methods for English Language Learners</span> </h4>
+<ul class="fa-ul">
+<li><i class="fa-li fa fa-clock-o fa-lg"></i>4 hours</li>
+<li><i class="fa-li fa fa-book fa-lg"></i>Prerequisites: Admittance to Teacher Educ Program</li>
+</ul>
+<p><span class="courseDescription">Basic introduction to historical and contemporary theories and methods of English as a second language instruction with an emphasis on methodologies for teaching reading, writing, listening and pronunciation skills within the context of content areas grounded in academic and social/cultural language goals. This course is offered in fall of even-numbered years. Please speak to someone in the Education Department to determine when this course should be taken.</span></p>
+</div>
+<div class="courseContainer">
+<h4><span class="courseNumber" course="course_697284_2017">EDUC 324</span> <span class="courseTitle">Assessment for English Language Learners</span> </h4>
+<ul class="fa-ul">
+<li><i class="fa-li fa fa-clock-o fa-lg"></i>2 hours</li>
+<li><i class="fa-li fa fa-book fa-lg"></i>Prerequisites: Admittance to Teacher Educ Program</li>
+</ul>
+<p><span class="courseDescription">This K-12 course is an introduction to assessment for English language learners including formal and informal tools, interpretation of assessment data, use of data to inform instruction, and the fundamental technical aspects of assessment. This course is offered in the spring of odd numbered years. Please speak to someone in the Education Department to determine when this course should be taken.</span></p>
+</div>
+<div class="courseContainer">
+<h4><span class="courseNumber" course="course_697285_2017">EDUC 325</span> <span class="courseTitle">Elementary Mathematics Methods</span> </h4>
+<ul class="fa-ul">
+<li><i class="fa-li fa fa-clock-o fa-lg"></i>4 hours</li>
+<li><i class="fa-li fa fa-book fa-lg"></i>Prerequisites: Admittance to Teacher Educ Program</li>
+</ul>
+<p><span class="courseDescription">This course is an introduction to the pedagogy of a NCTM standards-based mathematics program in the elementary/middle school and the content described by the Common Core State Standards for Mathematics.  The course focuses on the content strands of statistics/probability, data analysis, and number operations and includes planning, teaching, assessment, diagnosis and evaluation of student learning in mathematics.  This course presents current best-practice, research-based instructional methods in mathematical processes, the use of technology in teaching/student learning, and classroom management as it applies to mathematics.</span></p>
+</div>
+<div class="courseContainer">
+<h4><span class="courseNumber" course="course_697286_2017">EDUC 326</span> <span class="courseTitle">Elementary Language Arts Methods</span> </h4>
+<ul class="fa-ul">
+<li><i class="fa-li fa fa-clock-o fa-lg"></i>4 hours</li>
+<li><i class="fa-li fa fa-book fa-lg"></i>Prerequisites: Admittance to Teacher Educ Program</li>
+</ul>
+<p><span class="courseDescription">This course is an introduction to oral and written communication for the twenty-first century, including the Common Core State Standards for English Language Arts, the curriculum and pedagogy of a language arts program based on standards established by the International Literacy Association and the National Council of Teachers of English, and the eight components of the language arts in the elementary classroom.  It will include integration of the language arts (to include reading/literature, writing/grammar, speaking, viewing, listening and spelling), the use of technology in teaching language arts, and classroom management as it applies to language arts instruction.  The course utilizes a comprehensive approach that examines language acquisition and development.</span></p>
+</div>
+<div class="courseContainer">
+<h4><span class="courseNumber" course="course_697288_2017">EDUC 328</span> <span class="courseTitle">Elementary Social Studies Methods</span> </h4>
+<ul class="fa-ul">
+<li><i class="fa-li fa fa-clock-o fa-lg"></i>2 hours</li>
+<li><i class="fa-li fa fa-book fa-lg"></i>Prerequisites: EDUC 321, 322, 325 and 326 and admittance to Teacher Education Program</li>
+<li><i class="fa-li fa fa-book fa-lg"></i>Corequisites: EDUC 329</li>
+</ul>
+<p><span class="courseDescription">This course is an introduction to the curriculum and pedagogy for social studies instruction based on the National Council of Social Studies Standards.  Ten thematic strands frame the instructional planning for elementary and middle level curriculum.  Students will develop competencies in specific social studies related skills and become acquainted with current directions and research in elementary social studies including instructional technology.  This course is designed to assist pre-service teachers in developing appropriate tools for teaching social studies using an interdisciplinary approach.</span></p>
+</div>
+<div class="courseContainer">
+<h4><span class="courseNumber" course="course_697289_2017">EDUC 329</span> <span class="courseTitle">Elementary Science Methods</span> </h4>
+<ul class="fa-ul">
+<li><i class="fa-li fa fa-clock-o fa-lg"></i>2 hours</li>
+<li><i class="fa-li fa fa-book fa-lg"></i>Prerequisites: EDUC 321, 322, 325, 326 and admittance to Teacher Education Program</li>
+</ul>
+<p><span class="courseDescription">This course is an introduction to the curriculum and pedagogy of a standards-based science program in the elementary school, including the Next Generation Science Standards.  This course includes hands-on opportunities with the activities that support the inquiry of science as practiced in the elementary school classroom.</span></p>
+</div>
+<div class="courseContainer">
+<h4><span class="courseNumber" course="course_697291_2017">EDUC 330</span> <span class="courseTitle">Preschool Education and Experience Education</span> </h4>
+<ul class="fa-ul">
+<li><i class="fa-li fa fa-clock-o fa-lg"></i>4 hours</li>
+<li><i class="fa-li fa fa-book fa-lg"></i>Prerequisites: Admittance to Teacher Educ Program. It is recommended that the student has completed or is taking EDUC 226.</li>
+</ul>
+<p><span class="courseDescription">This course is an introduction to early childhood education of 3- to 5-year old children.  Included are the history of the field; educational philosophies for the pre-kindergarten learner; and program models.  Child development is a basis for designing curriculum, including play, and inquiry-based experiences in language arts, sciences, social sciences, health, and mathemathics to support children's development and learning. Assessment and family engagement programs are also addressed.  A twenty-hour practicum is required and needs to be completed outside of scheduled course hours.  This course is required for those desiring Iowa licensure in early childhood education and recommended for all elementary education majors.  It is recommended the student has completed or is currently enrolled in EDUC 226.  Please speak to someone in the Education Department to determine when this course should be taken.  (Offered in spring of even-numbered years.)</span></p>
+</div>
+<div class="courseContainer">
+<h4><span class="courseNumber" course="course_697293_2017">EDUC 332</span> <span class="courseTitle">The Middle School Learner</span> </h4>
+<ul class="fa-ul">
+<li><i class="fa-li fa fa-clock-o fa-lg"></i>4 hours</li>
+<li><i class="fa-li fa fa-book fa-lg"></i>Prerequisites: Admittance to Teacher Educ Program</li>
+</ul>
+<p><span class="courseDescription">Focuses on the growth and development of the middle school aged student, specifically addressing emotional, physical, social, and cognitive developmental characteristics. A particular emphasis placed on how these factors relate to success in the school setting and how teachers accommodate the learning characteristics of the middle school student. Includes a required practicum in the schools.</span></p>
+</div>
+<div class="courseContainer">
+<h4><span class="courseNumber" course="course_697294_2017">EDUC 333</span> <span class="courseTitle">Middle School Methods</span> </h4>
+<ul class="fa-ul">
+<li><i class="fa-li fa fa-clock-o fa-lg"></i>4 hours</li>
+<li><i class="fa-li fa fa-book fa-lg"></i>Prerequisites: Admittance to Teacher Educ Program and EDUC 332</li>
+</ul>
+<p><span class="courseDescription">This course explores the cognitive and social development of early adolescents and how those lead to unique organizational structures in the middle grades. Methods of teaching designed to meet the diverse needs of middle school students are emphasized. Includes a required practicum in the schools.</span></p>
+</div>
+<div class="courseContainer">
+<h4><span class="courseNumber" course="course_697300_2017">EDUC 344</span> <span class="courseTitle">Methods and Strategies for Teaching Students With Learning Disabilities and Behavioral Issues</span> </h4>
+<ul class="fa-ul">
+<li><i class="fa-li fa fa-clock-o fa-lg"></i>4 hours</li>
+<li><i class="fa-li fa fa-book fa-lg"></i>Prerequisites: EDUC 242 and 366 (or 321 and 322), Admittance to Teacher Educ Program and junior standing</li>
+</ul>
+<p><span class="courseDescription">This course provides an exploration of various methods, techniques, and materials that are used in the education of students who have learning disabilities and behavioral issues in a variety of different settings including the general education classroom.  Methods and materials for instruction in mathematics, reading, written language, spoken language, social skills, listening skills, organizational skills, and skills to enhance life/career choices will be addressed. Must be taken during the junior-level methods course sequence.</span></p>
+</div>
+<div class="courseContainer">
+<h4><span class="courseNumber" course="course_697302_2017">EDUC 347</span> <span class="courseTitle">Assessment in Special and Remedial Education</span> </h4>
+<ul class="fa-ul">
+<li><i class="fa-li fa fa-clock-o fa-lg"></i>2 hours</li>
+<li><i class="fa-li fa fa-book fa-lg"></i>Prerequisites: Admission to Teacher Educ Program and junior standing</li>
+</ul>
+<p><span class="courseDescription">This K-12 course is an introduction to the assessment process using specific protocols for formal assessment and instructional planning with a significant emphasis on literacy skill evaluation. The course covers basic technical aspects of assessment, special education legal guidelines, tiered interventions, ethics in assessment, and the interpretation of assessment data.</span></p>
+</div>
+<div class="courseContainer">
+<h4><span class="courseNumber" course="course_697310_2017">EDUC 352</span> <span class="courseTitle">Advanced Teaching Methods: Secondary</span> </h4>
+<ul class="fa-ul">
+<li><i class="fa-li fa fa-clock-o fa-lg"></i>2 hours</li>
+<li><i class="fa-li fa fa-book fa-lg"></i>Prerequisites: Admission to Teacher Educ Program and EDUC 252</li>
+<li><i class="fa-li fa fa-book fa-lg"></i>Corequisites: EDUC 377</li>
+</ul>
+<p><span class="courseDescription">Advanced study of secondary teaching methods for students seeking licensure in English, mathematics, science and social science.  Study of special methods used to teach the individual's major subject area.  Teaching methods and professional participation in one's academic discipline will be covered, as well as inclusion of special education students in a regular classroom and applications of technology. Must be taken prior to professional semester.  Required for certification in English, mathematics, science, and social sciences. Not required of art, health, physical education and music majors.</span></p>
+</div>
+<div class="courseContainer">
+<h4><span class="courseNumber" course="course_707281_2017">EDUC 354</span> <span class="courseTitle">Elementary School Art Content, Methods, and Assessment</span> </h4>
+<ul class="fa-ul">
+<li><i class="fa-li fa fa-clock-o fa-lg"></i>2 hours</li>
+<li><i class="fa-li fa fa-book fa-lg"></i>Prerequisites: ART 222, EDUC 185 or 215, and Admittance to Teacher Educ Program</li>
+</ul>
+<p><span class="courseDescription">Required for students pursuing K-12 Art Education certification or K-8 Art Endorsement, this course builds on theories introduced in Art 222.  Topics covered will include the teaching techniques, assessment strategies, and the development of curriculum as modeled by master elementary art teachers according to NAEA standards.  Emphasis will be placed on the exploration of age-appropriate materials and on differentiation strategies to meet the needs of diverse learners in the classroom.  The included practicum lab experience allows students to apply the theories and strategies being explored with elementary-aged students.</span></p>
+</div>
+<div class="courseContainer">
+<h4><span class="courseNumber" course="course_707282_2017">EDUC 355</span> <span class="courseTitle">Art Inside and Outside the Classroom: Art Education Methods for Secondary Students and Community-Based Arts Organizations</span> </h4>
+<ul class="fa-ul">
+<li><i class="fa-li fa fa-clock-o fa-lg"></i>4 hours</li>
+<li><i class="fa-li fa fa-book fa-lg"></i>Prerequisites: EDUC 354</li>
+</ul>
+<p><span class="courseDescription">Teaching methods and professional participation in the secondary art classroom, museums, and community-based arts organizations will be covered in this course, targeting the advanced study of secondary teaching methods for students seeking licensure in art education.  This course serves as an extension of the investigations begun in Educ 354 and Educ 366.  Examining current art education theory and pedagogy, topics will include:  planning meaningful and sequential lessons and units; deepened understanding of assessment strategies for students at various stages of artistic development; the inclusion of special education students in the general classroom; engaging diverse populations in the artistic process; and applying technology in the creation, examination, and pedagogy of art.  Emphasis is placed on creating developmentally appropriate art education curriculum in alignment with NAEA standards.  Must be taken prior to professional semester if seeking licensure, and includes practicum hours for students seeking K-12 art licensure or 5-12 Art Endorsement.</span></p>
+</div>
+<div class="courseContainer">
+<h4><span class="courseNumber" course="course_697317_2017">EDUC 366</span> <span class="courseTitle">Advanced Methods Clinical Placement</span> </h4>
+<ul class="fa-ul">
+<li><i class="fa-li fa fa-clock-o fa-lg"></i>2 hours</li>
+<li><i class="fa-li fa fa-book fa-lg"></i>Prerequisites: Admission to the Teacher Educ Program and EDUC 352, EDUC 353, PE 343, or HLTH 343</li>
+</ul>
+<p><span class="courseDescription">As a part of the secondary education methods course sequence, the student observes and teaches small and large groups of students in a public/private school classroom in the discipline. During the three-week practicum, the student develops and teaches a unit to document planning, teaching, assessment and reflection protocols. Note:  taken during the January Term, this course would meet the January II general graduation requirement, and if placed in a middle school classroom would meet the clinical requirement for the middle school endorsement.</span></p>
+</div>
+<div class="courseContainer">
+<h4><span class="courseNumber" course="course_697318_2017">EDUC 367</span> <span class="courseTitle">Advanced Teaching Methods II</span> </h4>
+<ul class="fa-ul">
+<li><i class="fa-li fa fa-clock-o fa-lg"></i>2 hours</li>
+<li><i class="fa-li fa fa-book fa-lg"></i>Prerequisites: Admission to Teacher Educ Program and EDUC 366</li>
+</ul>
+<p><span class="courseDescription">Continued study of advanced teaching methods for students seeking licensure in English, K-12 world languages, mathematics, science, social science, and health/physical education with special emphasis on analysis of best practice, methodological research and curriculum design within the respective content area.  This course builds on the content of EDUC 352 and the clinical appointment in EDUC 366 and must be taken prior to EDUC 486.</span></p>
+</div>
+<div class="courseContainer">
+<h4><span class="courseNumber" course="course_697331_2017">EDUC 376</span> <span class="courseTitle">Advanced Literacy: Assessment and Instructional Design for At Risk Readers</span> </h4>
+<ul class="fa-ul">
+<li><i class="fa-li fa fa-clock-o fa-lg"></i>2 hours</li>
+<li><i class="fa-li fa fa-book fa-lg"></i>Prerequisites: Admittance to the Teacher Educ Program and EDUC 226</li>
+</ul>
+<p><span class="courseDescription">This course will present constructs and protocols for the assessment, diagnosis and evaluation of student learning and literacy skills in the elementary/middle school classroom.  The course explores the developmental nature of the exceptional reader, including those identified with learning differences, including learning disabilities, dyslexia, and giftedness. It also examines: current research on learner characteristics, instructional approaches and best-practices in classroom assessment of reading skills, both formal and informal.</span></p>
+</div>
+<div class="courseContainer">
+<h4><span class="courseNumber" course="course_697335_2017">EDUC 377</span> <span class="courseTitle">Content Area Literacy: Secondary/K-12 Art & PE</span> </h4>
+<ul class="fa-ul">
+<li><i class="fa-li fa fa-clock-o fa-lg"></i>2 hours</li>
+<li><i class="fa-li fa fa-book fa-lg"></i>Prerequisites: Admittance to the Teacher Education Program</li>
+</ul>
+<p><span class="courseDescription">Introduction to the teaching of literacy in content areas for secondary and K-12 HPE and Art teachers; procedures used in recognizing content area reading problems, improving reading by developing literacy strategies in reading, writing, speaking, and listening.  Required for all students seeking secondary school licensure and students seeking health certification.  Students are strongly encouraged, but not yet required, to take a reading practicum while student teaching; a practicum in content area is required in several states.</span></p>
+</div>
+<div class="courseContainer">
+<h4><span class="courseNumber" course="course_697338_2017">EDUC 378</span> <span class="courseTitle">Content Area Literacy: Elementary/Middle School</span> </h4>
+<ul class="fa-ul">
+<li><i class="fa-li fa fa-clock-o fa-lg"></i>2 hours</li>
+<li><i class="fa-li fa fa-book fa-lg"></i>Prerequisites: Admittance to Teacher Educ Program and EDUC 226</li>
+</ul>
+<p><span class="courseDescription">Introduction to the teaching of literacy in content areas for elementary and middle school; assessment in content area reading; improving content area literacy by developing strategies in reading, writing, speaking, and listening.  Required for elementary reading endorsement, middle school specialist, and ESL endorsement.  Requires acceptance into the Teacher Education Program.</span></p>
+</div>
+<div class="courseContainer">
+<h4><span class="courseNumber" course="course_697339_2017">EDUC 379</span> <span class="courseTitle">Content Area Literacy: K-12 Music</span> </h4>
+<ul class="fa-ul">
+<li><i class="fa-li fa fa-clock-o fa-lg"></i>2 hours</li>
+<li><i class="fa-li fa fa-book fa-lg"></i>Prerequisites: Admittance to the Teacher Education Program</li>
+</ul>
+<p><span class="courseDescription">Introduction to the teaching of literacy in content areas for K-12 teachers in music: assessment in content area reading; improving content area literacy by developing strategies in reading, writing, speaking, and listening.  Required for all Education K-12 Music Education minors.  Requires acceptance into the Teacher Education Program.  Students are strongly encouraged, but not yet required, to take the reading practicum while student teaching; a practicum in content area reading is required in several states.</span></p>
+</div>
+<div class="courseContainer">
+<h4><span class="courseNumber" course="course_697344_2017">EDUC 382</span> <span class="courseTitle">Practicum: Content Area Literacy</span> </h4>
+<ul class="fa-ul">
+<li><i class="fa-li fa fa-clock-o fa-lg"></i>1 hour</li>
+<li><i class="fa-li fa fa-book fa-lg"></i>Prerequisites: EDUC 377 and 378, or 379</li>
+</ul>
+<p><span class="courseDescription">This course is 1-semester hour practicum component that is mandatory for all elementary education majors and available for secondary and K-12 minors.  This is a requirement in some other states for all teachers.  Check the state's licensure website.  NOTE: If you are an elementary education major pursuing a reading endorsement, you will student teach in a reading classroom and will not take the practicum component.  Students are strongly encouraged,  but not yet required, to take the practicum while student teaching; a practicum in content area is required in several states.</span></p>
+</div>
+<div class="courseContainer">
+<h4><span class="courseNumber" course="course_820660_2017">EDUC 483</span> <span class="courseTitle">Literacy Practicum</span> </h4>
+<ul class="fa-ul">
+<li><i class="fa-li fa fa-clock-o fa-lg"></i>2 hours</li>
+<li><i class="fa-li fa fa-book fa-lg"></i>Prerequisites: Admittance to Teacher Educ Program, completion of EDUC 326, 376, 347, and 377.  Consent of instructor required.</li>
+</ul>
+<p><span class="courseDescription">Practicum experiences are offered in the reading endorsement for elementary education.  Options may include local, regional, and out-of-state placements in literacy intervention programs or summer programs with an emphasis on reading.</span></p>
+</div>
+<div class="courseContainer">
+<h4><span class="courseNumber" course="course_697415_2017">EDUC 486</span> <span class="courseTitle">Teaching Practicum</span> </h4>
+<ul class="fa-ul">
+<li><i class="fa-li fa fa-clock-o fa-lg"></i>2, 12 hours</li>
+<li><i class="fa-li fa fa-book fa-lg"></i>Prerequisites: Admittance to the Teacher Education Program</li>
+</ul>
+<p><span class="courseDescription">Observation and teaching in an area schools. Student teaching experiences are offered in each of the following areas: elementary education, secondary education, and K-12 student teaching in art, music, and physical education. Those who do 18 weeks of EDUC 486 to meet the Wisconsin certification and additional licensure endorsements will register for 2 additional credits during January term.</span></p>
+</div>
+<div class="courseContainer">
+<h4><span class="courseNumber" course="course_697416_2017">EDUC 490</span> <span class="courseTitle">Senior Project</span> </h4>
+<ul class="fa-ul">
+<li><i class="fa-li fa fa-clock-o fa-lg"></i>1 hour</li>
+<li><i class="fa-li fa fa-book fa-lg"></i>Prerequisites: Admittance to the Teacher Educ Program</li>
+</ul>
+<p><span class="courseDescription"></span></p>
+</div>
+</p>
+</div>
+</div>
+
+
+</div>
+</div>
+</section><footer id="footer" role="contentInfo">
+
+
+<aside class="contactBlurb">
+<div class="blurbInner">
+<h2>Contact Information</h2>
+<p>Registrar's Office<br />Main Building 123<br />700 College Drive<br />Decorah, Iowa 52101</p><h3>Phone:</h3><p>563-387-1167</p><h3>Email:</h3><p><a href="/cdn-cgi/l/email-protection#93e1f6f4fae0e7e1f2e1d3ffe6e7fbf6e1bdf6f7e6"><span class="__cf_email__" data-cfemail="e0928587899394928192a08c9594888592ce858495">[email&#160;protected]</span></a></p></div>
+</aside>
+
+
+<div id="foot">
+
+
+<div id="maintained">
+<div id="maintainer">2019-20 Academic Catalog maintained by <a href="/cdn-cgi/l/email-protection#25575c444b4b0b524c4b4c4b4256654950514d40570b404150">RyAnn Winings</a>. <span id="lastUpdated"> Page last updated on 16 August 2019</span>.</div></div>
+
+
+
+
+<div class="loginLinkModule unauthenticated"><p id="footerLoginLink"><a href="https://www.luther.edu/login/" class="login">Login</a></p>
+</div>
+
+
+</div>
+</footer>
+</div></section>
+
+
+			<footer id="global-footer">
+
+				<h2 class="screenreader">Complimentary Navigation</h2>
+
+				<div id="global-footer-nav" class="section" role="navigation">
+					<div class="row">
+						<div class="column">
+							<h3>About</h3>
+							<ul>
+								<li><a href="/about/">About Luther</a></li>
+								<li><a href="/about/lutheran-college/">College of the Church</a></li>
+								<li><a href="/diversity-at-luther/">Diversity at Luther</a></li>
+								<li><a href="/about/liberal-arts-college/">The Liberal Arts</a></li>
+								<li><a href="/sustainability/">Sustainability</a></li>
+							</ul>
+						</div>
+						<div class="column">
+							<h3>Alumni & Friends</h3>
+							<ul>
+								<li><a href="/alumni/directory/">Alumni Directory</a></li>
+								<li><a href="/alumni/">Alumni Home</a></li>
+								<li><a href="/giving/">Giving</a></li>
+								<li><a href="/homecoming/">Homecoming</a></li>
+								<li><a href="/magazine/">Magazine</a></li>
+							</ul>
+						</div>
+						<div class="column">
+							<h3>Campus</h3>
+							<ul>
+								<li><a href="/bookshop/">Book Shop</a></li>
+								<li><a href="/ministries/">College Ministries</a></li>
+								<li><a href="/dining/">Dining Services</a></li>
+								<li><a href="/helpdesk/">Technology Help Desk</a></li>
+								<li><a href="https://tickets.luther.edu/Online/default.asp">Ticket Office</a></li>
+							</ul>
+						</div>
+						<div class="column">
+							<h3>Offices</h3>
+							<ul>
+								<li><a href="/marketing/">Communications</a></li>
+								<li><a href="/financial-services/">Financial Services</a></li>
+								<li><a href="/hr/">Human Resources</a></li>
+								<li><a href="/president/">President</a></li>
+								<li><a href="/registrar/">Registrar’s Office</a></li>
+							</ul>
+						</div>
+						<div class="column">
+							<h3>Quick Links</h3>
+							<ul>
+								<li><a href="/directory/">Directory</a></li>
+								<li><a href="http://mail.luther.edu">Norse Mail</a></li>
+								<li><a href="https://katie.luther.edu/">KATIE</a></li>
+								<li><a href="/library/">Library</a></li>
+								<li><a href="https://my.luther.edu/">my.luther.edu</a></li>
+							</ul>
+						</div>
+						<div class="column">
+							<div class="socialProfileSimpleLinks">
+							<ul>
+								<li><a href="https://www.facebook.com/luthercollege" target="_blank"><span class="label">Facebook</span></a>
+								<a href="https://twitter.com/luthercollege" target="_blank"><span class="label">Twitter</span></a></li>
+								<li><a href="http://instagram.com/luthercollege#" target="_blank"><span class="label">Instagram</span></a>
+								<a href="https://www.youtube.com/user/LutherCollegeMedia" target="_blank"><span class="label">YouTube</span></a></li>
+								<li><a href="https://plus.google.com/106145735238161370551" target="_blank"><span class="label">Google+</span></a>
+								<a href="https://www.linkedin.com/edu/luther-college-20110" target="_blank"><span class="label">LinkedIn</span></a></li>
+							
+							</ul>
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<div id="global-footer-contact" class="row">
+					<div class="column">
+						<p class="contact">
+							<span class="addr">
+								<span class="">Luther College</span> <span class="sep"></span>
+								<span class="street-address">700 College Drive</span> <span class="sep"></span>
+								<span class="locality">Decorah,</span>
+								<span class="region">Iowa</span>
+								<span class="postal-code">52101</span> <span class="sep"></span>
+								<span class="country-name">USA</span>
+							</span>
+							<span class="phone"><a href="tel:563-387-2000">563-387-2000</a> <span class="sep"></span> <a href="tel:800-458-8437">800-4-LUTHER</a> (<span class="tel"><a href="tel:800-458-8437">800-458-8437</a></span>)</span>
+						</p>
+					</div>
+				</div>
+
+				<div id="global-footer-ultilty" class="row">
+					<div class="column">
+						<ul class="utility-nav" role="navigation">
+							<li><a href="http://emergency.luther.edu"><span>Emergency Info</span></a></li>
+							<li><a href="/privacy/"><span>Privacy Statement</span></a></li>
+							<li><a href="/reportproblem/"><span>Report a Problem</span></a></li>
+						</ul>
+					</div>
+				</div>
+
+				<div id="post-footer" class="row">
+					<div class="column">
+						<p class="copyright">&copy; 2019 <a href="/">Luther College</a>. All rights reserved.</p>
+						<p class="powered-by">Powered by <a href="https://apps.carleton.edu/opensource/reason/" target="_blank">Reason CMS</a>.</p>
+					</div>
+				</div>
+
+				<!-- close the off-canvas menu -->
+ 				<a class="exit-off-canvas"></a>
+
+			</footer>
+
+			
+
+</div>
+</div>
+</div>
+</div>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript" src="/reason/local/luther_2014/javascripts/vendor/fastclick.js"></script><script type="text/javascript" src="/reason/local/luther_2014/foundation/bower_components/foundation/js/foundation.min.js"></script><script> $(document).foundation(); </script><script type="text/javascript" src="/reason/local/luther_2014/javascripts/luther.js"></script></body>
+</html>

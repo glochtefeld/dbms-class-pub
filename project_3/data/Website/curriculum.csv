@@ -1,0 +1,882 @@
+number,title,department
+110,Introduction to Accounting,8
+150,Fundamentals of Accounting,8
+250,Managerial Cost Accounting I,8
+353,Intermediate Accounting I,8
+354,Intermediate Accounting II,8
+357,Accounting for Government and Nonprofit Entities,8
+358,Managerial Cost Accounting II,8
+365,Advanced Accounting,8
+467,Auditing and Assurance Services,8
+468,Federal Income Taxation,8
+485,Seminar,8
+490,Senior Project,8
+135,African-American History,12
+147,Literature of the African Peoples,12
+171,History of Africa to 1880,12
+172,History of Modern Africa,12
+221,Anthropology in East Africa: Forces of Culture Change Among the Massai,12
+235,The Civil Rights Movement,12
+240,Africana Womens Writing,12
+247,History of Jazz,12
+251,African-American Literature,12
+271,African Diaspora,12
+331,Topics in African American History,12
+345,Constructs of Race and Racialization,12
+371,Topics in African History,12
+391,Topics in Africana History,12
+485,Junior/Senior Seminar,12
+490,Senior Project,12
+101,Cultural Anthropology,9
+102,Biological Anthropology,9
+103,Linguistic Anthropology,9
+104,Archaeology,9
+110,Going Global: Preparing to Study Abroad,9
+203,Environmental Anthropology,9
+204,This is Not Your Country: An Anthropology of Migration,9
+205,Religion and Culture,9
+208,Medical Anthropology,9
+209,Born to Run,9
+210,Qualitative Research Methods in Anthropology,9
+211,Quantitative Research Methods in Anthropology,9
+221,Anthropology in East Africa: Culture Change Among the Maasai,9
+264,Pre-Columbian and Native American Art,9
+301,Experimental Archaeology,9
+302,Field Methods in Archaeology,9
+303,Consumerism and Sustainability: An Anthropological Perspective,9
+305,Remote Sensing in Archaeology,9
+306,"Sugar, Strawberries and Pills: Anthropology of Commodity Chains",9
+401,Anthropological Theory,9
+490,Senior Project,9
+101,Art Matters,2
+103,Foundations: Circa Now,2
+104,Foundations: Visual Thinking,2
+105,Science and the Aesthetic (Italy Semester),2
+108,Foundations: Drawing,2
+111,Foundations: Sculpture,2
+114,"Sequential Art, Animation and the Graphic Novel",2
+121,World Pottery,2
+200,Painting I,2
+205,Art and Technology,2
+206,Graphic Design I,2
+207,3D Modeling and Animation,2
+208,Life Drawing,2
+209,2D Studio I,2
+210,Ceramics I,2
+216,Printmaking I,2
+217,Wheel Throwing,2
+218,Photography I,2
+222,Art and Community: Introductory Art Methods & Materials,2
+231,4D Art Lab I,2
+290,Art in Cultural Perspective,2
+300,Painting II,2
+306,Graphic Design II,2
+307,3D Modeling and Animation II,2
+309,2D Studio II,2
+310,Ceramics II,2
+311,Installation,2
+316,Printmaking II,2
+318,Photography II,2
+320,Critical Theory,2
+331,4D Art Lab II,2
+384,Studio Projects,2
+400,Painting III,2
+406,Graphic Design III,2
+409,2D Studio III,2
+410,Ceramics III,2
+416,Printmaking III,2
+418,Photography III,2
+487,Art Colloquium,2
+490,Senior Project: Research,2
+491,Senior Project: Exhibition,2
+251,Survey of Western Art I,2
+252,Survey of Western Art II,2
+262,American Art,2
+264,Pre-Columbian and Native American Art,2
+362,19th Century Art,2
+364,20th Century Art,2
+368,Gender in Art,2
+379,Art History Methods,2
+112,"Insects, Humans and the Environment",3
+114,Introduction to Human Biology,3
+115,Human Anatomy,3
+116,Intro to Human Physiology,3
+125,Genetics and Society,3
+140,Introduction to Ecology of the Southwest,3
+149,Introduction to Winter Biology,3
+151,"Principles of Biology: Ecology, Evolution and Biodiversity",3
+152,Principles of Biology: Molecules and Cells,3
+190,Clinical Microbiology,3
+195,Biology of Race And Sex,3
+201,Genetics,3
+231,Microscopy,3
+232,Microscopy Laboratory,3
+240,Ecology of the Southwest,3
+241,Radioisotopes in Science,3
+242,Animal Behavior,3
+243,Microbiology,3
+245,Ecology of Ecuador,3
+246,Ornithology,3
+247,Subtropical and Marine Biology,3
+249,Winter Biology,3
+250,Restoration and Conservation Biology,3
+251,Entomology,3
+252,Botany,3
+253,Invertebrate Zoology,3
+255,Human Physiology,3
+256,Biostatistics,3
+258,Vertebrate Natural History,3
+260,Experimental Neuroscience,3
+261,Developmental Biology,3
+262,Environmental Animal Physiology,3
+264,Advanced Topics in Biology,3
+301,Human Dissection and Anatomy,3
+303,Bioethics,3
+354,Evolutionary Biology,3
+356,Genomics,3
+357,Immunology,3
+358,Toxicology,3
+359,Virology,3
+362,Neuroscience,3
+363,Molecular Biology,3
+364,Cell Biology,3
+365,Ecology,3
+367,Endocrinology,3
+380,Internship,3
+475,Med Tech Program,3
+490,Senior Project,3
+114,The Environment: A Chemical Perspective,23
+141,Essentials of Chemistry,23
+151,Chemical Principles I,23
+152,Chemical Principles II,23
+201,Advanced Chemical Principles,23
+202,Analytical Chemistry,23
+241,Organic Chemistry I,23
+242,Organic Chemistry II,23
+301,Biochemistry,23
+302,Biophysical Chemistry,23
+344,Spectroscopy,23
+345,Separations,23
+349,Biochemistry Laboratory,23
+351,Chemical Kinetics,23
+361,Physical Chemistry,23
+362,Statistical Thermodynamics and Kinetics,23
+363,Quantum Chemistry,23
+365,Instrumental Methods Laboratory,23
+366,Physical Chemistry Laboratory,23
+371,Polymer Chemistry,23
+372,Inorganic Chemistry,23
+373,Solid State Chemistry,23
+376,Advanced Organic Chemistry,23
+379,Inorganic Synthesis Laboratory,23
+474,Physical Inorganic Chemistry,23
+490,Senior Project,23
+490,Senior Project Lab,23
+101,Beginning Chinese,7
+102,Beginning Chinese,7
+201,Intermediate Chinese,7
+202,Intermediate Chinese,7
+242,Chinese Cinema and Chinese Modernity,7
+240,Classical Mythology,13
+250,The World of Ancient Greece,13
+255,Ancient Roman Culture,13
+265,Greece and Rome on Film,13
+270,Archaeology of Ancient Greece,13
+275,Archaeology of Ancient Rome,13
+299,Study Abroad-Classics,13
+300,Classics and Culture,13
+310,Ancient Science,13
+330,Race and Ethnicity in the Classical World,13
+490,Senior Project,13
+130,Interpersonal Communication,14
+132,Public Address,14
+133,Mass Media and Popular Culture,14
+233,Rhetoric of Spirituality,14
+234,Rhetoric of Everyday Life,14
+236,Small Group Communication,14
+250,Contemporary Journalism,14
+255,Advanced Public Address,14
+258,Concepts of Media Production,14
+260,"Sport, Media and Society",14
+320,"Urban America and Serial Television: Critically Analyzing ""The Wire""",14
+330,Family Communication,14
+335,Masculinity in Film,14
+347,Critical Television Studies,14
+348,Radio Journalism,14
+350,Intercultural Communication,14
+353,Argumentation,14
+354,Persuasion and Social Influence,14
+356,Rhetorical Theories,14
+357,Research Methods,14
+358,Concepts of Media Production II: The Documentary,14
+362,Communication Theories,14
+370,The Dark Side of Interpersonal Communication,14
+463,Public Relations and Corporate Communication,14
+490,Senior Project,14
+130,Fundamentals of Web Programming,11
+140,Data Modeling and Querying,11
+150,Introduction to Computer Science,11
+160,Algorithms and Data Structures,11
+252,Object-Oriented Programming With Java,11
+253,Object-Oriented Programming With C++,11
+260,Computational Models,11
+296,Writing in the Major Lab,11
+330,Internet Programming,11
+352,Embedded Android Programming,11
+353,Embedded iOS Programming,11
+360,Advanced Algorithms and Data Structures,11
+370,Programming Languages,11
+385,Understanding Entrepreneurship in Silicon Valley,11
+386,The Digital Transformation of Central Europe,11
+430,Computer Networks,11
+440,Database Management Systems,11
+450,Operating Systems and Architecture,11
+460,Information Assurance and Security,11
+490,Senior Project,11
+491,Senior Project,11
+492,Accelerated Senior Project,11
+100,Performance Practicum,2
+101,Dance Technique and Analysis,2
+105,Movement Fundamentals I: Practices of Alignment and Function,2
+130,Contact Improvisation,2
+199,Dance Synthesis,2
+205,Movement Fundamentals II: Practices of Range and Efficiency,2
+230,Contact Improvisation II,2
+264,Performance Research:The Happenings Course,2
+300,Production Studio,2
+305,Movement Fundamentals III:Practices of Vocabulary and Intention,2
+351,Dance History,2
+360,Dance Composition,2
+120,Introduction to Data Science,11
+320,Data Analysis and Visualization,11
+420,Applied Machine Learning,11
+490,Senior Project,11
+130,Principles of Economics,8
+142,Economic Numeracy,8
+247,Intermediate Economic Theory: Macro,8
+248,Intermediate Economic Theory: Micro,8
+255,Environmental Economics,8
+256,Economic History,8
+262,Development Economics,8
+268,Law and Economics,8
+333,Economics of Information and Networks,8
+342,Introduction to Econometrics,8
+361,"Money, Credit, and Banking",8
+362,International Economics,8
+366,Public Finance,8
+490,Senior Project,8
+185,Clinical Experience I in the Schools,10
+215,Clinical Experience I in the Schools,10
+220,Educational Psychology,10
+221,The Diverse and Exceptional Learner,10
+222,Instructional Strategies With Computer Applications: Elementary,10
+223,Childrens Literature,10
+224,"Integrated Methods for Music, Art, Physical Education and Wellness in the Elementary Classroom",10
+226,Introduction to Literacy,10
+230,Infant and Toddler Education and Experience,10
+240,"Home, School, and Community",10
+242,Introduction to Learning Disabilities and Behavioral Issues,10
+245,Career/Vocational Assessment and Vocational Planning,10
+246,Classroom Management and Collaboration,10
+252,Introduction to Middle and High School 5-12 Methods,10
+321,Clinical Experience II:Literacy in Elementary/Middle School,10
+322,Clinical Experience II: Mathematics in Elementary/Middle School,10
+323,Teaching Methods for English Language Learners,10
+324,Assessment for English Language Learners,10
+325,Elementary Mathematics Methods,10
+326,Elementary Language Arts Methods,10
+328,Elementary Social Studies Methods,10
+329,Elementary Science Methods,10
+330,Preschool Education and Experience Education,10
+332,The Middle School Learner,10
+333,Middle School Methods,10
+344,Methods and Strategies for Teaching Students With Learning Disabilities and Behavioral Issues,10
+347,Assessment in Special and Remedial Education,10
+352,Advanced Teaching Methods: Secondary,10
+354,"Elementary School Art Content, Methods, and Assessment",10
+355,Art Inside and Outside the Classroom: Art Education Methods for Secondary Students and Community-Based Arts Organizations,10
+366,Advanced Methods Clinical Placement,10
+367,Advanced Teaching Methods II,10
+376,Advanced Literacy: Assessment and Instructional Design for At Risk Readers,10
+377,Content Area Literacy: Secondary/K-12 Art &amp,10
+378,Content Area Literacy: Elementary/Middle School,10
+379,Content Area Literacy: K-12 Music,10
+382,Practicum: Content Area Literacy,10
+483,Literacy Practicum,10
+486,Teaching Practicum,10
+490,Senior Project,10
+110,Introduction to College Writing,21
+114,Introduction to U.S. Academic Writing,21
+130,Literary Ventures,21
+147,Literature of the African Peoples,21
+211,Writing for Media,21
+212,Creative Writing: Poetry and Fiction I,21
+213,Creative Writing: Nonfiction,21
+214,Professional and Technical Writing,21
+230,How Literature Works: An Introduction,21
+231,Film,21
+232,Film in Focus,21
+240,Africana Womens Writing,21
+245,Literature By Women,21
+251,African-American Literature,21
+260,Shakespeare,21
+261,Shakespeare Performed,21
+262,Tolkien and Lewis in Context,21
+263,"In Frankensteins Footstep: the Keats-Shelley Circle in London, Geneva, And Italy",21
+312,Creative Writing: Poetry &amp,21
+314,"Rhetoric: History, Theory, Practice",21
+315,Writing in the Community:Rochester,21
+320,Contemporary Literature,21
+334,Young Adult Literature,21
+350,American Literary Traditions,21
+361,Chaucer and Medieval Literature,21
+362,Renaissance Literature and the Invention of Nature,21
+364,Milton and the New English Literature British Literature,21
+365,"Rebels, Romantics, and Rock Stars: British Literature 1780-1850",21
+366,Victorian and Modernist Literature,21
+367,Postcolonial British Literature: 1950- Present,21
+485,Seminar,21
+490,Senior Project,21
+112,Energy and the Physical World,22
+130,Environmental Forays,22
+133,Environmental Conservation,22
+134,The Earth System,22
+175,Introduction to Geographic Information Systems,22
+210,Climate Dynamics and Modeling,22
+215,Environmental Education,22
+220,Earth System Biogeochemistry,22
+225,"Earths Climate: Past, Present, and Future",22
+230,Earth Systems and the Environment (Italy Semester),22
+240,Environmental Issues in the Pacific Northwest,22
+248,Rivers and Society,22
+249,The Winter Environment,22
+250,"Sustainability, Systems and Solutions",22
+320,"Soils, the Earth System, and the Environment",22
+330,The Geology of Italy (Italy Semester),22
+485,Seminar,22
+490,Senior Project,22
+110,Skills Class,17
+180,Fitness and Wellness Abroad,17
+250,Theory of Coaching,17
+260,Adaptive Physical Activity,17
+261,Applied Human Anatomy,17
+264,Kinesiology and Biomechanics,17
+323,Principles of Strength Training and Conditioning,17
+324,Principles of Fitness Assessment,17
+340,Excercise Techniques,17
+343,Motor Learning,17
+366,Physiology of Exercise,17
+380,Internship,17
+425,Program Design and Periodization,17
+430,Exercise Science Practicum,17
+490,Senior Project,17
+142,China in the World,7
+241,Russian Culture Through Film,7
+242,Chinese Cinema and Chinese Modernity,7
+243,Time of Stalin - Literature and Memoirs,7
+244,"Russia, United States and the World Today",7
+250,Topics in Nordic Literature,7
+251,Topics in Nordic Film,7
+260,Russia and Scandinavia: Historical and Cultural Ties,7
+261,"Fleeing to and from Germany: Immigrants Refugees, and Guest Workers",7
+341,Russian Life and Culture,7
+350,Topics in Russian/Soviet Literature,7
+361,Henrik Ibsen,7
+363,Norways Nobel Prize-Winning Authors,7
+101,Elementary French I,7
+102,Elementary French II,7
+201,Intermediate French,7
+202,Intermediate French,7
+342,Introduction to French Culture,7
+344,Advanced Grammar and Composition,7
+345,Conversation and Phonetics,7
+346,Introduction to French Literature I,7
+347,Introduction to Commercial French,7
+348,Introduction to French Literature II,7
+460,Topics in French Literature and Culture,7
+464,Francophone Literatures and Cultures,7
+490,Senior Project,7
+101,Identity and Language,7
+102,Community and Language,7
+105,Munster Preparation,7
+210,German in Action,7
+220,Conversation and Comprehension,7
+320,Advanced Conversation and Comprehension,7
+330,German History and Society,7
+340,German Play,7
+350,Advanced German Grammar,7
+460,Contemporary German Literature And Culture,7
+470,Topics in German Literature and Culture,7
+490,Senior Project,7
+100,Lifetime Health and Wellness,17
+101,Foundation of Health Promotion,17
+125,Introduction to Nutrition,17
+126,Human Performance Nutrition,17
+211,Womens Health Promotion,17
+212,Mens Health Promotion,17
+213,Worksite Health Promotion,17
+214,Holistic Health and Wellness,17
+215,Child and Adolescent Health Promotion,17
+216,Geriatric and Special Population Health Promotion,17
+233,Stress Management,17
+234,Sexual Health and Relationship,17
+255,Epidemiology and Human Disease Prevention,17
+273,Environmental Health Promotion,17
+274,Global Health Promotion,17
+352,Consumer Health and Safety,17
+355,"Health Behavior Theory, Communication, and Advocacy",17
+358,Substance Abuse Prevention,17
+365,Current Issues in Health,17
+372,Administration and Management of Health and Fitness Programs,17
+380,Internship,17
+455,"Assessment, Planning, Implementation, and Evaluation of Health Programs",17
+490,Senior Project,17
+111,Survey of US History Part One,6
+112,Survey of US History Part Two,6
+126,Human Geography,6
+135,African-American History,6
+149,Europe to 1648,6
+150,"Europe, 1648 to the Present",6
+161,East Asian History,6
+162,South Asian History,6
+163,Modern Middle East History,6
+171,History of Africa to 1880,6
+172,History of Modern Africa,6
+226,History and Material Culture,6
+227,Public History,6
+235,The Civil Rights Movement,6
+241,Rome: Republic and Empire,6
+242,Medieval History,6
+243,"Christianity and Islam: Encounters and Perceptions, 632-1683",6
+248,The Viking Age: Then and Now,6
+250,"Rulers, Reform, and Revolution:The History of Early Modern Britain",6
+254,Russian History,6
+256,Scandinavian Immigration History,6
+262,Everybody Loves Gandhi,6
+271,African Diaspora,6
+290,Gender and Womens History,6
+291,Environmental History,6
+292,History of Medicine,6
+298,The Historians Craft,6
+299,Topics in History - Abroad,6
+321,Topics in U.S. History,6
+331,Topics in African American History,6
+351,Topics in European History,6
+352,Scandinavia and the Baltic,6
+355,The Reformation in Renaissance Europe,6
+361,Topics in Asian History,6
+371,Topics in African History,6
+391,Topics in Africana History,6
+485,Junior-Senior Seminar,6
+490,Senior Project,6
+135,Exploring Britain,16
+136,Exploring Malta and the Mediterranean,16
+230,Introduction to International Studies,16
+450,Global Citizenship,16
+485,International Studies Seminar,16
+490,Senior Project,16
+100,News Practicum,7
+380,Internship,7
+131,Introduction to Linguistics,7
+133,Introduction to Syntax,7
+220,Phonetics and Phonology,7
+235,Words,7
+250,Linguistic Pursuits:language and Sustain,7
+350,Linguistics Minor Capstone,7
+490,Senior Project,7
+110,Introduction to Business,8
+120,Personal Finance,8
+150,Statistics,8
+190,Business Communication,8
+240,Principles of Management,8
+250,Data Analysis for Business Decision-Making,8
+351,Principles of Marketing,8
+352,Human Resource Management,8
+353,Financial Management,8
+360,International Business Management,8
+361,Business Law: The Legal Environment of Business,8
+362,Entrepreneurship,8
+363,Negotiations and Conflict Resolution,8
+364,"Sales, Advertising, and Promotion",8
+365,Investments,8
+366,Creativity and Innovation,8
+367,Organizational Behavior,8
+368,Electronic Commerce,8
+370,E-Marketing,8
+371,Project Management,8
+490,Senior Project,8
+100,Algebra for Science and Business,4
+110,Mathematics in Our World,4
+115,Introduction to Statistics,4
+123,Mathematics for Elementary School Teachers,4
+140,"Calculus I with Review, Part A",4
+141,"Calculus I with Review, Part B",4
+151,Calculus I,4
+152,Calculus II,4
+215,Data Analysis,4
+220,Mathematical Reasoning and Writing,4
+240,Linear Algebra,4
+253,Vector Calculus,4
+257,Mathematical Methods in Biology Biology,4
+260,Elementary Number Theory,4
+271,Probability and Statistics I,4
+322,Probability and Statistics II,4
+327,Applied Statistics I,4
+328,Applied Statistics II,4
+351,Ordinary Differential Equations,4
+358,Chaotic Dynamical System,4
+360,Combinatorics,4
+365,Geometry,4
+452,Partial Differential Equations,4
+453,Methods of Applied Mathematics,4
+454,Principles of Real Analysis,4
+456,Functions of a Complex Variable,4
+471,Abstract Algebra I,4
+472,Abstract Algebra II,4
+490,Senior Project,4
+120,Introduction to Museums,6
+220,Collections Management,6
+380,Internship,6
+110,Musicianship Workshop,25
+111,The Materials of Music,25
+115,"Class Instruction: Piano, Voice, or Guitar",25
+116,Class Instruction-Piano or Voice,25
+117,Class Instruction-Piano,25
+118,Preparation for Piano Proficiency Test,25
+120,Introduction to Musical Styles,25
+121,Theory I,25
+121,Ear Training I,25
+122,Theory II,25
+122,Ear Training II,25
+130,Applied Music,25
+131,Theory I - Honors,25
+131,Ear Training I - Honors,25
+132,Theory II - Honors,25
+132,Ear Training II - Honors,25
+135,Principles of Improvisation,25
+145,Orchestral Repertoire For Harp,25
+230,Applied Music,25
+231,Theory III,25
+231,Ear Training III,25
+235,Jazz Theory and Arranging,25
+236,"Music, Worship and Culture",25
+237,Worship and Music in the Life of the Church,25
+238,Composition Workshop,25
+244,"Music History I: Medieval, Renaissance, And Baroque",25
+245,Choral Singing in Namibia and South Africa,25
+247,History of Jazz,25
+248,World Music Cultures,25
+249,Listening Live from London and Glasgow (England/Scotland),25
+249,Listening Live in London and Vienna,25
+250,Introduction to Conducting,25
+265,Diction for Singers I: Italian and German,25
+266,Diction for Singers II: French and English,25
+267,Vocal Literature I: Italian/Spanish and German,25
+268,Vocal Literature Il: French and British/American,25
+272,Symphonic Music,25
+273,Chamber Music,25
+300,Music Ensembles,25
+330,Applied Music,25
+332,Theory IV,25
+332,Ear Training IV,25
+338,Composition: Private Lesson,25
+345,Music History II: Classical and Romantic,25
+346,Music History III: Post-1900 Music And World Music,25
+356,Electro-Acoustic Music,25
+362,Opera Workshop: Scenes,25
+363,Opera Workshop: Production,25
+371,Orchestration,25
+376,Vocal and Instrumental Accompanying,25
+430,Applied Music,25
+445,Performance Practices of the Renaissance And Baroque Periods,25
+446,Performance Practices of the Classical And Early Romantic Periods,25
+454,16th Century Counterpoint,25
+455,Analytical Studies,25
+469,Advanced Ear Training,25
+485,Seminar,25
+490,Senior Project,25
+485,Neuroscience Seminar,3
+490,Senior Project,3
+101,Elementary Norwegian I,7
+102,Elementary Norwegian II,7
+115,Scandinavian Fine Handcrafts,7
+201,Intermediate Norwegian,7
+202,Norwegian Through Film and Literature,7
+250,Topics in Nordic Literature,7
+251,Topics in Nordic Film,7
+345,"Composition, Conversation, and Advanced Grammar",7
+346,Scandinavian Immigration History,7
+348,Vikings in History,7
+352,Scandinavia and the Baltic,7
+361,Henrik Ibsen,7
+363,Norways Nobel Prize-Winning Authors,7
+490,Senior Project,7
+138,Human Sexuality,24
+234,Pathways to Practice I,24
+235,Pathways to Practice I Lab,24
+236,Pathways to Practice II,24
+237,Pathways to Practice II Clinical,24
+370,Health and Healing I,24
+371,Health and Healing I Clinical,24
+372,Health and Healing II,24
+373,Health and Healing II Clinical,24
+374,Behaviorial Health Care,24
+376,Behavioral Health Care Clinical,24
+377,Family/Child Nursing,24
+378,Family/Child Nursing Clinical,24
+382,Gerontological Nursing,24
+384,Evidence Based Practice,24
+386,Professional Nursing Practice: A Conceptual Immersion Experience,24
+388,Health Informatics,24
+390,Nursing Leadership in Health Care,24
+420,Population-Based Care,24
+421,Population-Based Care Clinical,24
+425,Synthesis of Clinical Practice Across The Lifespan,24
+480,Leadership Capstone,24
+490,Senior Project,24
+111,Paideia I: Enduring Questions,26
+112,Enduring Questions,26
+450,Ethical Choices,26
+450,Green Europe of Sustainability,26
+450,Love and Gender in China,26
+450,Making Decisions for U.S. Schools,26
+100,Introduction to Philosophy,27
+105,Reasons,27
+110,Logic,27
+120,Ethics,27
+130,"God, Self, and the Afterlife",27
+140,Environmental Philosophy,27
+150,Social and Political Philosophy,27
+200,Ancient Philosophy,27
+220,Early Modern Philosophy,27
+230,Philosophy of Science,27
+240,What Is Art?,27
+260,Identity and Power,27
+300,19th and 20th Century Philosophy,27
+310,Metaphysics and Epistemology,27
+320,Topics in Value Theory,27
+330,"Minds, Brains, and Persons",27
+380,Internship,27
+400,Advanced Topics in Philosophy,27
+485,Seminar,27
+490,Senior Project,27
+112,Energy and the Physical World,18
+114,Physics of Sound and Musical Acoustics,18
+151,General Physics I,18
+152,General Physics II,18
+181,Classical Physics I,18
+182,Classical Physics II,18
+238,Statics,18
+281,Modern Physics I,18
+282,Modern Physics II,18
+311,Electronics,18
+312,Advanced Laboratory,18
+352,Mechanics of Materials,18
+354,Astrophysics,18
+359,Thermal Physics,18
+361,Classical Mechanics,18
+364,Electricity and Magnetism,18
+369,Numerical Physics,18
+401,Particle and Nuclear Physics,18
+411,Quantum Mechanics,18
+490,Senior Project,18
+491,Senior Project,18
+130,American Politics,19
+132,Global Politics,19
+171,Mock Trial,19
+237,Politics of the Middle East,19
+241,Human Rights,19
+243,Law and the Quest for Justice,19
+247,Social Policy,19
+250,The Iowa Caucuses and the Presidential Election Process,19
+252,Politics and Religion,19
+258,Environmental Politics and Policy,19
+261,"Fleeing to and from Germany: Immigrants Refugees, and Guest Workers",19
+330,Global Health Politics and Policies,19
+335,Terrorism and Democracy,19
+340,Environmental Justice and Law,19
+342,Comparative Politics,19
+350,Economic Policy,19
+353,Political Parties and Interest Groups,19
+354,"Politics, Policy and Gender",19
+355,Constitutional Law,19
+356,Civil Rights and Liberties,19
+357,Congress and the Presidency,19
+360,Global Environmental Politics,19
+362,The Sustainability of Political and Economic Development in Latin America,19
+363,International Relations,19
+364,United States Foreign Policy,19
+365,American Political Thought,19
+366,Political Thought,19
+367,Political Leadership,19
+485,Seminar,19
+490,Senior Project,19
+130,General Psychology,1
+240,Developmental Psychology,1
+241,Psychology of Health and Illness,1
+242,Evolutionary Psychology,1
+243,Personality and Individual Differences,1
+244,Animal Cognition,1
+245,Environmental and Political Psychology,1
+248,Psychology of Religion,1
+249,Brain and Behavior,1
+270,Psychology and Aging,1
+349,Research Methods in Psychology,1
+350,Behavioral Statistics,1
+352,Cognitive Processes,1
+353,Social Psychology,1
+354,Learning and Behavior,1
+356,"Stress, Coping, and Well-Being",1
+358,Psychology of the Workplace,1
+430,Applied Psychology,1
+465,Abnormal Psychology,1
+466,Psychological Tests and Measurement,1
+468,Intro to Counseling,1
+490,Senior Project,1
+101,Introduction to Biblical Studies,15
+111,Introduction to Hebrew Bible Studies Apocrypha,15
+112,Introduction to New Testament Studies,15
+120,Religion: Curse Or Blessing?,15
+200,Ancient Mediterranean Heroes,15
+201,Luther and Lutheranism,15
+202,From Buddhist Texts to Anime,15
+203,Rewriting Scripture: From Chronicles to The Quran,15
+204,The World of the Bible,15
+212,Sex in the Bible and the Quran,15
+213,Archaeology and the Bible,15
+217,Bible and Christian Faith,15
+218,Christian Ethics,15
+219,Christian Theology,15
+220,Experiencing Mahayana Buddhism,15
+221,History of Christian Thought,15
+224,Islam: Historical Foundations and Contemporary Realities,15
+225,Judaism,15
+226,Religionless Christianity,15
+228,Religion and Philosophy in China,15
+229,Religions of South Asia,15
+230,"God, Self, and the Afterlife",15
+233,God and Gender,15
+234,Clamoring for Change: Christianity and Social Change,15
+235,Science and Religion,15
+236,Disaster and Enlightenment: Pilgrimages East Asia,15
+238,Islamophobia,15
+240,Topics in Religion and Social Justice,15
+243,Environmental Ethics,15
+244,Religion and Sports,15
+250,Living Religions,15
+252,Introduction to Interfaith Studies,15
+254,Religion in America,15
+255,Religious Identity and Diversity in East Asia,15
+258,Sacred Texts & Religious Diversity,15
+301,Is Morality Any Good,15
+302,R.A.C.E. (Racism and Christianity Explored),15
+303,Religious Pluralism in Latin America and Caribbean,15
+314,Teaching the Bible,15
+316,Studying Jesus,15
+370,Theology and Religious Diversity,15
+371,Jesus and Jihad: A New Approach to Comparative Religion,15
+485,Seminar,15
+490,Senior Project,15
+101,Introduction to Social Work and Social Justice,9
+102,Social Work Field Experience,9
+110,Mental Health First Aid,9
+111,Youth Mental Health First Aid,9
+201,Fundamentals of Social Work Practice I,9
+204,Human Behavior in the Social Environment I,9
+301,Social Work Practice II,9
+303,Human Behavior in the Social Environment II,9
+304,"Social Welfare Policies, Programs, and Issues",9
+305,Research Methods for Social Work,9
+401,Social Work Practice III,9
+402,Field Instruction in Social Work Practice,9
+403,Professional Seminar,9
+490,Senior Project,9
+101,Introduction to Sociology,9
+242,Sociology of Gender,9
+253,Crime and Deviance,9
+261,Social Conflict,9
+270,Haters Gonna Hate: The Study of Hate Crimes and Hate Groups,9
+273,Crime and Media,9
+276,Social Theory and Praxis,9
+283,Sociology of Education,9
+287,"Wealth, Poverty and Social Class",9
+290,Visual Sociology,9
+301,Research Methodology,9
+345,Constructs of Race and Racialization,9
+347,Sociology of the Family,9
+350,Social Statistics,9
+351,Gender and Crime,9
+356,Environmental Sociology,9
+358,Social Psychology,9
+453,Seminar: Law and Human Rights,9
+461,Seminar: Contemporary Issues of Immigration,9
+468,"Seminar: Gender, Globalization and Development",9
+472,Seminar: Social Institutions,9
+475,Seminar: Social Movements,9
+490,Senior Project,9
+101,Elementary Spanish I,7
+102,Elementary Spanish II,7
+201,Intermediate Spanish,7
+220,Spanish for Heritage Learners,7
+302,Conversation and Listening Comprehension,7
+303,Written Expression,7
+335,Cultural Expressions of the Hispanic World,7
+340,Language and Culture in the Spanish- Speaking World,7
+341,Spanish for Medical Professionals,7
+346,Introduction to the Study of Hispanic Literature,7
+350,Practical and Professional Uses of Spanish,7
+450,Seminar in Spanish Peninsular Literature And Culture,7
+460,Seminar in Latin American Literature and Culture,7
+490,Senior Project,7
+100,Production Practicum,2
+103,"Art of Illusion: Costuming, Makeup and Scenery",2
+105,Acting I: Text in Performance,2
+127,Design I: Visual Principles,2
+130,Applied Instruction,2
+200,Stagecraft Practicum,2
+203,Costume History,2
+204,Lighting Design,2
+205,Acting II: Truthful Communication and Emotional Freedom,2
+206,Graphic Design I,2
+207,Contemporary Plays,2
+208,Acting: Musical Theatre,2
+222,Acting: Shakespeare,2
+300,Production Studio,2
+305,Acting: Special Topics,2
+308,Voice for Musical Theatre,2
+327,Design II: Scenography,2
+351,Theatre History I,2
+352,Theatre History II,2
+353,History of Musical Theatre,2
+360,Directing,2
+490,Senior Seminar,2
+491,Senior Project,2
+150,Introducation to Visual Communication,2
+490,Senior Project,2
+130,Introduction to Women and Gender Studies,20
+131,Contact Improvisation,20
+147,Literature of African Peoples,20
+195,Biology of Race And Sex,20
+212,Sex in the Bible and the Quran,20
+225,Women in Science,20
+240,Africana Womens Writing,20
+242,Sociology of Gender,20
+243,Time of Stalin: Literature and Memoirs Literature and Memoirs,20
+245,Literature By Women,20
+251,African-American Literature,20
+260,Identity and Power,20
+270,Psychology and Aging,20
+290,Gender and Womens History,20
+320,Women and Gender in the Classical World,20
+331,"Gender, Health and Medicine",20
+335,Masculinity in Film,20
+337,God and Gender,20
+350,Gendered Activism in a Global Context,20
+351,Gender and Crime,20
+354,"Politics, Policy and Gender",20
+361,Chaucer and Medieval Literature,20
+368,Gender in Art,20
+381,Internship,20
+468,"Seminar: Gender, Globalization, and Development",20
+485,Seminar: Topics in Women and Gender Studies,20
+490,Senior Project,20
